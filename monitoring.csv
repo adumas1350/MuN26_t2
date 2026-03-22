@@ -1,6 +1,7 @@
 code,nom,pourcentage,complet
 01194,Jassans-Riottier,"100,00",oui
 01249,Miribel,"100,00",oui
+01283,Oyonnax,"100,00",oui
 01322,Reyrieux,"100,00",oui
 01378,Saint-Maurice-de-Gourdans,"100,00",oui
 01427,Trévoux,"100,00",oui
@@ -15,7 +16,6 @@ code,nom,pourcentage,complet
 02360,Villeneuve-sur-Aisne,"100,00",oui
 02408,Laon,"100,00",oui
 02539,Nauroy,"100,00",oui
-02554,Nogentel,"100,00",oui
 02558,Le Nouvion-en-Thiérache,"100,00",oui
 02719,Sinceny,"100,00",oui
 02788,Versigny,"100,00",oui
@@ -35,6 +35,7 @@ code,nom,pourcentage,complet
 04166,Riez,"100,00",oui
 04209,Sisteron,"100,00",oui
 05006,L'Argentière-la-Bessée,"100,00",oui
+05023,Briançon,"100,00",oui
 05036,Châteauroux-les-Alpes,"100,00",oui
 05052,Eygliers,"100,00",oui
 05132,Saint-Bonnet-en-Champsaur,"100,00",oui
@@ -155,6 +156,7 @@ code,nom,pourcentage,complet
 17236,Mirambeau,"100,00",oui
 17300,La Rochelle,"100,00",oui
 17301,Romazières,"100,00",oui
+17306,Royan,"100,00",oui
 17308,Saint-Agnant,"100,00",oui
 17323,Saint-Denis-d'Oléron,"100,00",oui
 17330,Sainte-Gemme,"100,00",oui
@@ -201,6 +203,7 @@ code,nom,pourcentage,complet
 22179,Fréhel,"100,00",oui
 22198,Pleumeur-Bodou,"100,00",oui
 22201,Plévenon,"100,00",oui
+22208,Plouasne,"100,00",oui
 22211,Ploubezre,"100,00",oui
 22228,Plounévez-Moëdec,"100,00",oui
 22233,Plourivo,"100,00",oui
@@ -315,10 +318,10 @@ code,nom,pourcentage,complet
 31291,Léguevin,"100,00",oui
 31390,Montréjeau,"100,00",oui
 31461,Rouède,"100,00",oui
-31484,Saint-Geniès-Bellevue,"0,00",non
+31484,Saint-Geniès-Bellevue,"100,00",oui
 31499,Saint-Lys,"100,00",oui
 31512,Saint-Pierre-de-Lages,"100,00",oui
-31573,Verfeil,"33,33",non
+31573,Verfeil,"100,00",oui
 32013,Auch,"100,00",oui
 32160,L'Isle-Jourdain,"100,00",oui
 32290,Montréal,"100,00",oui
@@ -332,6 +335,7 @@ code,nom,pourcentage,complet
 33047,Berson,"100,00",oui
 33049,Beychac-et-Caillau,"100,00",oui
 33052,Les Billaux,"100,00",oui
+33056,Blanquefort,"100,00",oui
 33058,Blaye,"100,00",oui
 33073,Braud-et-Saint-Louis,"100,00",oui
 33075,Bruges,"100,00",oui
@@ -345,6 +349,7 @@ code,nom,pourcentage,complet
 33229,Lanton,"100,00",oui
 33236,Lège-Cap-Ferret,"100,00",oui
 33238,Léognan,"100,00",oui
+33249,Lormont,"100,00",oui
 33311,Paillet,"100,00",oui
 33312,Parempuyre,"100,00",oui
 33314,Pauillac,"100,00",oui
@@ -354,6 +359,7 @@ code,nom,pourcentage,complet
 33366,Saint-André-de-Cubzac,"100,00",oui
 33382,Saint-Christoly-de-Blaye,"100,00",oui
 33389,Saint-Ciers-sur-Gironde,"100,00",oui
+33422,Saint-Jean-d'Illac,"100,00",oui
 33478,Saint-Seurin-sur-l'Isle,"100,00",oui
 33496,Salleboeuf,"100,00",oui
 33544,Le Verdon-sur-Mer,"100,00",oui
@@ -845,8 +851,10 @@ code,nom,pourcentage,complet
 67268,Lipsheim,"100,00",oui
 67276,Lutzelhouse,"100,00",oui
 67348,Obernai,"100,00",oui
+67365,Ostwald,"100,00",oui
 67368,Ottrott,"100,00",oui
 67397,Rhinau,"100,00",oui
+67411,Rosheim,"100,00",oui
 67447,Schiltigheim,"100,00",oui
 67462,Sélestat,"100,00",oui
 67523,Weitbruch,"100,00",oui
@@ -869,6 +877,7 @@ code,nom,pourcentage,complet
 68262,Ranspach,"100,00",oui
 68298,Sainte-Marie-aux-Mines,"100,00",oui
 68334,Thann,"100,00",oui
+68359,Wattwiller,"100,00",oui
 68375,Wittelsheim,"100,00",oui
 69006,Amplepuis,"100,00",oui
 69010,L'Arbresle,"100,00",oui
@@ -969,7 +978,9 @@ code,nom,pourcentage,complet
 77493,Verneuil-l'Etang,"100,00",oui
 77510,Villeneuve-Saint-Denis,"100,00",oui
 77533,Vulaines-sur-Seine,"100,00",oui
+78171,Condé-sur-Vesgre,"100,00",oui
 78299,Hardricourt,"100,00",oui
+78300,Hargeville,"100,00",oui
 79174,Melle,"100,00",oui
 80001,Abbeville,"100,00",oui
 80010,Ailly-sur-Noye,"100,00",oui
