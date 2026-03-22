@@ -70,6 +70,7 @@ code,nom,pourcentage,complet
 09122,Foix,"100,00",oui
 09194,Mirepoix,"100,00",oui
 09200,Montbel,"100,00",oui
+09225,Pamiers,"90,90",non
 09261,Saint-Girons,"100,00",oui
 10006,Arcis-sur-Aube,"100,00",oui
 10033,Bar-sur-Aube,"100,00",oui
@@ -211,6 +212,7 @@ code,nom,pourcentage,complet
 24294,Montpon-Ménestérol,"100,00",oui
 24322,Périgueux,"100,00",oui
 24352,Ribérac,"100,00",oui
+24356,Rouffignac-Saint-Cernin-de-Reilhac,"100,00",oui
 24376,Saint Aulaye-Puymangou,"100,00",oui
 24437,Saint-Laurent-des-Vignes,"100,00",oui
 24454,Saint-Martin-de-Gurson,"100,00",oui
@@ -436,10 +438,12 @@ code,nom,pourcentage,complet
 43211,Saint-Maurice-de-Lignon,"100,00",oui
 44015,Blain,"100,00",oui
 44026,Carquefou,"100,00",oui
+44028,Le Cellier,"100,00",oui
 44049,Le Croisic,"100,00",oui
 44052,Donges,"100,00",oui
 44056,Fay-de-Bretagne,"100,00",oui
 44072,Herbignac,"100,00",oui
+44103,Montoir-de-Bretagne,"100,00",oui
 44129,Pontchâteau,"100,00",oui
 44195,Savenay,"100,00",oui
 44204,Thouaré-sur-Loire,"100,00",oui
@@ -594,6 +598,7 @@ code,nom,pourcentage,complet
 59028,Auby,"100,00",oui
 59068,Berlaimont,"100,00",oui
 59092,Bouchain,"100,00",oui
+59094,Bourbourg,"100,00",oui
 59104,Boussois,"100,00",oui
 59107,Bray-Dunes,"100,00",oui
 59115,Brunémont,"100,00",oui
@@ -623,18 +628,23 @@ code,nom,pourcentage,complet
 59365,Louvroil,"100,00",oui
 59383,Marly,"100,00",oui
 59388,Marquillies,"100,00",oui
+59414,Montigny-en-Ostrevent,"100,00",oui
 59428,Neuville-Saint-Rémy,"100,00",oui
 59482,Quesnoy-sur-Deûle,"100,00",oui
 59485,Quiévy,"100,00",oui
 59495,Recquignies,"100,00",oui
 59502,Rieux-en-Cambrésis,"100,00",oui
+59512,Roubaix,"100,00",oui
 59533,Saint-Hilaire-lez-Cambrai,"100,00",oui
 59550,Salomé,"100,00",oui
 59574,Somain,"100,00",oui
 59586,Templeuve-en-Pévèle,"100,00",oui
 59597,Tilloy-lez-Cambrai,"100,00",oui
+59599,Tourcoing,"100,00",oui
+59603,Trith-Saint-Léger,"100,00",oui
 59606,Valenciennes,"100,00",oui
 59614,Viesly,"100,00",oui
+59616,Vieux-Condé,"0,00",non
 59639,Wargnies-le-Grand,"100,00",oui
 59650,Wattrelos,"100,00",oui
 59651,Wavrechain-sous-Denain,"100,00",oui
@@ -912,8 +922,10 @@ code,nom,pourcentage,complet
 81060,Carmaux,"100,00",oui
 81069,Cordes-sur-Ciel,"100,00",oui
 81070,Coufouleux,"100,00",oui
+81099,Gaillac,"100,00",oui
 81105,Graulhet,"100,00",oui
 81128,Lacrouzette,"100,00",oui
+81144,Lescure-d'Albigeois,"75,00",non
 81206,Penne,"100,00",oui
 81220,Rabastens,"100,00",oui
 82013,Beaumont-de-Lomagne,"100,00",oui
