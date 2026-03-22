@@ -4361,7 +4361,7 @@ code,nom,pourcentage,complet
 13052,Maillane,0,non
 13053,Mallemort,0,non
 13054,Marignane,0,non
-13055,Marseille,"70,42",non
+13055,Marseille,"75,25",non
 13056,Martigues,"100,00",oui
 13057,Mas-Blanc-des-Alpilles,0,non
 13058,Maussane-les-Alpilles,0,non
@@ -34612,11 +34612,11 @@ code,nom,pourcentage,complet
 97124,Saint-Claude,"0,00",non
 97125,Saint-François,"0,00",non
 97126,Saint-Louis,0,non
-97128,Sainte-Anne,"4,00",non
+97128,Sainte-Anne,"12,00",non
 97129,Sainte-Rose,0,non
 97130,Terre-de-Bas,0,non
 97131,Terre-de-Haut,0,non
-97132,Trois-Rivières,"0,00",non
+97132,Trois-Rivières,"8,33",non
 97133,Vieux-Fort,0,non
 97134,Vieux-Habitants,0,non
 97201,L'Ajoupa-Bouillon,"0,00",non
@@ -34659,7 +34659,7 @@ code,nom,pourcentage,complet
 97304,Kourou,"25,00",non
 97305,Macouria,0,non
 97306,Mana,"100,00",oui
-97307,Matoury,"47,05",non
+97307,Matoury,"52,94",non
 97308,Saint-Georges,0,non
 97309,Remire-Montjoly,0,non
 97310,Roura,0,non

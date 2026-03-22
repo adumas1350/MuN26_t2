@@ -403,9 +403,9 @@ communes,13,Bouches-du-Rhône,13047,Istres,2,"100,00",31536,10312,21224,364,237,
 communes,13,Bouches-du-Rhône,13050,Lambesc,2,"100,00",7883,2970,4913,57,54,4802,proportionnel,1,LAMBESC EN TÊTE,LDVG,Liste divers gauche,1245,"25,93",4,4,BERGA,François,OUI
 communes,13,Bouches-du-Rhône,13050,Lambesc,2,"100,00",7883,2970,4913,57,54,4802,proportionnel,3,LAMBESC NOUVEL ELAN,LDVD,Liste divers droite,1535,"31,97",5,5,BLANC,Claire,OUI
 communes,13,Bouches-du-Rhône,13050,Lambesc,2,"100,00",7883,2970,4913,57,54,4802,proportionnel,2,LAMBESC LE RENOUVEAU,LDVC,Liste divers centre,2022,"42,11",24,24,RAZEYRE,Philippe,OUI
-communes,13,Bouches-du-Rhône,13055,Marseille,2,"70,42",367085,167950,199135,2242,2115,194778,proportionnel,3,MARSEILLE JE T'AIME AVEC MARTINE VASSAL,LDVD,Liste divers droite,10401,"5,34",0,0,VASSAL,Martine,NON
-communes,13,Bouches-du-Rhône,13055,Marseille,2,"70,42",367085,167950,199135,2242,2115,194778,proportionnel,7,"POUR MARSEILLE, LA GAUCHE, LES ECOLOGISTES ET LES CITOYENS RASSEMBLES",LUG,Liste d'union à gauche,105219,"54,02",0,0,PAYAN,Benoît,NON
-communes,13,Bouches-du-Rhône,13055,Marseille,2,"70,42",367085,167950,199135,2242,2115,194778,proportionnel,4,MARSEILLE EN ORDRE,LRN,Liste du Rassemblement National,79158,"40,64",0,0,ALLISIO,Franck,NON
+communes,13,Bouches-du-Rhône,13055,Marseille,2,"75,25",397124,181202,215922,2423,2292,211207,proportionnel,3,MARSEILLE JE T'AIME AVEC MARTINE VASSAL,LDVD,Liste divers droite,11225,"5,31",0,0,VASSAL,Martine,NON
+communes,13,Bouches-du-Rhône,13055,Marseille,2,"75,25",397124,181202,215922,2423,2292,211207,proportionnel,7,"POUR MARSEILLE, LA GAUCHE, LES ECOLOGISTES ET LES CITOYENS RASSEMBLES",LUG,Liste d'union à gauche,114586,"54,25",0,0,PAYAN,Benoît,NON
+communes,13,Bouches-du-Rhône,13055,Marseille,2,"75,25",397124,181202,215922,2423,2292,211207,proportionnel,4,MARSEILLE EN ORDRE,LRN,Liste du Rassemblement National,85396,"40,43",0,0,ALLISIO,Franck,NON
 communes,13,Bouches-du-Rhône,13056,Martigues,2,"100,00",36072,15239,20833,291,244,20298,proportionnel,1,"Martigues-belle, fière et sûre",LRN,Liste du Rassemblement National,7115,"35,05",7,7,FOUQUART,Emmanuel,OUI
 communes,13,Bouches-du-Rhône,13056,Martigues,2,"100,00",36072,15239,20833,291,244,20298,proportionnel,4,GABY CHARROUX POUR MARTIGUES !,LDVG,Liste divers gauche,8959,"44,14",32,32,CHARROUX,Gaby,OUI
 communes,13,Bouches-du-Rhône,13056,Martigues,2,"100,00",36072,15239,20833,291,244,20298,proportionnel,5,UN AVENIR POUR MARTIGUES,LDVD,Liste divers droite,4224,"20,81",4,4,DI MARIA,Jean Luc,OUI
@@ -1145,8 +1145,8 @@ communes,33,Gironde,33056,Blanquefort,2,"100,00",12266,5763,6503,71,55,6377,prop
 communes,33,Gironde,33058,Blaye,2,"100,00",3495,1580,1915,25,23,1867,proportionnel,2,Cap sur demain,LDVD,Liste divers droite,394,"21,10",3,3,MOINET,Bernard,OUI
 communes,33,Gironde,33058,Blaye,2,"100,00",3495,1580,1915,25,23,1867,proportionnel,3,"Blaye, c'est vous !",LDVG,Liste divers gauche,593,"31,76",4,4,GIROTTI,Virginie,OUI
 communes,33,Gironde,33058,Blaye,2,"100,00",3495,1580,1915,25,23,1867,proportionnel,1,Blaye Territoire d'Avenir,LDIV,Liste Divers,880,"47,13",22,22,JAPIOT,Eric,OUI
-communes,33,Gironde,33063,Bordeaux,2,"100,00",174143,74853,99290,2033,1056,96201,proportionnel,10,Faire Gagner Bordeaux,LUC,Liste d'union au centre,49014,"50,95",49,49,CAZENAVE,Thomas,OUI
-communes,33,Gironde,33063,Bordeaux,2,"100,00",174143,74853,99290,2033,1056,96201,proportionnel,4,BORDEAUX EN CONFIANCE,LUG,Liste d'union à gauche,47187,"49,05",16,16,HURMIC,Pierre,OUI
+communes,33,Gironde,33063,Bordeaux,2,"100,00",174176,74886,99290,2035,1054,96201,proportionnel,10,Faire Gagner Bordeaux,LUC,Liste d'union au centre,49014,"50,95",49,49,CAZENAVE,Thomas,OUI
+communes,33,Gironde,33063,Bordeaux,2,"100,00",174176,74886,99290,2035,1054,96201,proportionnel,4,BORDEAUX EN CONFIANCE,LUG,Liste d'union à gauche,47187,"49,05",16,16,HURMIC,Pierre,OUI
 communes,33,Gironde,33073,Braud-et-Saint-Louis,2,"100,00",1311,370,941,9,11,921,proportionnel,3,Union des intérêts communaux,,,307,"33,33",3,3,RIGAL,Jean Michel,OUI
 communes,33,Gironde,33073,Braud-et-Saint-Louis,2,"100,00",1311,370,941,9,11,921,proportionnel,2,Juste pour voir,,,332,"36,05",13,13,HUSSON,Jean Christophe,OUI
 communes,33,Gironde,33073,Braud-et-Saint-Louis,2,"100,00",1311,370,941,9,11,921,proportionnel,1,"Rassemblons-nous, pour demain à Braud-et-Saint-Louis",,,282,"30,62",3,3,ROSER,Béatrice,OUI
@@ -2899,6 +2899,24 @@ communes,69,Rhône,69288,Saint-Laurent-de-Mure,2,"100,00",4361,1795,2566,10,12,2
 metropole_lyon,69M,Métropole de Lyon,69001,Métropole de Lyon 1ère circonscription (Lones et Coteaux),2,"100,00",74233,37428,36805,628,252,35925,proportionnel,6,GRAND COEUR LYONNAIS,LDVD,Liste divers droite,18547,"51,63",9,,MOROGE,Jérôme,OUI
 metropole_lyon,69M,Métropole de Lyon,69001,Métropole de Lyon 1ère circonscription (Lones et Coteaux),2,"100,00",74233,37428,36805,628,252,35925,proportionnel,2,"Avançons ensemble, l'union de la gauche et des Ecologistes",LUG,Liste d'union à gauche,12134,"33,78",2,,KOHLHAAS,Jean-Charles,OUI
 metropole_lyon,69M,Métropole de Lyon,69001,Métropole de Lyon 1ère circonscription (Lones et Coteaux),2,"100,00",74233,37428,36805,628,252,35925,proportionnel,7,REMETTRE LA METROPOLE EN ORDRE,LRN,Liste du Rassemblement National,5244,"14,60",1,,PATOUT,Cécile,OUI
+metropole_lyon,69M,Métropole de Lyon,69002,Métropole de Lyon 2ème circonscription (Lyon-Ouest),2,"100,00",59881,22825,37056,419,205,36432,proportionnel,7,Faire mieux pour la Métropole de Lyon - La France insoumise,LFI,Liste de La France insoumise,37,"0,10",0,,BENARAB ATTOU,Malika,NON
+metropole_lyon,69M,Métropole de Lyon,69002,Métropole de Lyon 2ème circonscription (Lyon-Ouest),2,"100,00",59881,22825,37056,419,205,36432,proportionnel,9,Grand Coeur Lyonnais,LDVC,Liste divers centre,20222,"55,51",0,,CUCHERAT,Yann,NON
+metropole_lyon,69M,Métropole de Lyon,69002,Métropole de Lyon 2ème circonscription (Lyon-Ouest),2,"100,00",59881,22825,37056,419,205,36432,proportionnel,3,"Avançons ensemble, l'union de la gauche et des écologistes",LUG,Liste d'union à gauche,16173,"44,39",0,,JOURNY,François,NON
+metropole_lyon,69M,Métropole de Lyon,69003,Métropole de Lyon 3ème circonscription (Lyon-Sud),2,"100,00",50313,17183,33130,302,143,32685,proportionnel,5,Faire mieux pour la Métropole de Lyon,LFI,Liste de La France insoumise,4153,"12,71",0,,TAURAN,Léa,NON
+metropole_lyon,69M,Métropole de Lyon,69003,Métropole de Lyon 3ème circonscription (Lyon-Sud),2,"100,00",50313,17183,33130,302,143,32685,proportionnel,4,Grand Coeur Lyonnais,LDVC,Liste divers centre,11775,"36,03",0,,GEOURJON,Christophe,NON
+metropole_lyon,69M,Métropole de Lyon,69003,Métropole de Lyon 3ème circonscription (Lyon-Sud),2,"100,00",50313,17183,33130,302,143,32685,proportionnel,3,"Avançons ensemble, l'union de la gauche et des écologistes",LUG,Liste d'union à gauche,16757,"51,27",0,,VACHER,Lucie,NON
+metropole_lyon,69M,Métropole de Lyon,69004,Métropole de Lyon 4ème circonscription (Lyon-Centre),2,"100,00",67658,20749,46909,408,194,46307,proportionnel,3,"Avançons ensemble, l'union de la gauche et des écologistes",LUG,Liste d'union à gauche,21930,"47,36",0,,BOUKRALFA,Kheira,NON
+metropole_lyon,69M,Métropole de Lyon,69004,Métropole de Lyon 4ème circonscription (Lyon-Centre),2,"100,00",67658,20749,46909,408,194,46307,proportionnel,5,Grand Coeur Lyonnais,LDVC,Liste divers centre,20486,"44,24",0,,LORENTZ POINSOT,Valérie,NON
+metropole_lyon,69M,Métropole de Lyon,69004,Métropole de Lyon 4ème circonscription (Lyon-Centre),2,"100,00",67658,20749,46909,408,194,46307,proportionnel,6,Faire mieux pour la métropole de Lyon - la France Insoumise,LFI,Liste de La France insoumise,3891,"8,40",0,,GROULT,Florestan,NON
+metropole_lyon,69M,Métropole de Lyon,69005,Métropole de Lyon 5ème circonscription (Lyon-Est),2,"97,50",39117,12932,26185,290,270,25625,proportionnel,4,"Avançons ensemble, l'union de la gauche et des écologistes",LUG,Liste d'union à gauche,11366,"44,36",0,,BADOUARD,Benjamin,NON
+metropole_lyon,69M,Métropole de Lyon,69005,Métropole de Lyon 5ème circonscription (Lyon-Est),2,"97,50",39117,12932,26185,290,270,25625,proportionnel,7,GRAND COEUR LYONNAIS,LDVC,Liste divers centre,12060,"47,06",0,,BARONNIER,Hélène,NON
+metropole_lyon,69M,Métropole de Lyon,69005,Métropole de Lyon 5ème circonscription (Lyon-Est),2,"97,50",39117,12932,26185,290,270,25625,proportionnel,8,Faire mieux pour la Métropole de Lyon,LFI,Liste de La France insoumise,2199,"8,58",0,,LEVY,Albert,NON
+metropole_lyon,69M,Métropole de Lyon,69006,Métropole de Lyon 6ème circonscription (Lyon-Nord),2,"100,00",56410,16548,39862,426,207,39229,proportionnel,4,Grand Coeur Lyonnais,LDVC,Liste divers centre,22322,"56,90",0,,PEILLON,Sarah,NON
+metropole_lyon,69M,Métropole de Lyon,69006,Métropole de Lyon 6ème circonscription (Lyon-Nord),2,"100,00",56410,16548,39862,426,207,39229,proportionnel,2,"Avançons Ensemble, l'union de la gauche et des écologistes",LUG,Liste d'union à gauche,16907,"43,10",0,,RUNEL,Sandrine,NON
+metropole_lyon,69M,Métropole de Lyon,69007,Métropole de Lyon 7ème circonscription (Lyon-Sud-Est),2,"100,00",45467,19556,25911,271,131,25509,proportionnel,6,GRAND COEUR LYONNAIS,LDVC,Liste divers centre,9713,"38,08",0,,LE FAOU,Michel,NON
+metropole_lyon,69M,Métropole de Lyon,69007,Métropole de Lyon 7ème circonscription (Lyon-Sud-Est),2,"100,00",45467,19556,25911,271,131,25509,proportionnel,5,Faire mieux pour la Métropole de Lyon - La France insoumise,LFI,Liste de La France insoumise,2961,"11,61",0,,LEGENDRE,Laurent,NON
+metropole_lyon,69M,Métropole de Lyon,69007,Métropole de Lyon 7ème circonscription (Lyon-Sud-Est),2,"100,00",45467,19556,25911,271,131,25509,proportionnel,3,"Avançons ensemble, l'union de la gauche et des écologistes",LUG,Liste d'union à gauche,10440,"40,93",0,,GARIN,Marie-Charlotte,NON
+metropole_lyon,69M,Métropole de Lyon,69007,Métropole de Lyon 7ème circonscription (Lyon-Sud-Est),2,"100,00",45467,19556,25911,271,131,25509,proportionnel,7,Remettre la métropole en ordre,LEXD,Liste d'extrême droite,2395,"9,39",0,,DUPALAIS,Alexandre,NON
 metropole_lyon,69M,Métropole de Lyon,69011,Métropole de Lyon 11ème circonscription (Portes du Sud),2,"100,00",55967,34255,21712,232,170,21310,proportionnel,8,"Avançons Ensemble, l'Union de la Gauche et des Ecologistes",LUG,Liste d'union à gauche,5354,"25,12",1,,PICARD,Michèle,OUI
 metropole_lyon,69M,Métropole de Lyon,69011,Métropole de Lyon 11ème circonscription (Portes du Sud),2,"100,00",55967,34255,21712,232,170,21310,proportionnel,1,Faisons mieux pour une Métropole populaire,LFI,Liste de La France insoumise,5896,"27,67",1,,BOUMERTIT,Idir,OUI
 metropole_lyon,69M,Métropole de Lyon,69011,Métropole de Lyon 11ème circonscription (Portes du Sud),2,"100,00",55967,34255,21712,232,170,21310,proportionnel,4,Grand Coeur Lyonnais,LDVC,Liste divers centre,6907,"32,41",8,,FRIER,Nathalie,OUI
@@ -2984,9 +3002,9 @@ communes,73,Savoie,73031,Bassens,2,"100,00",3642,1681,1961,17,3,1941,proportionn
 communes,73,Savoie,73031,Bassens,2,"100,00",3642,1681,1961,17,3,1941,proportionnel,3,BASSENS EN LIEN,LDVD,Liste divers droite,488,"25,14",3,3,LUQUAIN,Audrey,OUI
 communes,73,Savoie,73054,Bourg-Saint-Maurice,2,"100,00",5355,1640,3715,44,40,3631,proportionnel,2,ACT.MONTAGNE,LDVD,Liste divers droite,1921,"52,91",22,22,UTILLE-GRAND,Cécile,OUI
 communes,73,Savoie,73054,Bourg-Saint-Maurice,2,"100,00",5355,1640,3715,44,40,3631,proportionnel,1,BAM - Bourg Saint Maurice Les Arcs en Mouvement,LDIV,Liste Divers,1710,"47,09",7,7,DESRUES,Guillaume,OUI
-communes,73,Savoie,73065,Chambéry,2,"100,00",36162,17109,19053,276,151,18626,proportionnel,2,RASSEMBLEMENT POUR CHAMBERY !,LRN,Liste du Rassemblement National,2039,"10,95",2,2,BERNARD,Brice,OUI
-communes,73,Savoie,73065,Chambéry,2,"100,00",36162,17109,19053,276,151,18626,proportionnel,3,LE PACTE,LDVD,Liste divers droite,8164,"43,83",10,10,PATEY,Vincent,OUI
-communes,73,Savoie,73065,Chambéry,2,"100,00",36162,17109,19053,276,151,18626,proportionnel,6,Chambéry avance avec Thierry Repentin,LUG,Liste d'union à gauche,8423,"45,22",33,33,REPENTIN,Thierry,OUI
+communes,73,Savoie,73065,Chambéry,2,"100,00",36162,17109,19053,278,148,18627,proportionnel,2,RASSEMBLEMENT POUR CHAMBERY !,LRN,Liste du Rassemblement National,2039,"10,95",2,2,BERNARD,Brice,OUI
+communes,73,Savoie,73065,Chambéry,2,"100,00",36162,17109,19053,278,148,18627,proportionnel,3,LE PACTE,LDVD,Liste divers droite,8165,"43,83",10,10,PATEY,Vincent,OUI
+communes,73,Savoie,73065,Chambéry,2,"100,00",36162,17109,19053,278,148,18627,proportionnel,6,Chambéry avance avec Thierry Repentin,LUG,Liste d'union à gauche,8423,"45,22",33,33,REPENTIN,Thierry,OUI
 communes,73,Savoie,73182,Mouxy,2,"100,00",2054,812,1242,13,6,1223,proportionnel,1,S'ENGAGER POUR MOUXY,,,567,"46,36",14,14,MORET,Jean-Paul,OUI
 communes,73,Savoie,73182,Mouxy,2,"100,00",2054,812,1242,13,6,1223,proportionnel,2,MOUXY. Un avenir en commun,,,382,"31,23",3,3,VULLIERMET,Ludovic,OUI
 communes,73,Savoie,73182,Mouxy,2,"100,00",2054,812,1242,13,6,1223,proportionnel,3,"MOUXY, C'EST VOUS !",,,274,"22,40",2,2,CODDET,Emmanuelle,OUI
@@ -4120,11 +4138,13 @@ communes,95,Val-d'Oise,95641,Vémars,2,"100,00",1944,798,1146,7,4,1135,proportio
 communes,95,Val-d'Oise,95641,Vémars,2,"100,00",1944,798,1146,7,4,1135,proportionnel,3,VEMARS ENSEMBLE POUR L'AVENIR,,,309,"27,22",3,3,DIDIER,Frédéric,OUI
 communes,95,Val-d'Oise,95680,Villiers-le-Bel,2,"100,00",13689,6881,6808,74,78,6656,proportionnel,1,"AVEC VOUS, POUR VOUS",LSOC,Liste du Parti socialiste,3415,"51,31",30,30,TECHTACH,Djida,OUI
 communes,95,Val-d'Oise,95680,Villiers-le-Bel,2,"100,00",13689,6881,6808,74,78,6656,proportionnel,4,VIILIERS LE BEL EN AVANT TOUS ENSEMBLE,LFI,Liste de La France insoumise,3241,"48,69",9,9,BILONGO,Carlos Martens,OUI
-communes,971,Guadeloupe,97110,La Désirade,2,"33,33",281,59,222,2,1,219,proportionnel,4,"Ensemble, Allons plus loin pour la Désirade",,,94,"42,92",0,0,TONTON,Loïc,NON
-communes,971,Guadeloupe,97110,La Désirade,2,"33,33",281,59,222,2,1,219,proportionnel,6,"ENSEMBLE, REPRENONS LE CAP POUR UNE DESIRADE GAGNANTE",,,125,"57,08",0,0,PIOCHE,Jean-Claude,NON
-communes,971,Guadeloupe,97128,Sainte-Anne,2,"4,00",1939,944,995,22,17,956,proportionnel,4,"SAINTE-ANNE AVEC VOUS, POUR VOUS !",LDVG,Liste divers gauche,212,"22,18",0,0,FARO EPOUSE COURIOL,Lydia,NON
-communes,971,Guadeloupe,97128,Sainte-Anne,2,"4,00",1939,944,995,22,17,956,proportionnel,9,LE RENOUVEAU SAINTANNAIS,LDIV,Liste Divers,405,"42,36",0,0,PERRAN,Diana,NON
-communes,971,Guadeloupe,97128,Sainte-Anne,2,"4,00",1939,944,995,22,17,956,proportionnel,8,RASSEMBLEMENT DEMOCRATIQUE SAINTANNAIS,LDVG,Liste divers gauche,339,"35,46",0,0,BAPTISTE,Francs,NON
+communes,971,Guadeloupe,97110,La Désirade,2,"33,33",644,101,543,6,8,529,proportionnel,4,"Ensemble, Allons plus loin pour la Désirade",,,275,"51,98",0,0,TONTON,Loïc,NON
+communes,971,Guadeloupe,97110,La Désirade,2,"33,33",644,101,543,6,8,529,proportionnel,6,"ENSEMBLE, REPRENONS LE CAP POUR UNE DESIRADE GAGNANTE",,,254,"48,02",0,0,PIOCHE,Jean-Claude,NON
+communes,971,Guadeloupe,97128,Sainte-Anne,2,"12,00",3611,1682,1929,36,60,1833,proportionnel,4,"SAINTE-ANNE AVEC VOUS, POUR VOUS !",LDVG,Liste divers gauche,379,"20,68",0,0,FARO EPOUSE COURIOL,Lydia,NON
+communes,971,Guadeloupe,97128,Sainte-Anne,2,"12,00",3611,1682,1929,36,60,1833,proportionnel,9,LE RENOUVEAU SAINTANNAIS,LDIV,Liste Divers,720,"39,28",0,0,PERRAN,Diana,NON
+communes,971,Guadeloupe,97128,Sainte-Anne,2,"12,00",3611,1682,1929,36,60,1833,proportionnel,8,RASSEMBLEMENT DEMOCRATIQUE SAINTANNAIS,LDVG,Liste divers gauche,734,"40,04",0,0,BAPTISTE,Francs,NON
+communes,971,Guadeloupe,97132,Trois-Rivières,2,"8,33",320,154,166,0,6,160,proportionnel,4,TROIS-RIVIERES ENSEMBLE,LDIV,Liste Divers,96,"60,00",0,0,FAUSTA,Jimmy,NON
+communes,971,Guadeloupe,97132,Trois-Rivières,2,"8,33",320,154,166,0,6,160,proportionnel,3,"Agissons Ensemble, Allons encore plus loin",LDVC,Liste divers centre,64,"40,00",0,0,FRANCISQUE,Jean-Louis,NON
 communes,972,Martinique,97209,Fort-de-France,2,"4,00",1123,750,373,5,7,361,proportionnel,1,NOU DOUBOUT POU FODFWANS APY !,LREG,Liste régionaliste,62,"17,17",0,0,MOREAU,Steeve,NON
 communes,972,Martinique,97209,Fort-de-France,2,"4,00",1123,750,373,5,7,361,proportionnel,5,DEMOCRATES ET PROGRESSISTES,LDVG,Liste divers gauche,219,"60,66",0,0,LAGUERRE,Didier,NON
 communes,972,Martinique,97209,Fort-de-France,2,"4,00",1123,750,373,5,7,361,proportionnel,6,AKSYON FOYAL POU DÉMARÉ FODFWANS,LREG,Liste régionaliste,80,"22,16",0,0,CAROLE,Francis,NON
@@ -4134,8 +4154,8 @@ communes,973,Guyane,97304,Kourou,2,"25,00",2624,1068,1556,27,21,1508,proportionn
 communes,973,Guyane,97304,Kourou,2,"25,00",2624,1068,1556,27,21,1508,proportionnel,3,AVENIR KOUROUCIEN,LDIV,Liste Divers,539,"35,74",0,0,RIMANE,Michael,NON
 communes,973,Guyane,97306,Mana,2,"100,00",3375,1032,2343,9,10,2324,proportionnel,1,MANA DEMAIN,LDVG,Liste divers gauche,1191,"51,25",25,25,BENTH,Alberic,OUI
 communes,973,Guyane,97306,Mana,2,"100,00",3375,1032,2343,9,10,2324,proportionnel,4,NOUVEL ELAN MANANAIS,LDIV,Liste Divers,1133,"48,75",8,8,JADFARD,Jean-Claude,OUI
-communes,973,Guyane,97307,Matoury,2,"47,05",7787,4027,3760,67,59,3634,proportionnel,4,Viv Matoury,LREG,Liste régionaliste,1783,"49,06",0,0,GRAND-EMILE,Eline,NON
-communes,973,Guyane,97307,Matoury,2,"47,05",7787,4027,3760,67,59,3634,proportionnel,2,Matoury 2026 - AVEC VOUS ENCORE PLUS LOIN,LDVG,Liste divers gauche,1851,"50,94",0,0,SMOCK,Serge,NON
+communes,973,Guyane,97307,Matoury,2,"52,94",7787,4027,3760,67,59,3634,proportionnel,4,Viv Matoury,LREG,Liste régionaliste,1783,"49,06",0,0,GRAND-EMILE,Eline,NON
+communes,973,Guyane,97307,Matoury,2,"52,94",7787,4027,3760,67,59,3634,proportionnel,2,Matoury 2026 - AVEC VOUS ENCORE PLUS LOIN,LDVG,Liste divers gauche,1851,"50,94",0,0,SMOCK,Serge,NON
 communes,974,La Réunion,97408,La Possession,2,"100,00",26407,11454,14953,208,178,14567,proportionnel,7,LE CHANGEMENT C'EST NOUS,LDVG,Liste divers gauche,7334,"50,35",30,30,FONTAINE,Erick,OUI
 communes,974,La Réunion,97408,La Possession,2,"100,00",26407,11454,14953,208,178,14567,proportionnel,5,LA POSSESSION EN ACTION 2026,LECO,Liste écologiste,7233,"49,65",9,9,MIRANVILLE,Vanessa,OUI
 communes,974,La Réunion,97409,Saint-André,2,"100,00",42938,17571,25367,474,577,24316,proportionnel,11,"SAINT-ANDRE, HORIZON 2032",LDVG,Liste divers gauche,12175,"50,07",34,34,BEDIER,Joé,OUI
