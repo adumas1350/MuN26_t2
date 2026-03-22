@@ -4283,30 +4283,30 @@ code,nom,pourcentage,complet
 12303,Vimenet,0,non
 12305,Viviez,0,non
 12307,Curan,0,non
-13055SR01,Marseille Secteur 1,"64,44",non
+13055SR01,Marseille Secteur 1,"66,66",non
 13055SR02,Marseille Secteur 2,"94,28",non
-13055SR03,Marseille Secteur 3,"88,88",non
-13055SR04,Marseille Secteur 4,"41,89",non
-13055SR05,Marseille Secteur 5,"89,15",non
-13055SR06,Marseille Secteur 6,"69,33",non
-13055SR07,Marseille Secteur 7,"72,28",non
-13055SR08,Marseille Secteur 8,"75,00",non
-13201,Marseille 1er arrondissement,"44,44",non
+13055SR03,Marseille Secteur 3,"92,59",non
+13055SR04,Marseille Secteur 4,"55,40",non
+13055SR05,Marseille Secteur 5,"95,18",non
+13055SR06,Marseille Secteur 6,"74,66",non
+13055SR07,Marseille Secteur 7,"75,90",non
+13055SR08,Marseille Secteur 8,"81,25",non
+13201,Marseille 1er arrondissement,"50,00",non
 13202,Marseille 2eme arrondissement,"100,00",oui
 13203,Marseille 3eme arrondissement,"90,47",non
-13204,Marseille 4eme arrondissement,"85,71",non
+13204,Marseille 4eme arrondissement,"92,85",non
 13205,Marseille 5eme arrondissement,"92,30",non
-13206,Marseille 6eme arrondissement,"20,83",non
+13206,Marseille 6eme arrondissement,"50,00",non
 13207,Marseille 7eme arrondissement,"77,77",non
-13208,Marseille 8eme arrondissement,"52,00",non
-13209,Marseille 9eme arrondissement,"86,00",non
-13210,Marseille 10eme arrondissement,"93,93",non
-13211,Marseille 11eme arrondissement,"68,57",non
-13212,Marseille 12eme arrondissement,"70,00",non
-13213,Marseille 13eme arrondissement,"73,07",non
-13214,Marseille 14eme arrondissement,"70,96",non
-13215,Marseille 15eme arrondissement,"72,22",non
-13216,Marseille 16eme arrondissement,"83,33",non
+13208,Marseille 8eme arrondissement,"58,00",non
+13209,Marseille 9eme arrondissement,"92,00",non
+13210,Marseille 10eme arrondissement,"100,00",oui
+13211,Marseille 11eme arrondissement,"71,42",non
+13212,Marseille 12eme arrondissement,"77,50",non
+13213,Marseille 13eme arrondissement,"76,92",non
+13214,Marseille 14eme arrondissement,"74,19",non
+13215,Marseille 15eme arrondissement,"77,77",non
+13216,Marseille 16eme arrondissement,"91,66",non
 13001,Aix-en-Provence,"100,00",oui
 13002,Allauch,0,non
 13003,Alleins,0,non
@@ -4361,7 +4361,7 @@ code,nom,pourcentage,complet
 13052,Maillane,0,non
 13053,Mallemort,0,non
 13054,Marignane,0,non
-13055,Marseille,"75,25",non
+13055,Marseille,"80,08",non
 13056,Martigues,"100,00",oui
 13057,Mas-Blanc-des-Alpilles,0,non
 13058,Maussane-les-Alpilles,0,non
@@ -34595,8 +34595,8 @@ code,nom,pourcentage,complet
 97106,Bouillante,0,non
 97107,Capesterre-Belle-Eau,0,non
 97108,Capesterre-de-Marie-Galante,0,non
-97109,Gourbeyre,"0,00",non
-97110,La Désirade,"33,33",non
+97109,Gourbeyre,"14,28",non
+97110,La Désirade,"66,66",non
 97111,Deshaies,0,non
 97112,Grand-Bourg,"0,00",non
 97113,Le Gosier,"0,00",non
@@ -34609,10 +34609,10 @@ code,nom,pourcentage,complet
 97120,Pointe-à-Pitre,0,non
 97121,Pointe-Noire,0,non
 97122,Port-Louis,"0,00",non
-97124,Saint-Claude,"0,00",non
+97124,Saint-Claude,"10,00",non
 97125,Saint-François,"0,00",non
 97126,Saint-Louis,0,non
-97128,Sainte-Anne,"12,00",non
+97128,Sainte-Anne,"16,00",non
 97129,Sainte-Rose,0,non
 97130,Terre-de-Bas,0,non
 97131,Terre-de-Haut,0,non
@@ -34627,7 +34627,7 @@ code,nom,pourcentage,complet
 97206,Le Diamant,0,non
 97207,Ducos,0,non
 97208,Fonds-Saint-Denis,0,non
-97209,Fort-de-France,"4,00",non
+97209,Fort-de-France,"6,00",non
 97210,Le François,0,non
 97211,Grand'Rivière,0,non
 97212,Gros-Morne,"0,00",non
@@ -34644,7 +34644,7 @@ code,nom,pourcentage,complet
 97223,Saint-Esprit,0,non
 97224,Saint-Joseph,0,non
 97225,Saint-Pierre,"0,00",non
-97226,Sainte-Anne,"0,00",non
+97226,Sainte-Anne,"33,33",non
 97227,Sainte-Luce,0,non
 97228,Sainte-Marie,0,non
 97229,Schoelcher,"0,00",non
@@ -34656,19 +34656,19 @@ code,nom,pourcentage,complet
 97301,Régina,0,non
 97302,Cayenne,0,non
 97303,Iracoubo,0,non
-97304,Kourou,"25,00",non
+97304,Kourou,"41,66",non
 97305,Macouria,0,non
 97306,Mana,"100,00",oui
 97307,Matoury,"52,94",non
 97308,Saint-Georges,0,non
 97309,Remire-Montjoly,0,non
 97310,Roura,0,non
-97311,Saint-Laurent-du-Maroni,"0,00",non
+97311,Saint-Laurent-du-Maroni,"6,25",non
 97312,Sinnamary,0,non
 97313,Montsinéry-Tonnegrande,"0,00",non
 97314,Ouanary,0,non
 97352,Saül,0,non
-97353,Maripasoula,"0,00",non
+97353,Maripasoula,"75,00",non
 97356,Camopi,0,non
 97357,Grand-Santi,0,non
 97358,Saint-Elie,0,non
