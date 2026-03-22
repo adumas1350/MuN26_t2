@@ -60,8 +60,8 @@ communes,03,Allier,03225,Saint-Désiré,2,"100,00",398,84,314,3,1,310,proportion
 communes,03,Allier,03315,Villefranche-d'Allier,2,"100,00",835,160,675,2,6,667,proportionnel,1,Agir ensemble pour Villefranche,,,218,"32,68",2,2,BUREAU,David,OUI
 communes,03,Allier,03315,Villefranche-d'Allier,2,"100,00",835,160,675,2,6,667,proportionnel,2,"CONTINUONS, POUR VILLEFRANCHE",,,130,"19,49",1,1,LABOISSE,Denis,OUI
 communes,03,Allier,03315,Villefranche-d'Allier,2,"100,00",835,160,675,2,6,667,proportionnel,3,AVEC VOUS,,,319,"47,83",12,12,AUBERGER,Josiane,OUI
-communes,04,Alpes-de-Haute-Provence,04070,Digne-les-Bains,2,"92,30",11239,4468,6771,151,115,6505,proportionnel,5,Terre Dignoise 2026,LDVC,Liste divers centre,2545,"39,12",6,6,CHALVET,Gilles,OUI
-communes,04,Alpes-de-Haute-Provence,04070,Digne-les-Bains,2,"92,30",11239,4468,6771,151,115,6505,proportionnel,1,TOUJOURS DIGNE,LDVG,Liste divers gauche,3960,"60,88",27,27,DI BENEDETTO,Julien,OUI
+communes,04,Alpes-de-Haute-Provence,04070,Digne-les-Bains,2,"100,00",11239,4468,6771,151,115,6505,proportionnel,5,Terre Dignoise 2026,LDVC,Liste divers centre,2545,"39,12",6,6,CHALVET,Gilles,OUI
+communes,04,Alpes-de-Haute-Provence,04070,Digne-les-Bains,2,"100,00",11239,4468,6771,151,115,6505,proportionnel,1,TOUJOURS DIGNE,LDVG,Liste divers gauche,3960,"60,88",27,27,DI BENEDETTO,Julien,OUI
 communes,04,Alpes-de-Haute-Provence,04084,Estoublon,2,"100,00",408,55,353,5,3,345,proportionnel,1,Ensemble pour l'Avenir d'ESTOUBLON,,,47,"13,62",0,,MAZZARA,Serge,NON
 communes,04,Alpes-de-Haute-Provence,04084,Estoublon,2,"100,00",408,55,353,5,3,345,proportionnel,2,à Coeur pour Estoublon,,,125,"36,23",2,,DEMICHELIS,Annie,OUI
 communes,04,Alpes-de-Haute-Provence,04084,Estoublon,2,"100,00",408,55,353,5,3,345,proportionnel,3,ESTOUBLON avec passion et ambitions,,,173,"50,14",9,,TOUSSAINT,Carole,OUI
@@ -188,9 +188,19 @@ communes,12,Aveyron,12197,Réquista,2,"100,00",1574,337,1237,19,29,1189,proporti
 communes,12,Aveyron,12231,Saint-Jean-du-Bruel,2,"100,00",623,116,507,4,3,500,proportionnel,1,Notre avenir pour Saint-Jean,,,232,"46,40",12,,DAUMAS,Jean-Michel,OUI
 communes,12,Aveyron,12231,Saint-Jean-du-Bruel,2,"100,00",623,116,507,4,3,500,proportionnel,3,"SAINT-JEAN-DU-BRUEL, UN VILLAGE VIVANT",,,103,"20,60",1,,VALIERE,Virginie,OUI
 communes,12,Aveyron,12231,Saint-Jean-du-Bruel,2,"100,00",623,116,507,4,3,500,proportionnel,2,DES AMBITIONS POUR SAINT JEAN,,,165,"33,00",2,,QUATREFAGES,Damien,OUI
+communes,13,Bouches-du-Rhône,13021,Carry-le-Rouet,2,"100,00",5549,1848,3701,97,48,3556,proportionnel,5,CARRY LE ROUET VOTRE VILLAGE VOTRE CHOIX,LDVD,Liste divers droite,1531,"43,05",6,6,GUARINO,Valérie,OUI
+communes,13,Bouches-du-Rhône,13021,Carry-le-Rouet,2,"100,00",5549,1848,3701,97,48,3556,proportionnel,2,ENSEMBLE POUR CARRY-LE-ROUET,LDVD,Liste divers droite,2025,"56,95",23,23,CARPENTIER,René-Francis,OUI
+communes,13,Bouches-du-Rhône,13032,Eguilles,2,"100,00",7337,2401,4936,48,19,4869,proportionnel,4,"UNIS POUR EGUILLES, L'ALTERNATIVE POUR LE VILLAGE",LDVC,Liste divers centre,2284,"46,91",7,7,CLERC,Romain,OUI
+communes,13,Bouches-du-Rhône,13032,Eguilles,2,"100,00",7337,2401,4936,48,19,4869,proportionnel,1,Avec Renaud Dagorne - Eguilles un village pour tous,LDVD,Liste divers droite,2585,"53,09",22,22,DAGORNE,Renaud,OUI
 communes,13,Bouches-du-Rhône,13035,Eyguières,2,"100,00",6493,1768,4725,22,37,4666,proportionnel,2,EYGUIERES FAIRE AUTREMENT AVEC VOUS,LDVC,Liste divers centre,1482,"31,76",5,5,TOURON,Audrey,OUI
 communes,13,Bouches-du-Rhône,13035,Eyguières,2,"100,00",6493,1768,4725,22,37,4666,proportionnel,3,ENSEMBLE PRESERVONS EYGUIERES,LDVD,Liste divers droite,2033,"43,57",21,21,DURAND,Frédéric,OUI
 communes,13,Bouches-du-Rhône,13035,Eyguières,2,"100,00",6493,1768,4725,22,37,4666,proportionnel,1,POUR EYGUIERES,LDVD,Liste divers droite,1151,"24,67",3,3,PONS,Henri,OUI
+communes,13,Bouches-du-Rhône,13039,Fos-sur-Mer,2,"100,00",13402,4756,8646,67,70,8509,proportionnel,5,NOUS SOMMES FOS,LDVG,Liste divers gauche,1909,"22,44",3,3,LEROY,Jean-Michel,OUI
+communes,13,Bouches-du-Rhône,13039,Fos-sur-Mer,2,"100,00",13402,4756,8646,67,70,8509,proportionnel,3,"FOS ENSEMBLE, EN MIEUX !",LDVD,Liste divers droite,4105,"48,24",25,25,MAURIZOT,Philippe,OUI
+communes,13,Bouches-du-Rhône,13039,Fos-sur-Mer,2,"100,00",13402,4756,8646,67,70,8509,proportionnel,2,NOTRE FOS,LDVG,Liste divers gauche,2495,"29,32",5,5,ESNAULT,Rémi,OUI
+communes,13,Bouches-du-Rhône,13047,Istres,2,"100,00",31536,10312,21224,364,237,20623,proportionnel,1,NOUS SOMMES ISTRES,LDVG,Liste divers gauche,6476,"31,40",7,7,BERNARDINI,François,OUI
+communes,13,Bouches-du-Rhône,13047,Istres,2,"100,00",31536,10312,21224,364,237,20623,proportionnel,2,"ISTRES, L'ENERGIE DU CHANGEMENT",LRN,Liste du Rassemblement National,1806,"8,76",1,1,BROC,Damien,OUI
+communes,13,Bouches-du-Rhône,13047,Istres,2,"100,00",31536,10312,21224,364,237,20623,proportionnel,3,"ISTRES, DE TOUTE SON AME !",LDVD,Liste divers droite,12341,"59,84",35,35,PRÉTOT,Robin,OUI
 communes,13,Bouches-du-Rhône,13050,Lambesc,2,"100,00",7883,2970,4913,57,54,4802,proportionnel,1,LAMBESC EN TÊTE,LDVG,Liste divers gauche,1245,"25,93",4,4,BERGA,François,OUI
 communes,13,Bouches-du-Rhône,13050,Lambesc,2,"100,00",7883,2970,4913,57,54,4802,proportionnel,3,LAMBESC NOUVEL ELAN,LDVD,Liste divers droite,1535,"31,97",5,5,BLANC,Claire,OUI
 communes,13,Bouches-du-Rhône,13050,Lambesc,2,"100,00",7883,2970,4913,57,54,4802,proportionnel,2,LAMBESC LE RENOUVEAU,LDVC,Liste divers centre,2022,"42,11",24,24,RAZEYRE,Philippe,OUI
@@ -201,6 +211,12 @@ communes,13,Bouches-du-Rhône,13066,Noves,2,"100,00",4662,1505,3157,17,33,3107,p
 communes,13,Bouches-du-Rhône,13086,Roquevaire,2,"100,00",7547,2362,5185,48,21,5116,proportionnel,5,MIEUX VIVRE ROQUEVAIRE,LDVC,Liste divers centre,2299,"44,94",22,22,BOUILLÉ,Eric,OUI
 communes,13,Bouches-du-Rhône,13086,Roquevaire,2,"100,00",7547,2362,5185,48,21,5116,proportionnel,1,ROQUEVAIRE UNE AMBITION RENOUVELEE,LDVG,Liste divers gauche,2161,"42,24",6,6,SPINELLI,Hélène,OUI
 communes,13,Bouches-du-Rhône,13086,Roquevaire,2,"100,00",7547,2362,5185,48,21,5116,proportionnel,4,ROQUEVAIRE A COEUR ENSEMBLE POUR L'AVENIR,LUDR,Liste d'union des droites pour la République,656,"12,82",1,1,BERTIN,Marie France,OUI
+communes,13,Bouches-du-Rhône,13095,Saint-Marc-Jaumegarde,2,"100,00",1128,195,933,7,2,924,proportionnel,2,Avancer ensemble pour Saint-Marc,,,176,"19,05",1,1,PEYRONNET,Agnès,OUI
+communes,13,Bouches-du-Rhône,13095,Saint-Marc-Jaumegarde,2,"100,00",1128,195,933,7,2,924,proportionnel,1,Saint Marc Autrement,,,391,"42,32",11,11,MARKARIAN,Patrick,OUI
+communes,13,Bouches-du-Rhône,13095,Saint-Marc-Jaumegarde,2,"100,00",1128,195,933,7,2,924,proportionnel,3,"NOUVEL ELAN, MÊME CAP",,,357,"38,64",3,3,GENEVEY,François,OUI
+communes,13,Bouches-du-Rhône,13102,Saint-Victoret,2,"100,00",5320,2264,3056,51,18,2987,proportionnel,2,SAINT-VICTORET C'EST VOUS,LDVD,Liste divers droite,426,"14,26",2,2,ZOULALIAN,Sabine,OUI
+communes,13,Bouches-du-Rhône,13102,Saint-Victoret,2,"100,00",5320,2264,3056,51,18,2987,proportionnel,3,UNIS POUR SAINT VICTORET D'ABORD,LDVD,Liste divers droite,967,"32,37",4,4,GELSI,Pierre,OUI
+communes,13,Bouches-du-Rhône,13102,Saint-Victoret,2,"100,00",5320,2264,3056,51,18,2987,proportionnel,5,"SAINT VICTORET, ENSEMBLE POUR LE MEILLEUR",LLR,Liste des Républicains,1594,"53,36",23,23,PICCIRILLO,Claude,OUI
 communes,13,Bouches-du-Rhône,13104,Sausset-les-Pins,2,"100,00",7182,2390,4792,43,21,4728,proportionnel,1,SAUSSET REUNI,LDVC,Liste divers centre,2349,"49,68",22,22,MARCHAND,Maxime,OUI
 communes,13,Bouches-du-Rhône,13104,Sausset-les-Pins,2,"100,00",7182,2390,4792,43,21,4728,proportionnel,2,UNIS POUR NOTRE VILLAGE,LRN,Liste du Rassemblement National,625,"13,22",2,2,VARGAS,Jean-Charles,OUI
 communes,13,Bouches-du-Rhône,13104,Sausset-les-Pins,2,"100,00",7182,2390,4792,43,21,4728,proportionnel,3,ENSEMBLE PRESERVONS SAUSSET,LDVD,Liste divers droite,1754,"37,10",5,5,DIARD,Eric,OUI
@@ -396,9 +412,17 @@ communes,21,Côte-d'Or,21615,Sussey,2,"100,00",218,24,194,0,1,193,proportionnel,
 communes,21,Côte-d'Or,21615,Sussey,2,"100,00",218,24,194,0,1,193,proportionnel,2,Agir Ensemble,,,94,"48,70",2,,SAGETAT,Gerard,OUI
 communes,21,Côte-d'Or,21655,Vanvey,2,"100,00",194,41,153,4,2,147,proportionnel,3,Des engagements pour bien vivre à Vanvey,,,80,"54,42",9,,VINCENT,Philippe,OUI
 communes,21,Côte-d'Or,21655,Vanvey,2,"100,00",194,41,153,4,2,147,proportionnel,1,"Agir, tous ensemble pour l'avenir de Vanvey",,,67,"45,58",2,,ROGER,Émeric,OUI
+communes,22,Côtes-d'Armor,22055,Binic-Etables-sur-Mer,2,"100,00",6545,2435,4110,61,55,3994,proportionnel,2,Uni.e.s dans l'action,LDVG,Liste divers gauche,2083,"52,15",26,26,LARUPT,Gaël-Erwan,OUI
+communes,22,Côtes-d'Armor,22055,Binic-Etables-sur-Mer,2,"100,00",6545,2435,4110,61,55,3994,proportionnel,3,Énergie citoyenne,LDVG,Liste divers gauche,548,"13,72",2,2,BERTRAND,Gilbert,OUI
+communes,22,Côtes-d'Armor,22055,Binic-Etables-sur-Mer,2,"100,00",6545,2435,4110,61,55,3994,proportionnel,1,Ensemble & autrement,LDVD,Liste divers droite,1363,"34,13",5,5,FRANCILLETTE,Frédéric,OUI
 communes,22,Côtes-d'Armor,22072,Gurunhuel,2,"100,00",354,58,296,2,1,293,proportionnel,2,"Gurunhuel, un nouvel élan",,,122,"41,64",2,,QUÉLEN,Philippe,OUI
 communes,22,Côtes-d'Armor,22072,Gurunhuel,2,"100,00",354,58,296,2,1,293,proportionnel,4,"GURUNHUEL, UN BOCAGE ACCUEILLANT ET SOLIDAIRE",,,36,"12,29",0,,CHAPELAIN,Rémy,NON
 communes,22,Côtes-d'Armor,22072,Gurunhuel,2,"100,00",354,58,296,2,1,293,proportionnel,1,pour un avenir ensemble à Gurunhuel,,,135,"46,08",9,,DANIEL,Anne Yvonne,OUI
+communes,22,Côtes-d'Armor,22106,Langueux,2,"100,00",6260,2537,3723,91,63,3569,proportionnel,3,"Langueux - Les Grèves, l'élan continue",LDVC,Liste divers centre,2089,"58,53",23,23,HAAS,Richard,OUI
+communes,22,Côtes-d'Armor,22106,Langueux,2,"100,00",6260,2537,3723,91,63,3569,proportionnel,2,Langueux demain,LDVG,Liste divers gauche,1480,"41,47",6,6,TRAISSAC,Valérie,OUI
+communes,22,Côtes-d'Armor,22113,Lannion,2,"100,00",14368,5980,8388,114,104,8170,proportionnel,1,Lannion Ville écologique et solidaire,LUG,Liste d'union à gauche,3911,"47,87",26,26,ROBERT,Eric,OUI
+communes,22,Côtes-d'Armor,22113,Lannion,2,"100,00",14368,5980,8388,114,104,8170,proportionnel,3,OSONS LANNION,LRN,Liste du Rassemblement National,1606,"19,66",3,3,LE GOFFIC,Blanche,OUI
+communes,22,Côtes-d'Armor,22113,Lannion,2,"100,00",14368,5980,8388,114,104,8170,proportionnel,5,LANNION COLLECTIF,LDVG,Liste divers gauche,2653,"32,47",6,6,DIVERCHY,Michel,OUI
 communes,22,Côtes-d'Armor,22147,Merdrignac,2,"100,00",2343,589,1754,6,13,1735,proportionnel,3,ÉCHANGER PARTAGER AGIR POUR TOUS,,,796,"45,88",20,20,GORÉ CHAPEL,Isabelle,OUI
 communes,22,Côtes-d'Armor,22147,Merdrignac,2,"100,00",2343,589,1754,6,13,1735,proportionnel,1,Décidons et agissons ensemble,,,266,"15,33",2,2,DAUNAY,Dominique,OUI
 communes,22,Côtes-d'Armor,22147,Merdrignac,2,"100,00",2343,589,1754,6,13,1735,proportionnel,2,"Bien grandir, bien vivre et bien vieillir à Merdrignac et Saint-Launeuc",,,673,"38,79",5,5,ROBIN,Eric,OUI
@@ -2053,19 +2077,23 @@ communes,81,Tarn,81004,Albi,2,"100,00",33135,13887,19248,256,260,18732,proportio
 communes,81,Tarn,81004,Albi,2,"100,00",33135,13887,19248,256,260,18732,proportionnel,1,ALBI RAYONNANTE ET SÉCURISÉE,LRN,Liste du Rassemblement National,3057,"16,32",4,4,CABROLIER,Frédéric,OUI
 communes,81,Tarn,81004,Albi,2,"100,00",33135,13887,19248,256,260,18732,proportionnel,3,"Pour les Albigeois, différemment",LDVD,Liste divers droite,2132,"11,38",2,2,AT,Marie-Louise,OUI
 communes,81,Tarn,81004,Albi,2,"100,00",33135,13887,19248,256,260,18732,proportionnel,4,ALBI ENSEMBLE,LDVD,Liste divers droite,8268,"44,14",33,33,GUIRAUD-CHAUMEIL,Stéphanie,OUI
+communes,81,Tarn,81039,Briatexte,2,"100,00",1559,537,1022,15,28,979,proportionnel,2,AGISSONS AUJOURD'HUI POUR BIEN VIVRE DEMAIN,,,430,"43,92",4,4,CONDAT,Laurent,OUI
+communes,81,Tarn,81039,Briatexte,2,"100,00",1559,537,1022,15,28,979,proportionnel,1,RACINES ET AVENIR BRIATEXTE,,,549,"56,08",15,15,ANGOSTO,Richard,OUI
 communes,81,Tarn,81060,Carmaux,2,"100,00",7017,2662,4355,55,78,4222,proportionnel,1,"CARMAUX, POUR VOUS: SÉCURITÉ ET BON SENS",LRN,Liste du Rassemblement National,1139,"26,98",4,4,ANDRIEU,Gweenael,OUI
 communes,81,Tarn,81060,Carmaux,2,"100,00",7017,2662,4355,55,78,4222,proportionnel,3,"Notre priorité, Carmaux !",LDVG,Liste divers gauche,1246,"29,51",4,4,BOUSQUET,Jean-Louis,OUI
 communes,81,Tarn,81060,Carmaux,2,"100,00",7017,2662,4355,55,78,4222,proportionnel,2,UNIS POUR CARMAUX,LUG,Liste d'union à gauche,1837,"43,51",21,21,BOUYSSIÉ,François,OUI
 communes,81,Tarn,81069,Cordes-sur-Ciel,2,"100,00",662,139,523,3,5,515,proportionnel,2,L'ESPRIT CORDAIS,,,237,"46,02",11,,MARTY,Patricia,OUI
 communes,81,Tarn,81069,Cordes-sur-Ciel,2,"100,00",662,139,523,3,5,515,proportionnel,3,UNIS POUR L'AVENIR CORDAIS,,,192,"37,28",3,,ANDRIEU,Bernard,OUI
 communes,81,Tarn,81069,Cordes-sur-Ciel,2,"100,00",662,139,523,3,5,515,proportionnel,1,Ensemble pour Cordes,,,86,"16,70",1,,LE GUERRANNIC,Claude,OUI
-communes,81,Tarn,81070,Coufouleux,2,"66,66",2522,760,1762,36,25,1701,proportionnel,2,UNIS POUR COUFFOULEUX,,,897,"52,73",18,18,LABORIE,Jean-Claude,OUI
-communes,81,Tarn,81070,Coufouleux,2,"66,66",2522,760,1762,36,25,1701,proportionnel,1,COUFFOULEUX EN MOUVEMENT,,,804,"47,27",5,5,MILLET,Anne,OUI
+communes,81,Tarn,81070,Coufouleux,2,"100,00",2522,760,1762,36,25,1701,proportionnel,2,UNIS POUR COUFFOULEUX,,,897,"52,73",18,18,LABORIE,Jean-Claude,OUI
+communes,81,Tarn,81070,Coufouleux,2,"100,00",2522,760,1762,36,25,1701,proportionnel,1,COUFFOULEUX EN MOUVEMENT,,,804,"47,27",5,5,MILLET,Anne,OUI
 communes,81,Tarn,81128,Lacrouzette,2,"100,00",1421,388,1033,7,11,1015,proportionnel,2,Renouveau et expérience à Lacrouzette,,,299,"29,46",3,3,ALBERT,Pierre,OUI
 communes,81,Tarn,81128,Lacrouzette,2,"100,00",1421,388,1033,7,11,1015,proportionnel,3,DU BIAÍS POUR LACROUZETTE,,,139,"13,69",1,1,ARMENGAUD,Régis,OUI
 communes,81,Tarn,81128,Lacrouzette,2,"100,00",1421,388,1033,7,11,1015,proportionnel,1,"Avec vous, pour Lacrouzette",,,577,"56,85",15,15,SEGUIER,Astrid,OUI
 communes,81,Tarn,81206,Penne,2,"100,00",566,62,504,2,4,498,proportionnel,1,PENNE ENSEMBLE,,,247,"49,60",3,,LACOMBE,Jean-Jacques,OUI
 communes,81,Tarn,81206,Penne,2,"100,00",566,62,504,2,4,498,proportionnel,2,PARTAGEONS DEMAIN,,,251,"50,40",12,,LAHAYE,Nicolas,OUI
+communes,81,Tarn,81220,Rabastens,2,"80,00",4847,1628,3219,68,45,3106,proportionnel,1,"NOTRE AVENIR, NOTRE COMMUNE",LDIV,Liste Divers,1806,"58,15",23,23,GERAUD,Nicolas,OUI
+communes,81,Tarn,81220,Rabastens,2,"80,00",4847,1628,3219,68,45,3106,proportionnel,3,Rabastens en Commune,LDVG,Liste divers gauche,1300,"41,85",6,6,VEIGA DIAS COELHO,Mickaël,OUI
 communes,82,Tarn-et-Garonne,82013,Beaumont-de-Lomagne,2,"100,00",2706,724,1982,34,29,1919,proportionnel,4,UNIS POUR AVANCER,LDVD,Liste divers droite,993,"51,75",21,21,TONIN,Jacqueline,OUI
 communes,82,Tarn-et-Garonne,82013,Beaumont-de-Lomagne,2,"100,00",2706,724,1982,34,29,1919,proportionnel,3,"Beaumont notre ville, notre force",LDVG,Liste divers gauche,926,"48,25",6,6,DEPRINCE,Jean-Luc,OUI
 communes,82,Tarn-et-Garonne,82033,Castelsarrasin,2,"100,00",9950,4108,5842,55,60,5727,proportionnel,2,AGIR POUR CASTELSARRASIN,LRN,Liste du Rassemblement National,2548,"44,49",7,7,JANNIC,Cyril,OUI
