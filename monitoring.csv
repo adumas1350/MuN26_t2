@@ -4283,28 +4283,28 @@ code,nom,pourcentage,complet
 12303,Vimenet,0,non
 12305,Viviez,0,non
 12307,Curan,0,non
-13055SR01,Marseille Secteur 1,"57,77",non
-13055SR02,Marseille Secteur 2,"85,71",non
-13055SR03,Marseille Secteur 3,"83,33",non
-13055SR04,Marseille Secteur 4,"35,13",non
+13055SR01,Marseille Secteur 1,"64,44",non
+13055SR02,Marseille Secteur 2,"94,28",non
+13055SR03,Marseille Secteur 3,"88,88",non
+13055SR04,Marseille Secteur 4,"41,89",non
 13055SR05,Marseille Secteur 5,"89,15",non
-13055SR06,Marseille Secteur 6,"62,66",non
-13055SR07,Marseille Secteur 7,"66,26",non
+13055SR06,Marseille Secteur 6,"69,33",non
+13055SR07,Marseille Secteur 7,"72,28",non
 13055SR08,Marseille Secteur 8,"75,00",non
-13201,Marseille 1er arrondissement,"38,88",non
-13202,Marseille 2eme arrondissement,"85,71",non
-13203,Marseille 3eme arrondissement,"85,71",non
-13204,Marseille 4eme arrondissement,"78,57",non
-13205,Marseille 5eme arrondissement,"88,46",non
-13206,Marseille 6eme arrondissement,"16,66",non
-13207,Marseille 7eme arrondissement,"70,37",non
-13208,Marseille 8eme arrondissement,"44,00",non
+13201,Marseille 1er arrondissement,"44,44",non
+13202,Marseille 2eme arrondissement,"100,00",oui
+13203,Marseille 3eme arrondissement,"90,47",non
+13204,Marseille 4eme arrondissement,"85,71",non
+13205,Marseille 5eme arrondissement,"92,30",non
+13206,Marseille 6eme arrondissement,"20,83",non
+13207,Marseille 7eme arrondissement,"77,77",non
+13208,Marseille 8eme arrondissement,"52,00",non
 13209,Marseille 9eme arrondissement,"86,00",non
 13210,Marseille 10eme arrondissement,"93,93",non
-13211,Marseille 11eme arrondissement,"62,85",non
-13212,Marseille 12eme arrondissement,"62,50",non
-13213,Marseille 13eme arrondissement,"67,30",non
-13214,Marseille 14eme arrondissement,"64,51",non
+13211,Marseille 11eme arrondissement,"68,57",non
+13212,Marseille 12eme arrondissement,"70,00",non
+13213,Marseille 13eme arrondissement,"73,07",non
+13214,Marseille 14eme arrondissement,"70,96",non
 13215,Marseille 15eme arrondissement,"72,22",non
 13216,Marseille 16eme arrondissement,"83,33",non
 13001,Aix-en-Provence,"100,00",oui
@@ -4361,7 +4361,7 @@ code,nom,pourcentage,complet
 13052,Maillane,0,non
 13053,Mallemort,0,non
 13054,Marignane,0,non
-13055,Marseille,"64,78",non
+13055,Marseille,"70,42",non
 13056,Martigues,"100,00",oui
 13057,Mas-Blanc-des-Alpilles,0,non
 13058,Maussane-les-Alpilles,0,non
@@ -26985,12 +26985,12 @@ code,nom,pourcentage,complet
 69298,Toussieu,0,non
 69299,Colombier-Saugnieu,0,non
 69001,Métropole de Lyon 1ère circonscription (Lones et Coteaux),"100,00",oui
-69002,Métropole de Lyon 2ème circonscription (Lyon-Ouest),"0,00",non
-69003,Métropole de Lyon 3ème circonscription (Lyon-Sud),"0,00",non
-69004,Métropole de Lyon 4ème circonscription (Lyon-Centre),"0,00",non
-69005,Métropole de Lyon 5ème circonscription (Lyon-Est),"0,00",non
-69006,Métropole de Lyon 6ème circonscription (Lyon-Nord),"0,00",non
-69007,Métropole de Lyon 7ème circonscription (Lyon-Sud-Est),"0,00",non
+69002,Métropole de Lyon 2ème circonscription (Lyon-Ouest),"100,00",oui
+69003,Métropole de Lyon 3ème circonscription (Lyon-Sud),"100,00",oui
+69004,Métropole de Lyon 4ème circonscription (Lyon-Centre),"100,00",oui
+69005,Métropole de Lyon 5ème circonscription (Lyon-Est),"97,50",non
+69006,Métropole de Lyon 6ème circonscription (Lyon-Nord),"100,00",oui
+69007,Métropole de Lyon 7ème circonscription (Lyon-Sud-Est),"100,00",oui
 69008,Métropole de Lyon 8ème circonscription (Ouest),0,non
 69009,Métropole de Lyon 9ème circonscription (Plateau Nord-Caluire),0,non
 69010,Métropole de Lyon 10ème circonscription (Porte des Alpes),0,non
@@ -29035,7 +29035,7 @@ code,nom,pourcentage,complet
 75118,Paris 18eme arrondissement,"94,11",non
 75119,Paris 19eme arrondissement,"100,00",oui
 75120,Paris 20eme arrondissement,"84,21",non
-75056,Paris,"94,46",non
+75056,Paris,"99,77",non
 76001,Allouville-Bellefosse,0,non
 76002,Alvimare,0,non
 76004,Ambrumesnil,0,non
@@ -30386,7 +30386,7 @@ code,nom,pourcentage,complet
 78354,Magnanville,0,non
 78356,Magny-les-Hameaux,0,non
 78358,Maisons-Laffitte,"100,00",oui
-78361,Mantes-la-Jolie,"0,00",non
+78361,Mantes-la-Jolie,"100,00",oui
 78362,Mantes-la-Ville,"100,00",oui
 78364,Marcq,0,non
 78366,Mareil-le-Guyon,0,non
@@ -34619,10 +34619,44 @@ code,nom,pourcentage,complet
 97132,Trois-Rivières,"0,00",non
 97133,Vieux-Fort,0,non
 97134,Vieux-Habitants,0,non
+97201,L'Ajoupa-Bouillon,"0,00",non
+97202,Les Anses-d'Arlet,"0,00",non
+97203,Basse-Pointe,0,non
+97204,Le Carbet,"0,00",non
+97205,Case-Pilote,0,non
+97206,Le Diamant,0,non
+97207,Ducos,0,non
+97208,Fonds-Saint-Denis,0,non
+97209,Fort-de-France,"4,00",non
+97210,Le François,0,non
+97211,Grand'Rivière,0,non
+97212,Gros-Morne,"0,00",non
+97213,Le Lamentin,0,non
+97214,Le Lorrain,0,non
+97215,Macouba,0,non
+97216,Le Marigot,"0,00",non
+97217,Le Marin,0,non
+97218,Le Morne-Rouge,"0,00",non
+97219,Le Prêcheur,"0,00",non
+97220,Rivière-Pilote,0,non
+97221,Rivière-Salée,0,non
+97222,Le Robert,"0,00",non
+97223,Saint-Esprit,0,non
+97224,Saint-Joseph,0,non
+97225,Saint-Pierre,"0,00",non
+97226,Sainte-Anne,"0,00",non
+97227,Sainte-Luce,0,non
+97228,Sainte-Marie,0,non
+97229,Schoelcher,"0,00",non
+97230,La Trinité,0,non
+97231,Les Trois-Ilets,"0,00",non
+97232,Le Vauclin,0,non
+97233,Le Morne-Vert,0,non
+97234,Bellefontaine,"0,00",non
 97301,Régina,0,non
 97302,Cayenne,0,non
 97303,Iracoubo,0,non
-97304,Kourou,"0,00",non
+97304,Kourou,"25,00",non
 97305,Macouria,0,non
 97306,Mana,"100,00",oui
 97307,Matoury,"47,05",non
