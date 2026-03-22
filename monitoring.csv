@@ -368,7 +368,7 @@ code,nom,pourcentage,complet
 33312,Parempuyre,"100,00",oui
 33314,Pauillac,"100,00",oui
 33317,Périssac,"100,00",oui
-33318,Pessac,"0,00",non
+33318,Pessac,"100,00",oui
 33322,Le Pian-Médoc,"100,00",oui
 33348,Queyrac,"100,00",oui
 33366,Saint-André-de-Cubzac,"100,00",oui
@@ -378,6 +378,7 @@ code,nom,pourcentage,complet
 33433,Saint-Loubès,"100,00",oui
 33478,Saint-Seurin-sur-l'Isle,"100,00",oui
 33496,Salleboeuf,"100,00",oui
+33529,La Teste-de-Buch,"100,00",oui
 33544,Le Verdon-sur-Mer,"100,00",oui
 34003,Agde,"100,00",oui
 34023,Balaruc-les-Bains,"100,00",oui
@@ -1176,6 +1177,8 @@ code,nom,pourcentage,complet
 90033,Delle,"100,00",oui
 90052,Giromagny,"100,00",oui
 90099,Valdoie,"100,00",oui
+91095,Bouray-sur-Juine,"100,00",oui
+91667,Villemoisson-sur-Orge,"100,00",oui
 92002,Antony,"100,00",oui
 92012,Boulogne-Billancourt,"100,00",oui
 92033,Garches,"100,00",oui
