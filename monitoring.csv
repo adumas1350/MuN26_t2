@@ -202,8 +202,10 @@ code,nom,pourcentage,complet
 24242,Liorac-sur-Louyre,"100,00",oui
 24256,Marsac-sur-l'Isle,"100,00",oui
 24294,Montpon-Ménestérol,"100,00",oui
+24322,Périgueux,"100,00",oui
 24352,Ribérac,"100,00",oui
 24376,Saint Aulaye-Puymangou,"100,00",oui
+24437,Saint-Laurent-des-Vignes,"100,00",oui
 24454,Saint-Martin-de-Gurson,"100,00",oui
 24519,Sarlande,"100,00",oui
 25056,Besançon,"100,00",oui
@@ -572,6 +574,7 @@ code,nom,pourcentage,complet
 59178,Douai,"100,00",oui
 59179,Douchy-les-Mines,"100,00",oui
 59205,Escaudain,"100,00",oui
+59220,Faches-Thumesnil,"100,00",oui
 59226,Felleries,"100,00",oui
 59253,Fresnes-sur-Escaut,"100,00",oui
 59256,Fretin,"100,00",oui
@@ -597,6 +600,7 @@ code,nom,pourcentage,complet
 59502,Rieux-en-Cambrésis,"100,00",oui
 59533,Saint-Hilaire-lez-Cambrai,"100,00",oui
 59550,Salomé,"100,00",oui
+59574,Somain,"100,00",oui
 59586,Templeuve-en-Pévèle,"100,00",oui
 59597,Tilloy-lez-Cambrai,"100,00",oui
 59606,Valenciennes,"100,00",oui
@@ -868,9 +872,10 @@ code,nom,pourcentage,complet
 81060,Carmaux,"100,00",oui
 81069,Cordes-sur-Ciel,"100,00",oui
 81070,Coufouleux,"100,00",oui
+81105,Graulhet,"100,00",oui
 81128,Lacrouzette,"100,00",oui
 81206,Penne,"100,00",oui
-81220,Rabastens,"80,00",non
+81220,Rabastens,"100,00",oui
 82013,Beaumont-de-Lomagne,"100,00",oui
 82033,Castelsarrasin,"100,00",oui
 82075,Grisolles,"100,00",oui

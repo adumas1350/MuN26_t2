@@ -739,10 +739,10 @@ communes,31,Haute-Garonne,31461,Rouède,2,"100,00",264,61,203,2,2,199,proportion
 communes,31,Haute-Garonne,31512,Saint-Pierre-de-Lages,2,"100,00",772,194,578,5,0,573,proportionnel,1,S'engager Pleinement Durablement Localement,,,241,"42,06",11,,SIORAT,Florence,OUI
 communes,31,Haute-Garonne,31512,Saint-Pierre-de-Lages,2,"100,00",772,194,578,5,0,573,proportionnel,2,"Ensemble, continuons pour le coeur du village",,,215,"37,52",3,,CREPY,Fabrice,OUI
 communes,31,Haute-Garonne,31512,Saint-Pierre-de-Lages,2,"100,00",772,194,578,5,0,573,proportionnel,3,NOTRE COMMUNE NOTRE PRIORITÉ,,,117,"20,42",1,,GRABIE,Charlène,OUI
-communes,32,Gers,32013,Auch,2,"100,00",12249,5220,7029,88,77,6864,proportionnel,1,TOUS POUR AUCH!,LDVD,Liste divers droite,2517,"36,67",0,0,CARRASCOSA,Thierry,NON
-communes,32,Gers,32013,Auch,2,"100,00",12249,5220,7029,88,77,6864,proportionnel,4,LES ALTERS SOLIDAIRES-ECOLOGISTES-RESPONSABLES,LDVG,Liste divers gauche,742,"10,81",0,0,VALANCOURT,Céline,NON
-communes,32,Gers,32013,Auch,2,"100,00",12249,5220,7029,88,77,6864,proportionnel,3,PRINTEMPS AUSCITAIN,LDVG,Liste divers gauche,1011,"14,73",0,0,AURORA,Michaël,NON
-communes,32,Gers,32013,Auch,2,"100,00",12249,5220,7029,88,77,6864,proportionnel,2,AUCH AVEC VOUS,LDVG,Liste divers gauche,2594,"37,79",0,0,BONNE,Camille,NON
+communes,32,Gers,32013,Auch,2,"100,00",14032,5914,8118,98,94,7926,proportionnel,1,TOUS POUR AUCH!,LDVD,Liste divers droite,2949,"37,21",7,7,CARRASCOSA,Thierry,OUI
+communes,32,Gers,32013,Auch,2,"100,00",14032,5914,8118,98,94,7926,proportionnel,4,LES ALTERS SOLIDAIRES-ECOLOGISTES-RESPONSABLES,LDVG,Liste divers gauche,818,"10,32",1,1,VALANCOURT,Céline,OUI
+communes,32,Gers,32013,Auch,2,"100,00",14032,5914,8118,98,94,7926,proportionnel,3,PRINTEMPS AUSCITAIN,LDVG,Liste divers gauche,1168,"14,74",2,2,AURORA,Michaël,OUI
+communes,32,Gers,32013,Auch,2,"100,00",14032,5914,8118,98,94,7926,proportionnel,2,AUCH AVEC VOUS,LDVG,Liste divers gauche,2991,"37,74",25,25,BONNE,Camille,OUI
 communes,32,Gers,32160,L'Isle-Jourdain,2,"100,00",7277,2860,4417,51,52,4314,proportionnel,1,"NOTRE PARTI, L'ISLE JOURDAIN",LDVD,Liste divers droite,534,"12,38",1,1,DUCAUZE,Gabin,OUI
 communes,32,Gers,32160,L'Isle-Jourdain,2,"100,00",7277,2860,4417,51,52,4314,proportionnel,4,"L'ISLE, UN AVENIR ENSEMBLE",LDVG,Liste divers gauche,799,"18,52",2,2,IDRAC,Francis,OUI
 communes,32,Gers,32160,L'Isle-Jourdain,2,"100,00",7277,2860,4417,51,52,4314,proportionnel,3,DEMAIN ENSEMBLE 2026,LDIV,Liste Divers,2180,"50,53",23,23,BIZARD,Eric,OUI
@@ -2289,13 +2289,15 @@ communes,81,Tarn,81069,Cordes-sur-Ciel,2,"100,00",662,139,523,3,5,515,proportion
 communes,81,Tarn,81069,Cordes-sur-Ciel,2,"100,00",662,139,523,3,5,515,proportionnel,1,Ensemble pour Cordes,,,86,"16,70",1,,LE GUERRANNIC,Claude,OUI
 communes,81,Tarn,81070,Coufouleux,2,"100,00",2522,760,1762,36,25,1701,proportionnel,2,UNIS POUR COUFFOULEUX,,,897,"52,73",18,18,LABORIE,Jean-Claude,OUI
 communes,81,Tarn,81070,Coufouleux,2,"100,00",2522,760,1762,36,25,1701,proportionnel,1,COUFFOULEUX EN MOUVEMENT,,,804,"47,27",5,5,MILLET,Anne,OUI
+communes,81,Tarn,81105,Graulhet,2,"100,00",9602,3852,5750,110,117,5523,proportionnel,1,GRAULHET EN GRAND,LRN,Liste du Rassemblement National,2552,"46,21",7,7,BACOU,Julien,OUI
+communes,81,Tarn,81105,Graulhet,2,"100,00",9602,3852,5750,110,117,5523,proportionnel,4,"ENSEMBLE, FAIRE GAGNER GRAULHET !",LDIV,Liste Divers,2971,"53,79",26,26,VERDEIL,Benjamin,OUI
 communes,81,Tarn,81128,Lacrouzette,2,"100,00",1421,388,1033,7,11,1015,proportionnel,2,Renouveau et expérience à Lacrouzette,,,299,"29,46",3,3,ALBERT,Pierre,OUI
 communes,81,Tarn,81128,Lacrouzette,2,"100,00",1421,388,1033,7,11,1015,proportionnel,3,DU BIAÍS POUR LACROUZETTE,,,139,"13,69",1,1,ARMENGAUD,Régis,OUI
 communes,81,Tarn,81128,Lacrouzette,2,"100,00",1421,388,1033,7,11,1015,proportionnel,1,"Avec vous, pour Lacrouzette",,,577,"56,85",15,15,SEGUIER,Astrid,OUI
 communes,81,Tarn,81206,Penne,2,"100,00",566,62,504,2,4,498,proportionnel,1,PENNE ENSEMBLE,,,247,"49,60",3,,LACOMBE,Jean-Jacques,OUI
 communes,81,Tarn,81206,Penne,2,"100,00",566,62,504,2,4,498,proportionnel,2,PARTAGEONS DEMAIN,,,251,"50,40",12,,LAHAYE,Nicolas,OUI
-communes,81,Tarn,81220,Rabastens,2,"80,00",4847,1628,3219,68,45,3106,proportionnel,1,"NOTRE AVENIR, NOTRE COMMUNE",LDIV,Liste Divers,1806,"58,15",23,23,GERAUD,Nicolas,OUI
-communes,81,Tarn,81220,Rabastens,2,"80,00",4847,1628,3219,68,45,3106,proportionnel,3,Rabastens en Commune,LDVG,Liste divers gauche,1300,"41,85",6,6,VEIGA DIAS COELHO,Mickaël,OUI
+communes,81,Tarn,81220,Rabastens,2,"100,00",4847,1628,3219,68,45,3106,proportionnel,1,"NOTRE AVENIR, NOTRE COMMUNE",LDIV,Liste Divers,1806,"58,15",23,23,GERAUD,Nicolas,OUI
+communes,81,Tarn,81220,Rabastens,2,"100,00",4847,1628,3219,68,45,3106,proportionnel,3,Rabastens en Commune,LDVG,Liste divers gauche,1300,"41,85",6,6,VEIGA DIAS COELHO,Mickaël,OUI
 communes,82,Tarn-et-Garonne,82013,Beaumont-de-Lomagne,2,"100,00",2706,724,1982,34,29,1919,proportionnel,4,UNIS POUR AVANCER,LDVD,Liste divers droite,993,"51,75",21,21,TONIN,Jacqueline,OUI
 communes,82,Tarn-et-Garonne,82013,Beaumont-de-Lomagne,2,"100,00",2706,724,1982,34,29,1919,proportionnel,3,"Beaumont notre ville, notre force",LDVG,Liste divers gauche,926,"48,25",6,6,DEPRINCE,Jean-Luc,OUI
 communes,82,Tarn-et-Garonne,82033,Castelsarrasin,2,"100,00",9950,4108,5842,55,60,5727,proportionnel,2,AGIR POUR CASTELSARRASIN,LRN,Liste du Rassemblement National,2548,"44,49",7,7,JANNIC,Cyril,OUI
