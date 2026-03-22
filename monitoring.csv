@@ -5,7 +5,6 @@ code,nom,pourcentage,complet
 01378,Saint-Maurice-de-Gourdans,"100,00",oui
 01427,Trévoux,"100,00",oui
 02011,Ambleny,"100,00",oui
-02063,Bellenglise,"100,00",oui
 02135,Buironfosse,"100,00",oui
 02139,Caillouël-Crépigny,"100,00",oui
 02160,Chaourse,"100,00",oui
@@ -95,6 +94,7 @@ code,nom,pourcentage,complet
 12197,Réquista,"100,00",oui
 12231,Saint-Jean-du-Bruel,"100,00",oui
 13021,Carry-le-Rouet,"100,00",oui
+13026,Châteauneuf-les-Martigues,"0,00",non
 13032,Eguilles,"100,00",oui
 13035,Eyguières,"100,00",oui
 13037,La Fare-les-Oliviers,"100,00",oui
@@ -109,8 +109,10 @@ code,nom,pourcentage,complet
 13101,Saint-Savournin,"100,00",oui
 13102,Saint-Victoret,"100,00",oui
 13104,Sausset-les-Pins,"100,00",oui
+13105,Sénas,"0,00",non
 13108,Tarascon,"100,00",oui
 13109,Le Tholonet,"100,00",oui
+13112,Velaux,"100,00",oui
 14106,Bréville-les-Monts,"100,00",oui
 14174,Condé-en-Normandie,"100,00",oui
 14191,Courseulles-sur-Mer,"100,00",oui
@@ -155,6 +157,7 @@ code,nom,pourcentage,complet
 17308,Saint-Agnant,"100,00",oui
 17323,Saint-Denis-d'Oléron,"100,00",oui
 17330,Sainte-Gemme,"100,00",oui
+17333,Saint-Georges-de-Didonne,"100,00",oui
 17360,Sainte-Marie-de-Ré,"100,00",oui
 17380,Saint-Palais-sur-Mer,"100,00",oui
 17385,Saint-Pierre-d'Oléron,"100,00",oui
@@ -254,10 +257,12 @@ code,nom,pourcentage,complet
 28015,Auneau-Bleury-Saint-Symphorien,"100,00",oui
 28085,Chartres,"100,00",oui
 28094,Chaudon,"100,00",oui
+28134,Dreux,"100,00",oui
 28168,Gallardon,"100,00",oui
 28279,Nogent-le-Roi,"100,00",oui
 28280,Nogent-le-Rotrou,"100,00",oui
 28370,Saumeray,"100,00",oui
+2A065,Cargèse,"100,00",oui
 2A198,Ota,"100,00",oui
 2A272,Sartène,"100,00",oui
 2B033,Bastia,"100,00",oui
@@ -316,18 +321,18 @@ code,nom,pourcentage,complet
 32160,L'Isle-Jourdain,"100,00",oui
 32290,Montréal,"100,00",oui
 32459,Valence-sur-Baïse,"100,00",oui
-33005,Andernos-les-Bains,"92,85",non
+33005,Andernos-les-Bains,"100,00",oui
 33013,Artigues-près-Bordeaux,"100,00",oui
 33015,Arveyres,"100,00",oui
-33018,Val de Virvée,"33,33",non
+33018,Val de Virvée,"100,00",oui
 33030,Barsac,"100,00",oui
 33042,Belin-Béliet,"100,00",oui
 33047,Berson,"100,00",oui
-33049,Beychac-et-Caillau,"0,00",non
+33049,Beychac-et-Caillau,"100,00",oui
 33052,Les Billaux,"100,00",oui
 33058,Blaye,"100,00",oui
 33073,Braud-et-Saint-Louis,"100,00",oui
-33075,Bruges,"0,00",non
+33075,Bruges,"100,00",oui
 33081,Cadillac-sur-Garonne,"100,00",oui
 33104,Castelnau-de-Médoc,"100,00",oui
 33140,Créon,"100,00",oui
@@ -335,19 +340,19 @@ code,nom,pourcentage,complet
 33174,Fronsac,"100,00",oui
 33199,Gujan-Mestras,"100,00",oui
 33219,La Lande-de-Fronsac,"100,00",oui
-33229,Lanton,"88,88",non
-33236,Lège-Cap-Ferret,"0,00",non
+33229,Lanton,"100,00",oui
+33236,Lège-Cap-Ferret,"100,00",oui
 33238,Léognan,"100,00",oui
 33311,Paillet,"100,00",oui
 33312,Parempuyre,"100,00",oui
-33314,Pauillac,"0,00",non
+33314,Pauillac,"100,00",oui
 33317,Périssac,"100,00",oui
-33322,Le Pian-Médoc,"0,00",non
+33322,Le Pian-Médoc,"100,00",oui
 33348,Queyrac,"100,00",oui
-33366,Saint-André-de-Cubzac,"44,44",non
+33366,Saint-André-de-Cubzac,"100,00",oui
 33382,Saint-Christoly-de-Blaye,"100,00",oui
 33389,Saint-Ciers-sur-Gironde,"100,00",oui
-33478,Saint-Seurin-sur-l'Isle,"0,00",non
+33478,Saint-Seurin-sur-l'Isle,"100,00",oui
 33496,Salleboeuf,"100,00",oui
 33544,Le Verdon-sur-Mer,"100,00",oui
 34003,Agde,"100,00",oui
@@ -482,6 +487,7 @@ code,nom,pourcentage,complet
 45208,Montargis,"100,00",oui
 45274,Saint-Denis-en-Val,"100,00",oui
 45277,Saint-Florent-le-Jeune,"100,00",oui
+45284,Saint-Jean-de-Braye,"6,25",non
 46078,Couzou,"100,00",oui
 46102,Figeac,"100,00",oui
 46309,Souillac,"100,00",oui
@@ -606,6 +612,7 @@ code,nom,pourcentage,complet
 57550,Porcelette,"100,00",oui
 57563,Raville,"100,00",oui
 57606,Saint-Avold,"100,00",oui
+57631,Sarreguemines,"83,33",non
 57669,Théding,"100,00",oui
 57672,Thionville,"100,00",oui
 57765,Diesen,"100,00",oui
@@ -835,6 +842,7 @@ code,nom,pourcentage,complet
 68012,Aspach-Michelbach,"100,00",oui
 68028,Bergheim,"100,00",oui
 68036,Biesheim,"100,00",oui
+68066,Colmar,"100,00",oui
 68084,Eschentzwiller,"100,00",oui
 68124,Hausgauen,"100,00",oui
 68162,Kaysersberg Vignoble,"100,00",oui
@@ -914,7 +922,7 @@ code,nom,pourcentage,complet
 76429,Le Mesnil-Esnard,"100,00",oui
 76492,Ouville-la-Rivière,"100,00",oui
 76533,Rogerville,"100,00",oui
-76561,Saint-Aubin-lès-Elbeuf,"0,00",non
+76561,Saint-Aubin-lès-Elbeuf,"100,00",oui
 76599,Saint-Léger-du-Bourg-Denis,"100,00",oui
 76636,Saint-Pierre-de-Varengeville,"100,00",oui
 76640,Saint-Pierre-lès-Elbeuf,"100,00",oui
