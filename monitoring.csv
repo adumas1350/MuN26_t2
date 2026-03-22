@@ -71,7 +71,7 @@ code,nom,pourcentage,complet
 09122,Foix,"100,00",oui
 09194,Mirepoix,"100,00",oui
 09200,Montbel,"100,00",oui
-09225,Pamiers,"90,90",non
+09225,Pamiers,"100,00",oui
 09261,Saint-Girons,"100,00",oui
 10006,Arcis-sur-Aube,"100,00",oui
 10033,Bar-sur-Aube,"100,00",oui
@@ -416,9 +416,11 @@ code,nom,pourcentage,complet
 38337,Rives,"100,00",oui
 38395,Plateau-des-Petites-Roches,"100,00",oui
 38407,La Sure en Chartreuse,"100,00",oui
+38422,Saint-Martin-d'Uriage,"100,00",oui
 38471,Le Sappey-en-Chartreuse,"100,00",oui
 38504,Theys,"100,00",oui
 38507,Tignieu-Jameyzieu,"100,00",oui
+38537,La Verpillière,"100,00",oui
 38555,Villeneuve-de-Marc,"100,00",oui
 39047,Bellefontaine,"100,00",oui
 39182,Crissey,"100,00",oui
@@ -450,6 +452,7 @@ code,nom,pourcentage,complet
 44015,Blain,"100,00",oui
 44026,Carquefou,"100,00",oui
 44028,Le Cellier,"100,00",oui
+44047,Couëron,"100,00",oui
 44049,Le Croisic,"100,00",oui
 44052,Donges,"100,00",oui
 44056,Fay-de-Bretagne,"100,00",oui
@@ -924,6 +927,7 @@ code,nom,pourcentage,complet
 77510,Villeneuve-Saint-Denis,"100,00",oui
 77533,Vulaines-sur-Seine,"100,00",oui
 78299,Hardricourt,"100,00",oui
+79174,Melle,"100,00",oui
 80001,Abbeville,"100,00",oui
 80010,Ailly-sur-Noye,"100,00",oui
 80013,Airaines,"100,00",oui
@@ -949,12 +953,13 @@ code,nom,pourcentage,complet
 81004,Albi,"100,00",oui
 81039,Briatexte,"100,00",oui
 81060,Carmaux,"100,00",oui
+81065,Castres,"100,00",oui
 81069,Cordes-sur-Ciel,"100,00",oui
 81070,Coufouleux,"100,00",oui
 81099,Gaillac,"100,00",oui
 81105,Graulhet,"100,00",oui
 81128,Lacrouzette,"100,00",oui
-81144,Lescure-d'Albigeois,"75,00",non
+81144,Lescure-d'Albigeois,"100,00",oui
 81206,Penne,"100,00",oui
 81220,Rabastens,"100,00",oui
 82013,Beaumont-de-Lomagne,"100,00",oui
