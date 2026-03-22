@@ -1,10 +1,12 @@
 code,nom,pourcentage,complet
+01160,Ferney-Voltaire,"100,00",oui
 01194,Jassans-Riottier,"100,00",oui
 01249,Miribel,"100,00",oui
 01283,Oyonnax,"100,00",oui
 01322,Reyrieux,"100,00",oui
 01378,Saint-Maurice-de-Gourdans,"100,00",oui
 01427,Trévoux,"100,00",oui
+01450,Villieu-Loyes-Mollon,"100,00",oui
 02011,Ambleny,"100,00",oui
 02135,Buironfosse,"100,00",oui
 02139,Caillouël-Crépigny,"100,00",oui
@@ -28,7 +30,7 @@ code,nom,pourcentage,complet
 03185,Montluçon,"100,00",oui
 03225,Saint-Désiré,"100,00",oui
 03315,Villefranche-d'Allier,"100,00",oui
-03321,Yzeure,"0,00",non
+03321,Yzeure,"100,00",oui
 04070,Digne-les-Bains,"100,00",oui
 04084,Estoublon,"100,00",oui
 04145,Peipin,"100,00",oui
@@ -94,6 +96,7 @@ code,nom,pourcentage,complet
 11375,Seignalens,"100,00",oui
 12089,Decazeville,"100,00",oui
 12197,Réquista,"100,00",oui
+12202,Rodez,"100,00",oui
 12231,Saint-Jean-du-Bruel,"100,00",oui
 13021,Carry-le-Rouet,"100,00",oui
 13026,Châteauneuf-les-Martigues,"100,00",oui
@@ -421,6 +424,7 @@ code,nom,pourcentage,complet
 35231,Poligné,"100,00",oui
 35241,La Richardais,"100,00",oui
 35257,Maen Roch,"100,00",oui
+35281,Saint-Jacques-de-la-Lande,"100,00",oui
 35287,Saint-Lunaire,"100,00",oui
 35288,Saint-Malo,"100,00",oui
 35353,Vezin-le-Coquet,"100,00",oui
@@ -570,7 +574,7 @@ code,nom,pourcentage,complet
 50502,Saint-Lô,"100,00",oui
 50523,Sainte-Mère-Eglise,"100,00",oui
 50550,Saint-Sauveur-Villages,"100,00",oui
-50565,Sartilly-Baie-Bocage,"0,00",non
+50565,Sartilly-Baie-Bocage,"100,00",oui
 51030,Aÿ-Champagne,"100,00",oui
 51058,Bezannes,"100,00",oui
 51210,Dizy,"100,00",oui
@@ -990,11 +994,15 @@ code,nom,pourcentage,complet
 76655,Saint-Valery-en-Caux,"100,00",oui
 76697,Torcy-le-Grand,"100,00",oui
 76758,Yvetot,"100,00",oui
+77014,Avon,"100,00",oui
+77018,Bailly-Romainvilliers,"100,00",oui
 77037,Bois-le-Roi,"100,00",oui
 77053,Brie-Comte-Robert,"100,00",oui
 77058,Bussy-Saint-Georges,"100,00",oui
+77083,Champs-sur-Marne,"100,00",oui
 77086,La Chapelle-Gauthier,"100,00",oui
 77122,Combs-la-Ville,"100,00",oui
+77124,Conches-sur-Gondoire,"100,00",oui
 77137,Courtacon,"100,00",oui
 77146,Croissy-Beaubourg,"100,00",oui
 77152,Dammarie-les-Lys,"100,00",oui
@@ -1005,12 +1013,19 @@ code,nom,pourcentage,complet
 77222,Guignes,"100,00",oui
 77261,Lorrez-le-Bocage-Préaux,"100,00",oui
 77285,Le Mée-sur-Seine,"100,00",oui
+77307,Montévrain,"100,00",oui
 77312,Montigny-sur-Loing,"100,00",oui
 77315,Montry,"100,00",oui
+77316,Moret-Loing-et-Orvanne,"100,00",oui
 77350,Ozoir-la-Ferrière,"100,00",oui
 77352,Ozouer-le-Voulgis,"100,00",oui
+77393,Rozay-en-Brie,"100,00",oui
 77407,Saint-Fargeau-Ponthierry,"100,00",oui
+77430,Saint-Pathus,"100,00",oui
+77438,Saint-Thibault-des-Vignes,"100,00",oui
 77464,Thorigny-sur-Marne,"100,00",oui
+77479,Vaires-sur-Marne,"100,00",oui
+77487,Vaux-le-Pénil,"100,00",oui
 77493,Verneuil-l'Etang,"100,00",oui
 77510,Villeneuve-Saint-Denis,"100,00",oui
 77533,Vulaines-sur-Seine,"100,00",oui
@@ -1094,6 +1109,7 @@ code,nom,pourcentage,complet
 84016,Bédarrides,"100,00",oui
 84031,Carpentras,"100,00",oui
 84035,Cavaillon,"100,00",oui
+84054,L'Isle-sur-la-Sorgue,"100,00",oui
 84056,Jonquières,"100,00",oui
 84065,Lauris,"100,00",oui
 84068,Lourmarin,"100,00",oui
@@ -1115,6 +1131,7 @@ code,nom,pourcentage,complet
 85127,Longeville-sur-Mer,"100,00",oui
 85128,Luçon,"100,00",oui
 85191,La Roche-sur-Yon,"100,00",oui
+85194,Les Sables-d'Olonne,"100,00",oui
 85213,Rives de l'Yon,"100,00",oui
 85234,Saint-Jean-de-Monts,"100,00",oui
 86066,Châtellerault,"100,00",oui
@@ -1174,6 +1191,7 @@ code,nom,pourcentage,complet
 97424,Cilaos,"100,00",oui
 97601,Acoua,"100,00",oui
 97602,Bandraboua,"100,00",oui
+97603,Bandrele,"100,00",oui
 97604,Bouéni,"100,00",oui
 97606,Chirongui,"100,00",oui
 97607,Dembeni,"100,00",oui
