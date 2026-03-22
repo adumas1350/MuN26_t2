@@ -1383,9 +1383,9 @@ communes,37,Indre-et-Loire,37233,Saint-Pierre-des-Corps,2,"100,00",10362,5018,53
 communes,37,Indre-et-Loire,37250,Sorigny,2,"100,00",2170,718,1452,12,3,1437,proportionnel,3,"Sorigny, c'est vous",,,663,"46,14",17,17,ESNAULT,Alain,OUI
 communes,37,Indre-et-Loire,37250,Sorigny,2,"100,00",2170,718,1452,12,3,1437,proportionnel,1,SORIGNY UNIS POUR AGIR,,,553,"38,48",5,5,LEPROULT,Jonathan,OUI
 communes,37,Indre-et-Loire,37250,Sorigny,2,"100,00",2170,718,1452,12,3,1437,proportionnel,2,ENSEMBLE POUR SORIGNY,,,221,"15,38",1,1,LEROUX-LACOUA,Sophie,OUI
-communes,37,Indre-et-Loire,37261,Tours,2,"100,00",86324,40915,45409,896,569,43944,proportionnel,9,Tours inspire,LDVG,Liste divers gauche,20741,"47,20",41,41,DENIS,Emmanuel,OUI
-communes,37,Indre-et-Loire,37261,Tours,2,"100,00",86324,40915,45409,896,569,43944,proportionnel,2,À NOTRE TOURS,LRN,Liste du Rassemblement National,3928,"8,94",2,2,NIKOLIC,Aleksandar,OUI
-communes,37,Indre-et-Loire,37261,Tours,2,"100,00",86324,40915,45409,896,569,43944,proportionnel,7,TOURS POUR TOUS,LDVD,Liste divers droite,19275,"43,86",12,12,BOUCHET,Christophe,OUI
+communes,37,Indre-et-Loire,37261,Tours,2,"100,00",86323,40914,45409,896,569,43944,proportionnel,9,Tours inspire,LDVG,Liste divers gauche,20741,"47,20",41,41,DENIS,Emmanuel,OUI
+communes,37,Indre-et-Loire,37261,Tours,2,"100,00",86323,40914,45409,896,569,43944,proportionnel,2,À NOTRE TOURS,LRN,Liste du Rassemblement National,3928,"8,94",2,2,NIKOLIC,Aleksandar,OUI
+communes,37,Indre-et-Loire,37261,Tours,2,"100,00",86323,40914,45409,896,569,43944,proportionnel,7,TOURS POUR TOUS,LDVD,Liste divers droite,19275,"43,86",12,12,BOUCHET,Christophe,OUI
 communes,37,Indre-et-Loire,37266,Veigné,2,"100,00",5439,2119,3320,26,15,3279,proportionnel,3,VEIGNE AU COEUR,LDVD,Liste divers droite,860,"26,23",4,4,MICHAUD,Patrick,OUI
 communes,37,Indre-et-Loire,37266,Veigné,2,"100,00",5439,2119,3320,26,15,3279,proportionnel,2,VEIGNÉ AUTREMENT,LDIV,Liste Divers,700,"21,35",3,3,CHAUSSON,Jean,OUI
 communes,37,Indre-et-Loire,37266,Veigné,2,"100,00",5439,2119,3320,26,15,3279,proportionnel,1,VIVRE À VEIGNÉ,LDIV,Liste Divers,1719,"52,42",22,22,JASNIN,Jean-Marc,OUI
@@ -2748,6 +2748,20 @@ communes,68,Haut-Rhin,68375,Wittelsheim,2,"100,00",9288,4001,5287,36,47,5204,pro
 communes,68,Haut-Rhin,68376,Wittenheim,2,"100,00",11219,5136,6083,43,40,6000,proportionnel,1,Ensemble pour Wittenheim,LSOC,Liste du Parti socialiste,2614,"43,57",7,7,HOMÉ,Antoine,OUI
 communes,68,Haut-Rhin,68376,Wittenheim,2,"100,00",11219,5136,6083,43,40,6000,proportionnel,2,Nouvelle ambition pour Wittenheim,LDVC,Liste divers centre,424,"7,07",1,1,VERON,Emilie,OUI
 communes,68,Haut-Rhin,68376,Wittenheim,2,"100,00",11219,5136,6083,43,40,6000,proportionnel,3,Wittenheim Demain,LDVC,Liste divers centre,2962,"49,37",25,25,NICO,Mathieu,OUI
+arrondissements_plm,69,Rhône,69123SR02,Lyon 2ème arrondissement,2,"100,00",21400,6345,15055,160,85,14810,proportionnel,4,Coeur lyonnais,LDVD,Liste divers droite,8857,"59,80",10,,OLIVER,Pierre,OUI
+arrondissements_plm,69,Rhône,69123SR02,Lyon 2ème arrondissement,2,"100,00",21400,6345,15055,160,85,14810,proportionnel,3,Pour Vivre Lyon 2e L'Union de la Gauche et des Ecologistes avec Valentin Lungenstrass,LUG,Liste d'union à gauche,5953,"40,20",2,,LUNGENSTRASS,Valentin,OUI
+arrondissements_plm,69,Rhône,69123SR03,Lyon 3ème arrondissement,2,"100,00",61896,19380,42516,606,326,41584,proportionnel,7,"Pour vivre Lyon 3e, union de la gauche et des écologistes avec Marion SESSIECQ",LDVG,Liste divers gauche,21822,"52,48",34,,SESSIECQ,Marion,OUI
+arrondissements_plm,69,Rhône,69123SR03,Lyon 3ème arrondissement,2,"100,00",61896,19380,42516,606,326,41584,proportionnel,6,Coeur Lyonnais,LDVD,Liste divers droite,19762,"47,52",10,,DE MONTILLE,Béatrice,OUI
+arrondissements_plm,69,Rhône,69123SR04,Lyon 4ème arrondissement,2,"100,00",26787,7912,18875,264,143,18468,proportionnel,8,"Pour vivre Lyon 4ème, l'union de la gauche et des écologistes avec Rémi Zinck",LDVG,Liste divers gauche,10193,"55,19",12,,ZINCK,Rémi,OUI
+arrondissements_plm,69,Rhône,69123SR04,Lyon 4ème arrondissement,2,"100,00",26787,7912,18875,264,143,18468,proportionnel,6,Coeur Lyonnais,LDVC,Liste divers centre,8275,"44,81",3,,TERRENES,Loïc,OUI
+arrondissements_plm,69,Rhône,69123SR07,Lyon 7ème arrondissement,2,"100,00",50767,16998,33769,394,307,33068,proportionnel,5,Coeur lyonnais,LDVC,Liste divers centre,12313,"37,24",7,,DESRIEUX,Emilie,OUI
+arrondissements_plm,69,Rhône,69123SR07,Lyon 7ème arrondissement,2,"100,00",50767,16998,33769,394,307,33068,proportionnel,7,"Pour vivre Lyon 7ème, l'union de la gauche et des écologistes avec Fanny Dubot",LDVG,Liste divers gauche,20755,"62,76",30,,DUBOT,Fanny,OUI
+arrondissements_plm,69,Rhône,69123SR08,Lyon 8ème arrondissement,2,"100,00",45718,19461,26257,308,197,25752,proportionnel,8,Pour Vivre Lyon 8 L'Union de la gauche et des écologistes avec Olivier Berzane,LDVG,Liste divers gauche,12868,"49,97",27,,BERZANE,Olivier,OUI
+arrondissements_plm,69,Rhône,69123SR08,Lyon 8ème arrondissement,2,"100,00",45718,19461,26257,308,197,25752,proportionnel,7,Cœur Lyonnais,LDVC,Liste divers centre,10946,"42,51",8,,VELON,Barbara,OUI
+arrondissements_plm,69,Rhône,69123SR08,Lyon 8ème arrondissement,2,"100,00",45718,19461,26257,308,197,25752,proportionnel,5,Retrouver Lyon 8,LUXD,Liste d'union à l'extrême-droite,1938,"7,53",1,,DUPALAIS,Alexandre,OUI
+arrondissements_plm,69,Rhône,69123SR09,Lyon 9ème arrondissement,2,"100,00",29497,12151,17346,204,120,17022,proportionnel,4,RETROUVER LYON 9,LRN,Liste du Rassemblement National,1237,"7,27",0,,PATARD,Florian,NON
+arrondissements_plm,69,Rhône,69123SR09,Lyon 9ème arrondissement,2,"100,00",29497,12151,17346,204,120,17022,proportionnel,6,Coeur lyonnais,LDVC,Liste divers centre,7049,"41,41",5,,KHALLOUK,Laïla,OUI
+arrondissements_plm,69,Rhône,69123SR09,Lyon 9ème arrondissement,2,"100,00",29497,12151,17346,204,120,17022,proportionnel,8,"Pour vivre Lyon 9ème, l'union de la Gauche et des Ecologistes avec Emmanuel Giraud",LDVG,Liste divers gauche,8736,"51,32",18,,GIRAUD,Emmanuel,OUI
 communes,69,Rhône,69006,Amplepuis,2,"100,00",3588,1465,2123,25,21,2077,proportionnel,1,"Amplepluis, cap sur l'avenir",LDVC,Liste divers centre,1113,"53,59",21,21,FOURNEL,Didier,OUI
 communes,69,Rhône,69006,Amplepuis,2,"100,00",3588,1465,2123,25,21,2077,proportionnel,2,Avenir Amplepuis,LRN,Liste du Rassemblement National,367,"17,67",2,2,GARCIA,Alexis,OUI
 communes,69,Rhône,69006,Amplepuis,2,"100,00",3588,1465,2123,25,21,2077,proportionnel,3,ENSEMBLE POUR AMPLEPUIS,LDVC,Liste divers centre,597,"28,74",4,4,LACROIX,Éric,OUI
