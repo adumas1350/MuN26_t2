@@ -41,6 +41,7 @@ code,nom,pourcentage,complet
 05023,Briançon,"100,00",oui
 05036,Châteauroux-les-Alpes,"100,00",oui
 05052,Eygliers,"100,00",oui
+05061,Gap,"100,00",oui
 05132,Saint-Bonnet-en-Champsaur,"100,00",oui
 05162,La Saulce,"100,00",oui
 05178,Ventavon,"100,00",oui
@@ -79,7 +80,9 @@ code,nom,pourcentage,complet
 10006,Arcis-sur-Aube,"100,00",oui
 10033,Bar-sur-Aube,"100,00",oui
 10245,Montaulin,"100,00",oui
+10297,Pont-Sainte-Marie,"100,00",oui
 10323,Romilly-sur-Seine,"100,00",oui
+10387,Troyes,"100,00",oui
 10420,Villenauxe-la-Grande,"100,00",oui
 11028,Belcaire,"100,00",oui
 11068,Capendu,"100,00",oui
@@ -100,6 +103,7 @@ code,nom,pourcentage,complet
 12231,Saint-Jean-du-Bruel,"100,00",oui
 13021,Carry-le-Rouet,"100,00",oui
 13026,Châteauneuf-les-Martigues,"100,00",oui
+13027,Châteaurenard,"100,00",oui
 13032,Eguilles,"100,00",oui
 13035,Eyguières,"100,00",oui
 13037,La Fare-les-Oliviers,"100,00",oui
@@ -108,6 +112,7 @@ code,nom,pourcentage,complet
 13047,Istres,"100,00",oui
 13050,Lambesc,"100,00",oui
 13056,Martigues,"100,00",oui
+13059,Meyrargues,"100,00",oui
 13066,Noves,"100,00",oui
 13086,Roquevaire,"100,00",oui
 13095,Saint-Marc-Jaumegarde,"100,00",oui
@@ -963,6 +968,7 @@ code,nom,pourcentage,complet
 73011,Albertville,"100,00",oui
 73031,Bassens,"100,00",oui
 73054,Bourg-Saint-Maurice,"100,00",oui
+73065,Chambéry,"100,00",oui
 73182,Mouxy,"100,00",oui
 73186,Notre-Dame-de-Bellecombe,"100,00",oui
 73227,Courchevel,"100,00",oui
@@ -1039,9 +1045,11 @@ code,nom,pourcentage,complet
 77493,Verneuil-l'Etang,"100,00",oui
 77510,Villeneuve-Saint-Denis,"100,00",oui
 77533,Vulaines-sur-Seine,"100,00",oui
+78092,Bougival,"100,00",oui
 78171,Condé-sur-Vesgre,"100,00",oui
 78299,Hardricourt,"100,00",oui
 78300,Hargeville,"100,00",oui
+78442,Neauphle-le-Château,"100,00",oui
 79174,Melle,"100,00",oui
 80001,Abbeville,"100,00",oui
 80010,Ailly-sur-Noye,"100,00",oui
