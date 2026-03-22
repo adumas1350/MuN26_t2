@@ -365,12 +365,14 @@ code,nom,pourcentage,complet
 33312,Parempuyre,"100,00",oui
 33314,Pauillac,"100,00",oui
 33317,Périssac,"100,00",oui
+33318,Pessac,"0,00",non
 33322,Le Pian-Médoc,"100,00",oui
 33348,Queyrac,"100,00",oui
 33366,Saint-André-de-Cubzac,"100,00",oui
 33382,Saint-Christoly-de-Blaye,"100,00",oui
 33389,Saint-Ciers-sur-Gironde,"100,00",oui
 33422,Saint-Jean-d'Illac,"100,00",oui
+33433,Saint-Loubès,"100,00",oui
 33478,Saint-Seurin-sur-l'Isle,"100,00",oui
 33496,Salleboeuf,"100,00",oui
 33544,Le Verdon-sur-Mer,"100,00",oui
@@ -653,7 +655,7 @@ code,nom,pourcentage,complet
 57550,Porcelette,"100,00",oui
 57563,Raville,"100,00",oui
 57606,Saint-Avold,"100,00",oui
-57631,Sarreguemines,"83,33",non
+57631,Sarreguemines,"100,00",oui
 57669,Théding,"100,00",oui
 57672,Thionville,"100,00",oui
 57765,Diesen,"100,00",oui
@@ -1137,6 +1139,7 @@ code,nom,pourcentage,complet
 88413,Saint-Dié-des-Vosges,"100,00",oui
 88429,Saint-Nabord,"100,00",oui
 88453,Seraumont,"100,00",oui
+89024,Auxerre,"100,00",oui
 89046,Bléneau,"100,00",oui
 89055,Brienon-sur-Armançon,"100,00",oui
 89118,Coulanges-la-Vineuse,"100,00",oui
