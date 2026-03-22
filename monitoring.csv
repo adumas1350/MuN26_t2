@@ -26702,7 +26702,7 @@ code,nom,pourcentage,complet
 68384,Zillisheim,0,non
 68385,Zimmerbach,0,non
 68386,Zimmersheim,0,non
-69123SR01,Lyon 1er arrondissement,"94,73",non
+69123SR01,Lyon 1er arrondissement,"100,00",oui
 69123SR02,Lyon 2ème arrondissement,"100,00",oui
 69123SR03,Lyon 3ème arrondissement,"100,00",oui
 69123SR04,Lyon 4ème arrondissement,"100,00",oui
@@ -26711,7 +26711,7 @@ code,nom,pourcentage,complet
 69123SR07,Lyon 7ème arrondissement,"100,00",oui
 69123SR08,Lyon 8ème arrondissement,"100,00",oui
 69123SR09,Lyon 9ème arrondissement,"100,00",oui
-69381,Lyon 1er arrondissement,"94,73",non
+69381,Lyon 1er arrondissement,"100,00",oui
 69382,Lyon 2eme arrondissement,"100,00",oui
 69383,Lyon 3eme arrondissement,"100,00",oui
 69384,Lyon 4eme arrondissement,"100,00",oui
@@ -26832,7 +26832,7 @@ code,nom,pourcentage,complet
 69120,Longessaigne,0,non
 69121,Lozanne,0,non
 69122,Lucenay,0,non
-69123,Lyon,"99,68",non
+69123,Lyon,"100,00",oui
 69124,Marchampt,0,non
 69125,Marcilly-d'Azergues,0,non
 69126,Marcy,0,non
@@ -34625,7 +34625,7 @@ code,nom,pourcentage,complet
 97304,Kourou,"0,00",non
 97305,Macouria,0,non
 97306,Mana,"100,00",oui
-97307,Matoury,"23,52",non
+97307,Matoury,"47,05",non
 97308,Saint-Georges,0,non
 97309,Remire-Montjoly,0,non
 97310,Roura,0,non

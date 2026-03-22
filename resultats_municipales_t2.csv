@@ -2813,8 +2813,8 @@ communes,68,Haut-Rhin,68375,Wittelsheim,2,"100,00",9288,4001,5287,36,47,5204,pro
 communes,68,Haut-Rhin,68376,Wittenheim,2,"100,00",11219,5136,6083,43,40,6000,proportionnel,1,Ensemble pour Wittenheim,LSOC,Liste du Parti socialiste,2614,"43,57",7,7,HOMÉ,Antoine,OUI
 communes,68,Haut-Rhin,68376,Wittenheim,2,"100,00",11219,5136,6083,43,40,6000,proportionnel,2,Nouvelle ambition pour Wittenheim,LDVC,Liste divers centre,424,"7,07",1,1,VERON,Emilie,OUI
 communes,68,Haut-Rhin,68376,Wittenheim,2,"100,00",11219,5136,6083,43,40,6000,proportionnel,3,Wittenheim Demain,LDVC,Liste divers centre,2962,"49,37",25,25,NICO,Mathieu,OUI
-arrondissements_plm,69,Rhône,69381,Lyon 1er arrondissement,2,"94,73",19965,6026,13939,186,73,13680,proportionnel,7,"Pour vivre Lyon, l'union de la gauche et des écologistes avec Yasmine Bouâgga",LDVG,Liste divers gauche,9411,"68,79",,,BOUÂGGA,Yasmine,
-arrondissements_plm,69,Rhône,69381,Lyon 1er arrondissement,2,"94,73",19965,6026,13939,186,73,13680,proportionnel,5,Coeur Lyonnais,LDVC,Liste divers centre,4269,"31,21",,,CÉDAT,Laure,
+arrondissements_plm,69,Rhône,69381,Lyon 1er arrondissement,2,"100,00",19965,6026,13939,186,73,13680,proportionnel,7,"Pour vivre Lyon, l'union de la gauche et des écologistes avec Yasmine Bouâgga",LDVG,Liste divers gauche,9411,"68,79",,,BOUÂGGA,Yasmine,
+arrondissements_plm,69,Rhône,69381,Lyon 1er arrondissement,2,"100,00",19965,6026,13939,186,73,13680,proportionnel,5,Coeur Lyonnais,LDVC,Liste divers centre,4269,"31,21",,,CÉDAT,Laure,
 arrondissements_plm,69,Rhône,69382,Lyon 2eme arrondissement,2,"100,00",21400,6345,15055,160,85,14810,proportionnel,4,Coeur lyonnais,LDVD,Liste divers droite,8857,"59,80",,,OLIVER,Pierre,
 arrondissements_plm,69,Rhône,69382,Lyon 2eme arrondissement,2,"100,00",21400,6345,15055,160,85,14810,proportionnel,3,Pour Vivre Lyon 2e L'Union de la Gauche et des Ecologistes avec Valentin Lungenstrass,LUG,Liste d'union à gauche,5953,"40,20",,,LUNGENSTRASS,Valentin,
 arrondissements_plm,69,Rhône,69383,Lyon 3eme arrondissement,2,"100,00",61896,19380,42516,606,326,41584,proportionnel,7,"Pour vivre Lyon 3e, union de la gauche et des écologistes avec Marion SESSIECQ",LDVG,Liste divers gauche,21822,"52,48",,,SESSIECQ,Marion,
@@ -2850,8 +2850,8 @@ communes,69,Rhône,69100,Irigny,2,"100,00",6714,2375,4339,53,15,4271,proportionn
 communes,69,Rhône,69115,Limas,2,"100,00",3368,1424,1944,16,14,1914,proportionnel,3,VIVRE ET AGIR A LIMAS,LDVD,Liste divers droite,934,"48,80",21,21,GIRIN,Pascal,OUI
 communes,69,Rhône,69115,Limas,2,"100,00",3368,1424,1944,16,14,1914,proportionnel,2,Limas ensemble pour l'avenir,LDVG,Liste divers gauche,491,"25,65",3,3,GRONDIN,Véronique,OUI
 communes,69,Rhône,69115,Limas,2,"100,00",3368,1424,1944,16,14,1914,proportionnel,1,LIMAS UNIS POUR DEMAIN,LDVD,Liste divers droite,489,"25,55",3,3,BOUVANT,Gilles,OUI
-communes,69,Rhône,69123,Lyon,2,"99,68",321188,109006,212182,3772,1768,206642,proportionnel,10,"POUR VIVRE LYON, L'UNION DE LA GAUCHE ET DES ECOLOGISTES AVEC GREGORY DOUCET",LDVG,Liste divers gauche,104702,"50,67",0,0,DOUCET,Grégory,NON
-communes,69,Rhône,69123,Lyon,2,"99,68",321188,109006,212182,3772,1768,206642,proportionnel,7,Coeur Lyonnais,LDVC,Liste divers centre,101940,"49,33",0,0,AULAS,Jean-Michel,NON
+communes,69,Rhône,69123,Lyon,2,"100,00",321188,109006,212182,3772,1768,206642,proportionnel,10,"POUR VIVRE LYON, L'UNION DE LA GAUCHE ET DES ECOLOGISTES AVEC GREGORY DOUCET",LDVG,Liste divers gauche,104702,"50,67",46,46,DOUCET,Grégory,OUI
+communes,69,Rhône,69123,Lyon,2,"100,00",321188,109006,212182,3772,1768,206642,proportionnel,7,Coeur Lyonnais,LDVC,Liste divers centre,101940,"49,33",27,27,AULAS,Jean-Michel,OUI
 communes,69,Rhône,69142,La Mulatière,2,"100,00",3947,1758,2189,29,8,2152,proportionnel,4,Réussir La Mulatière,LDVD,Liste divers droite,790,"36,71",5,5,TOUCHARD,Bénédicte,OUI
 communes,69,Rhône,69142,La Mulatière,2,"100,00",3947,1758,2189,29,8,2152,proportionnel,3,La Mulatière Confluences d'énergies,LDVD,Liste divers droite,363,"16,87",2,2,DÉCHAMPS,Véronique,OUI
 communes,69,Rhône,69142,La Mulatière,2,"100,00",3947,1758,2189,29,8,2152,proportionnel,5,MULATIERE D'AVENIR,LDVC,Liste divers centre,999,"46,42",22,22,BOST,Maxime,OUI
@@ -3854,9 +3854,9 @@ communes,91,Essonne,91347,Longpont-sur-Orge,2,"100,00",4625,2113,2512,23,17,2472
 communes,91,Essonne,91377,Massy,2,"100,00",30660,15470,15190,154,103,14933,proportionnel,4,Changer d'air !,LSOC,Liste du Parti socialiste,1872,"12,54",2,2,CULIOLI,Charles,OUI
 communes,91,Essonne,91377,Massy,2,"100,00",30660,15470,15190,154,103,14933,proportionnel,3,Massy pour vous,LUC,Liste d'union au centre,8245,"55,21",36,36,SAMSOEN,Nicolas,OUI
 communes,91,Essonne,91377,Massy,2,"100,00",30660,15470,15190,154,103,14933,proportionnel,7,Pour que Massy respire,LUG,Liste d'union à gauche,4816,"32,25",7,7,KRIBI-ROMDHANE,Hella,OUI
-communes,91,Essonne,91421,Montgeron,2,"100,00",15891,6771,9120,83,59,8978,proportionnel,2,Montgeron en commun 2026,LUG,Liste d'union à gauche,3280,"36,53",6,6,CIÉPLINSKI,Céline,OUI
-communes,91,Essonne,91421,Montgeron,2,"100,00",15891,6771,9120,83,59,8978,proportionnel,3,Engagés pour Montgeron,LEXD,Liste d'extrême droite,1309,"14,58",2,2,MILOSEVIC,Stefan,OUI
-communes,91,Essonne,91421,Montgeron,2,"100,00",15891,6771,9120,83,59,8978,proportionnel,1,Montgeron pour la vie !,LLR,Liste des Républicains,4389,"48,89",27,27,CARILLON,Sylvie,OUI
+communes,91,Essonne,91421,Montgeron,2,"100,00",15891,6771,9120,83,59,8978,proportionnel,2,Montgeron en commun 2026,LUG,Liste d'union à gauche,3280,"36,53",0,0,CIÉPLINSKI,Céline,NON
+communes,91,Essonne,91421,Montgeron,2,"100,00",15891,6771,9120,83,59,8978,proportionnel,3,Engagés pour Montgeron,LEXD,Liste d'extrême droite,1309,"14,58",0,0,MILOSEVIC,Stefan,NON
+communes,91,Essonne,91421,Montgeron,2,"100,00",15891,6771,9120,83,59,8978,proportionnel,1,Montgeron pour la vie !,LLR,Liste des Républicains,4389,"48,89",0,0,CARILLON,Sylvie,NON
 communes,91,Essonne,91477,Palaiseau,2,"100,00",22365,9618,12747,247,127,12373,proportionnel,8,Rassembler Palaiseau,LUG,Liste d'union à gauche,5579,"45,09",9,9,FINEL,Olivier,OUI
 communes,91,Essonne,91477,Palaiseau,2,"100,00",22365,9618,12747,247,127,12373,proportionnel,2,100% Palaiseau avec Grégoire de Lasteyrie,LDVC,Liste divers centre,6794,"54,91",30,30,DE LASTEYRIE,Grégoire,OUI
 communes,91,Essonne,91521,Ris-Orangis,2,"100,00",15309,7480,7829,90,67,7672,proportionnel,1,RENOUVEAU CITOYEN RIS-ORANGIS,LDIV,Liste Divers,3793,"49,44",30,30,BENAMEUR,Sonia,OUI
@@ -4125,8 +4125,8 @@ communes,971,Guadeloupe,97128,Sainte-Anne,2,"4,00",496,241,255,7,3,245,proportio
 communes,971,Guadeloupe,97128,Sainte-Anne,2,"4,00",496,241,255,7,3,245,proportionnel,8,RASSEMBLEMENT DEMOCRATIQUE SAINTANNAIS,LDVG,Liste divers gauche,77,"31,43",0,0,BAPTISTE,Francs,NON
 communes,973,Guyane,97306,Mana,2,"100,00",3375,1032,2343,9,10,2324,proportionnel,1,MANA DEMAIN,LDVG,Liste divers gauche,1191,"51,25",25,25,BENTH,Alberic,OUI
 communes,973,Guyane,97306,Mana,2,"100,00",3375,1032,2343,9,10,2324,proportionnel,4,NOUVEL ELAN MANANAIS,LDIV,Liste Divers,1133,"48,75",8,8,JADFARD,Jean-Claude,OUI
-communes,973,Guyane,97307,Matoury,2,"23,52",7153,3753,3400,59,51,3290,proportionnel,4,Viv Matoury,LREG,Liste régionaliste,1597,"48,54",0,0,GRAND-EMILE,Eline,NON
-communes,973,Guyane,97307,Matoury,2,"23,52",7153,3753,3400,59,51,3290,proportionnel,2,Matoury 2026 - AVEC VOUS ENCORE PLUS LOIN,LDVG,Liste divers gauche,1693,"51,46",0,0,SMOCK,Serge,NON
+communes,973,Guyane,97307,Matoury,2,"47,05",7153,3753,3400,59,51,3290,proportionnel,4,Viv Matoury,LREG,Liste régionaliste,1597,"48,54",0,0,GRAND-EMILE,Eline,NON
+communes,973,Guyane,97307,Matoury,2,"47,05",7153,3753,3400,59,51,3290,proportionnel,2,Matoury 2026 - AVEC VOUS ENCORE PLUS LOIN,LDVG,Liste divers gauche,1693,"51,46",0,0,SMOCK,Serge,NON
 communes,974,La Réunion,97408,La Possession,2,"100,00",26407,11454,14953,208,178,14567,proportionnel,7,LE CHANGEMENT C'EST NOUS,LDVG,Liste divers gauche,7334,"50,35",30,30,FONTAINE,Erick,OUI
 communes,974,La Réunion,97408,La Possession,2,"100,00",26407,11454,14953,208,178,14567,proportionnel,5,LA POSSESSION EN ACTION 2026,LECO,Liste écologiste,7233,"49,65",9,9,MIRANVILLE,Vanessa,OUI
 communes,974,La Réunion,97409,Saint-André,2,"100,00",42938,17571,25367,474,577,24316,proportionnel,11,"SAINT-ANDRE, HORIZON 2032",LDVG,Liste divers gauche,12175,"50,07",34,34,BEDIER,Joé,OUI
