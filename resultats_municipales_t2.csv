@@ -1,4 +1,8 @@
 source,code_departement,nom_departement,code_circonscription,nom_circonscription,tour,taux_depouillment,inscrits,abstentions,votants,blancs,nuls,exprimes,type_scrutin,num_liste,nom_liste,cod_nua,lib_nua,nb_voix,rapport_exprimes,nb_sieges,nb_sieges_cm,nom_candidat,prenom_candidat,elu
+communes,01,Ain,01249,Miribel,2,"100,00",7293,3373,3920,41,27,3852,proportionnel,3,CAP SUR DEMAIN - MIRIBEL - LE MAS RILLIER - LES ECHETS,LDVC,Liste divers centre,379,"9,84",1,1,DESCOURS,Nathalie,OUI
+communes,01,Ain,01249,Miribel,2,"100,00",7293,3373,3920,41,27,3852,proportionnel,4,MIRIBEL C'EST VOUS,LDIV,Liste Divers,1466,"38,06",6,6,BOYET,Jérôme,OUI
+communes,01,Ain,01249,Miribel,2,"100,00",7293,3373,3920,41,27,3852,proportionnel,1,MIRIBEL AU COEUR,LDIV,Liste Divers,1535,"39,85",24,24,VIRICEL,Sylvie,OUI
+communes,01,Ain,01249,Miribel,2,"100,00",7293,3373,3920,41,27,3852,proportionnel,2,"Miribel, responsable et ambitieuse",LDVD,Liste divers droite,472,"12,25",2,2,NAZARET,Tanguy,OUI
 communes,02,Aisne,02011,Ambleny,2,"100,00",939,350,589,3,1,585,proportionnel,3,"AMBLENY, CAP SUR L'AVENIR",,,204,"34,87",3,3,BRIEN,Bernard,OUI
 communes,02,Aisne,02011,Ambleny,2,"100,00",939,350,589,3,1,585,proportionnel,2,AU COEUR D'AMBLENY,,,68,"11,62",0,0,TOUZET,Aurélie,NON
 communes,02,Aisne,02011,Ambleny,2,"100,00",939,350,589,3,1,585,proportionnel,1,OSEZ AVEC NOUS,,,313,"53,50",12,12,LEFEVRE,Philippe,OUI
@@ -51,6 +55,8 @@ communes,03,Allier,03225,Saint-Désiré,2,"100,00",398,84,314,3,1,310,proportion
 communes,03,Allier,03315,Villefranche-d'Allier,2,"100,00",835,160,675,2,6,667,proportionnel,1,Agir ensemble pour Villefranche,,,218,"32,68",2,2,BUREAU,David,OUI
 communes,03,Allier,03315,Villefranche-d'Allier,2,"100,00",835,160,675,2,6,667,proportionnel,2,"CONTINUONS, POUR VILLEFRANCHE",,,130,"19,49",1,1,LABOISSE,Denis,OUI
 communes,03,Allier,03315,Villefranche-d'Allier,2,"100,00",835,160,675,2,6,667,proportionnel,3,AVEC VOUS,,,319,"47,83",12,12,AUBERGER,Josiane,OUI
+communes,04,Alpes-de-Haute-Provence,04070,Digne-les-Bains,2,"92,30",7566,3169,4397,111,79,4207,proportionnel,5,Terre Dignoise 2026,LDVC,Liste divers centre,1602,"38,08",0,0,CHALVET,Gilles,NON
+communes,04,Alpes-de-Haute-Provence,04070,Digne-les-Bains,2,"92,30",7566,3169,4397,111,79,4207,proportionnel,1,TOUJOURS DIGNE,LDVG,Liste divers gauche,2605,"61,92",0,0,DI BENEDETTO,Julien,NON
 communes,04,Alpes-de-Haute-Provence,04084,Estoublon,2,"100,00",408,55,353,5,3,345,proportionnel,1,Ensemble pour l'Avenir d'ESTOUBLON,,,47,"13,62",0,,MAZZARA,Serge,NON
 communes,04,Alpes-de-Haute-Provence,04084,Estoublon,2,"100,00",408,55,353,5,3,345,proportionnel,2,à Coeur pour Estoublon,,,125,"36,23",2,,DEMICHELIS,Annie,OUI
 communes,04,Alpes-de-Haute-Provence,04084,Estoublon,2,"100,00",408,55,353,5,3,345,proportionnel,3,ESTOUBLON avec passion et ambitions,,,173,"50,14",9,,TOUSSAINT,Carole,OUI
@@ -374,6 +380,10 @@ communes,24,Dordogne,24218,Jumilhac-le-Grand,2,"100,00",887,199,688,17,26,645,pr
 communes,24,Dordogne,24242,Liorac-sur-Louyre,2,"100,00",255,40,215,0,1,214,proportionnel,3,ENSEMBLE POUR LIORAC,,,48,"22,43",1,,VALLEZ,Didier,OUI
 communes,24,Dordogne,24242,Liorac-sur-Louyre,2,"100,00",255,40,215,0,1,214,proportionnel,2,VIVRE A LIORAC,,,92,"42,99",8,,FERRE,Gérard,OUI
 communes,24,Dordogne,24242,Liorac-sur-Louyre,2,"100,00",255,40,215,0,1,214,proportionnel,1,Tous unis pour l'avenir de Liorac,,,74,"34,58",2,,THIBAULT,Eric,OUI
+communes,24,Dordogne,24256,Marsac-sur-l'Isle,2,"33,33",2563,1044,1519,18,27,1474,proportionnel,4,MARSAC SUR L'ISLE ENSEMBLE ET AUTREMENT,,,788,"53,46",19,19,FAURE,Marie-Laure,OUI
+communes,24,Dordogne,24256,Marsac-sur-l'Isle,2,"33,33",2563,1044,1519,18,27,1474,proportionnel,3,JOIE DE VIVRE A MARSAC SUR L'ISLE,,,141,"9,57",1,1,AMBROISE,Williams,OUI
+communes,24,Dordogne,24256,Marsac-sur-l'Isle,2,"33,33",2563,1044,1519,18,27,1474,proportionnel,2,BIEN  VIVRE A MARSAC SUR L'ISLE,,,321,"21,78",2,2,BIDAUD,Yannick,OUI
+communes,24,Dordogne,24256,Marsac-sur-l'Isle,2,"33,33",2563,1044,1519,18,27,1474,proportionnel,1,REVOIR CLAIR A MARSAC-SUR-L'ISLE,,,224,"15,20",1,1,BISSON,Jean-Bernard,OUI
 communes,24,Dordogne,24352,Ribérac,2,"100,00",2799,833,1966,31,22,1913,proportionnel,2,RIBERAC DEMAIN !,LDVG,Liste divers gauche,828,"43,28",20,20,PLATON,Nicolas,OUI
 communes,24,Dordogne,24352,Ribérac,2,"100,00",2799,833,1966,31,22,1913,proportionnel,1,UNIS POUR RIBERAC !,LDVD,Liste divers droite,279,"14,58",2,2,BLANCHARDIE,Franck,OUI
 communes,24,Dordogne,24352,Ribérac,2,"100,00",2799,833,1966,31,22,1913,proportionnel,3,AGIR ENSEMBLE POUR RIBERAC,LDVC,Liste divers centre,806,"42,13",5,5,CHOTARD,Philippe,OUI
@@ -1047,6 +1057,12 @@ communes,59,Nord,59152,Comines,2,"100,00",10060,4643,5417,136,114,5167,proportio
 communes,59,Nord,59153,Condé-sur-l'Escaut,2,"100,00",5958,2738,3220,69,0,3151,proportionnel,3,Condé avec élan et ambition,LUDI,Liste de l'Union des Démocrates et des Indépendants,945,"29,99",4,4,LELONG,Gregory,OUI
 communes,59,Nord,59153,Condé-sur-l'Escaut,2,"100,00",5958,2738,3220,69,0,3151,proportionnel,2,ENSEMBLE ET AUTREMENT POUR CONDÉ,LDVG,Liste divers gauche,1751,"55,57",23,23,BOIS,Joël,OUI
 communes,59,Nord,59153,Condé-sur-l'Escaut,2,"100,00",5958,2738,3220,69,0,3151,proportionnel,1,TOUS POUR CONDE SUR L'ESCAUT,LDVC,Liste divers centre,455,"14,44",2,2,MILLET-VÉZILIER,Carole,OUI
+communes,59,Nord,59178,Douai,2,"100,00",26538,12569,13969,136,155,13678,proportionnel,2,"Ensemble, Douai redevient Géante !",LDVD,Liste divers droite,2412,"17,63",3,3,CRAEYE,Coline,OUI
+communes,59,Nord,59178,Douai,2,"100,00",26538,12569,13969,136,155,13678,proportionnel,5,Unis Pour Douai,LRN,Liste du Rassemblement National,5556,"40,62",9,9,TESSON,Thierry,OUI
+communes,59,Nord,59178,Douai,2,"100,00",26538,12569,13969,136,155,13678,proportionnel,9,DOUAI TOUJOURS !,LUG,Liste d'union à gauche,5710,"41,75",31,31,CHÉREAU,Frédéric,OUI
+communes,59,Nord,59179,Douchy-les-Mines,2,"100,00",7285,2850,4435,43,26,4366,proportionnel,3,À VOS CÔTÉS,LDVG,Liste divers gauche,1712,"39,21",23,23,MERVILLE,Romain,OUI
+communes,59,Nord,59179,Douchy-les-Mines,2,"100,00",7285,2850,4435,43,26,4366,proportionnel,2,"POUR DOUCHY FIÈRE, UNIE ET SOLIDAIRE",LCOM,Liste du Parti communiste français,1096,"25,10",4,4,LEFEBVRE,Michel,OUI
+communes,59,Nord,59179,Douchy-les-Mines,2,"100,00",7285,2850,4435,43,26,4366,proportionnel,1,"DOUCHY, LE TEMPS DU CHANGEMENT !",LRN,Liste du Rassemblement National,1558,"35,68",6,6,MESNAGER,Bryan,OUI
 communes,59,Nord,59205,Escaudain,2,"100,00",6282,3073,3209,27,17,3165,proportionnel,2,OBJECTIF ESCAUDAIN,LDVD,Liste divers droite,1671,"52,80",23,23,MERCIER DHENNAIN,Catherine,OUI
 communes,59,Nord,59205,Escaudain,2,"100,00",6282,3073,3209,27,17,3165,proportionnel,1,ESCAUDAIN AU COEUR - L'HUMAIN D'ABORD,LCOM,Liste du Parti communiste français,1012,"31,97",4,4,SALIGOT,Bruno,OUI
 communes,59,Nord,59205,Escaudain,2,"100,00",6282,3073,3209,27,17,3165,proportionnel,3,ESCAUDAIN POUR TOUS,LDVD,Liste divers droite,482,"15,23",2,2,SPECQ,Eric,OUI
@@ -1061,18 +1077,30 @@ communes,59,Nord,59263,Goeulzin,2,"100,00",870,171,699,7,0,692,proportionnel,1,C
 communes,59,Nord,59266,Gondecourt,2,"100,00",3435,1411,2024,29,14,1981,proportionnel,3,Mon parti c'est Gondecourt,LDVD,Liste divers droite,147,"7,42",1,1,LÉVECQ,Guillaume François Charles,OUI
 communes,59,Nord,59266,Gondecourt,2,"100,00",3435,1411,2024,29,14,1981,proportionnel,2,GONDECOURT DEMAIN,LDVC,Liste divers centre,941,"47,50",20,20,BUÉ,Régis,OUI
 communes,59,Nord,59266,Gondecourt,2,"100,00",3435,1411,2024,29,14,1981,proportionnel,1,Ensemble Vivons Gondecourt,LDVG,Liste divers gauche,893,"45,08",6,6,HALLOT,Vincent,OUI
+communes,59,Nord,59276,Guesnain,2,"100,00",3336,1152,2184,23,23,2138,proportionnel,1,"A GUESNAIN, L'ESSENTIEL C'EST VOUS",LDIV,Liste Divers,537,"25,12",3,3,SAENEN,Romuald,OUI
+communes,59,Nord,59276,Guesnain,2,"100,00",3336,1152,2184,23,23,2138,proportionnel,2,"GUESNAIN, NOTRE VILLE, VOTRE AVENIR",LDVG,Liste divers gauche,587,"27,46",4,4,DEVRED,Sylvain,OUI
+communes,59,Nord,59276,Guesnain,2,"100,00",3336,1152,2184,23,23,2138,proportionnel,3,Fidèles à Guesnain tournés vers demain,LDVG,Liste divers gauche,1014,"47,43",20,20,LUCAS,Maryline,OUI
 communes,59,Nord,59279,Halluin,2,"100,00",15417,7835,7582,181,96,7305,proportionnel,4,"UN SAVOIR-FAIRE, UNE ÉNERGIE NOUVELLE",LDVD,Liste divers droite,2380,"32,58",5,5,DESTAILLEUR,Jean-Christophe,OUI
 communes,59,Nord,59279,Halluin,2,"100,00",15417,7835,7582,181,96,7305,proportionnel,1,VOUS ÊTES HALLUIN,LDVC,Liste divers centre,4925,"67,42",30,30,CAURE,Laurent,OUI
 communes,59,Nord,59284,Hasnon,2,"100,00",3144,907,2237,24,5,2208,proportionnel,2,"Hasnon, une ambition partagée",LDVG,Liste divers gauche,823,"37,27",5,5,DESMEDT,André,OUI
 communes,59,Nord,59284,Hasnon,2,"100,00",3144,907,2237,24,5,2208,proportionnel,1,COEUR D'HASNONAIS,LDVG,Liste divers gauche,1110,"50,27",21,21,VERDIERE,Andy,OUI
 communes,59,Nord,59284,Hasnon,2,"100,00",3144,907,2237,24,5,2208,proportionnel,4,UN NOUVEL ELAN POUR HASNON,LRN,Liste du Rassemblement National,275,"12,45",1,1,GILLOT,Emmanuel,OUI
+communes,59,Nord,59286,Haubourdin,2,"100,00",9889,5050,4839,40,28,4771,proportionnel,3,Haubourdin Alternative Citoyenne,LDVG,Liste divers gauche,537,"11,26",1,1,MARECAILLE,Emmanuel,OUI
+communes,59,Nord,59286,Haubourdin,2,"100,00",9889,5050,4839,40,28,4771,proportionnel,1,AGISSONS ENSEMBLE POUR HAUBOURDIN,LDVD,Liste divers droite,2580,"54,08",26,26,BEHARELLE,Pierre,OUI
+communes,59,Nord,59286,Haubourdin,2,"100,00",9889,5050,4839,40,28,4771,proportionnel,2,"HAUBOURDIN, FIÈRE ET VIVANTE",LRN,Liste du Rassemblement National,1654,"34,67",6,6,CATTEAU,Victor,OUI
 communes,59,Nord,59302,Hérin,2,"100,00",3007,1065,1942,29,40,1873,proportionnel,1,"Hérin, Ensemble vers l'avenir",LDVG,Liste divers gauche,973,"51,95",21,21,PASEK,Florent,OUI
 communes,59,Nord,59302,Hérin,2,"100,00",3007,1065,1942,29,40,1873,proportionnel,2,Tous unis agissons pour Hérin,LDVC,Liste divers centre,900,"48,05",6,6,FILMOTTE,Mathieu,OUI
 communes,59,Nord,59305,Herzeele,2,"100,00",1302,314,988,7,5,976,proportionnel,1,Ensemble faisons battre le coeur d'Herzeele,,,279,"28,59",2,2,VANHERSEL,Valerie,OUI
 communes,59,Nord,59305,Herzeele,2,"100,00",1302,314,988,7,5,976,proportionnel,3,herzeele c'est vous,,,216,"22,13",2,2,BOUCKENOOGHE,Celine,OUI
 communes,59,Nord,59305,Herzeele,2,"100,00",1302,314,988,7,5,976,proportionnel,2,Tous unis pour Herzeele,,,481,"49,28",15,15,FRANCKE,Stephane,OUI
+communes,59,Nord,59328,Lambersart,2,"100,00",20259,9081,11178,127,88,10963,proportionnel,5,Lambersart En Commun,LUG,Liste d'union à gauche,1503,"13,71",2,2,SCHMITT,François,OUI
+communes,59,Nord,59328,Lambersart,2,"100,00",20259,9081,11178,127,88,10963,proportionnel,1,LAURENT FRAPPART POUR LAMBERSART,LDVC,Liste divers centre,3607,"32,90",6,6,FRAPPART,Laurent,OUI
+communes,59,Nord,59328,Lambersart,2,"100,00",20259,9081,11178,127,88,10963,proportionnel,2,Préservons Lambersart,LDIV,Liste Divers,1052,"9,60",1,1,GUNS,Gontran,OUI
+communes,59,Nord,59328,Lambersart,2,"100,00",20259,9081,11178,127,88,10963,proportionnel,4,NicolasBouche2026,LDVC,Liste divers centre,4801,"43,79",26,26,BOUCHE,Nicolas,OUI
 communes,59,Nord,59349,Ligny-en-Cambrésis,2,"100,00",1381,423,958,23,17,918,proportionnel,1,"AVEC VOUS, FAISONS VIVRE LIGNY",,,512,"55,77",15,15,MERIAUX,Christelle,OUI
 communes,59,Nord,59349,Ligny-en-Cambrésis,2,"100,00",1381,423,958,23,17,918,proportionnel,2,"Notre priorité, c'est vous !",,,406,"44,23",4,4,LÉONARD,Julien,OUI
+communes,59,Nord,59388,Marquillies,2,"100,00",1643,590,1053,15,14,1024,proportionnel,2,AGIR ENSEMBLE,,,553,"54,00",15,15,BOCQUET,Eric,OUI
+communes,59,Nord,59388,Marquillies,2,"100,00",1643,590,1053,15,14,1024,proportionnel,4,COEURS DE MARQUILLIES 2026,,,471,"46,00",4,4,RIBAILLE,Jacques,OUI
 communes,59,Nord,59428,Neuville-Saint-Rémy,2,"100,00",2829,1115,1714,21,21,1672,proportionnel,3,Ensemble pour Neuville Saint Rémy,LDVD,Liste divers droite,602,"36,00",5,5,ROCQUET,Dimitri,OUI
 communes,59,Nord,59428,Neuville-Saint-Rémy,2,"100,00",2829,1115,1714,21,21,1672,proportionnel,2,UN NOUVEAU CAP POUR NEUVILLE SAINT REMY,LLR,Liste des Républicains,420,"25,12",3,3,FREMEAUX,Vincent,OUI
 communes,59,Nord,59428,Neuville-Saint-Rémy,2,"100,00",2829,1115,1714,21,21,1672,proportionnel,1,NEUVILLE SAINT REMY ENCORE PLUS LOIN,LDVD,Liste divers droite,650,"38,88",19,19,DUMONT,Christian,OUI
@@ -1092,6 +1120,9 @@ communes,59,Nord,59550,Salomé,2,"100,00",2449,922,1527,22,13,1492,proportionnel
 communes,59,Nord,59597,Tilloy-lez-Cambrai,2,"100,00",548,55,493,7,5,481,proportionnel,3,"ENSEMBLE, ENGAGEONS-NOUS POUR TILLOY-LEZ-CAMBRAI",,,46,"9,56",0,,MONIEZ,Nathalie,NON
 communes,59,Nord,59597,Tilloy-lez-Cambrai,2,"100,00",548,55,493,7,5,481,proportionnel,2,CONTINUONS ENSEMBLE VERS UN AVENIR SEREIN,,,228,"47,40",12,,LANCEL,Sonia,OUI
 communes,59,Nord,59597,Tilloy-lez-Cambrai,2,"100,00",548,55,493,7,5,481,proportionnel,1,mieux vivre ensemble à tilloy-lez-cambrai,,,207,"43,04",3,,METHNER,Rose-Marie,OUI
+communes,59,Nord,59606,Valenciennes,2,"100,00",25821,11343,14478,292,180,14006,proportionnel,1,VALENCIENNES POUR VOUS & AVEC VOUS,LDVD,Liste divers droite,5115,"36,52",30,30,DEGALLAIX,Laurent,OUI
+communes,59,Nord,59606,Valenciennes,2,"100,00",25821,11343,14478,292,180,14006,proportionnel,4,RASSEMBLER VALENCIENNES,LRN,Liste du Rassemblement National,4331,"30,92",6,6,ADRIENCENSE,Tanneguy,OUI
+communes,59,Nord,59606,Valenciennes,2,"100,00",25821,11343,14478,292,180,14006,proportionnel,3,Valenciennes Autrement,LUG,Liste d'union à gauche,4560,"32,56",7,7,TROADEC,Luce,OUI
 communes,59,Nord,59614,Viesly,2,"100,00",1088,333,755,5,12,738,proportionnel,2,TOUS POUR VIESLY,,,258,"34,96",2,2,QUARRE,Gilles,OUI
 communes,59,Nord,59614,Viesly,2,"100,00",1088,333,755,5,12,738,proportionnel,3,BIEN VIVRE A VIESLY,,,262,"35,50",11,11,BALEMBOIS,Maryse,OUI
 communes,59,Nord,59614,Viesly,2,"100,00",1088,333,755,5,12,738,proportionnel,1,"VIESLY, NOTRE AVENIR COMMUN",,,218,"29,54",2,2,SANTERRE,Pascal,OUI
@@ -1099,6 +1130,8 @@ communes,59,Nord,59639,Wargnies-le-Grand,2,"100,00",858,156,702,7,3,692,proporti
 communes,59,Nord,59639,Wargnies-le-Grand,2,"100,00",858,156,702,7,3,692,proportionnel,3,WARGNIES EN GRAND,,,419,"60,55",12,12,ZAREMBA,Jérémy,OUI
 communes,59,Nord,59651,Wavrechain-sous-Denain,2,"100,00",1093,326,767,8,8,751,proportionnel,6,ENSEMBLE AGISSONS POUR L'AVENIR DE NOTRE VILLAGE,,,382,"50,87",15,15,DELCROIX,Jacques,OUI
 communes,59,Nord,59651,Wavrechain-sous-Denain,2,"100,00",1093,326,767,8,8,751,proportionnel,5,"WAVRECHAIN-SOUS-DENAIN VOS IDEES, NOS ACTIONS !",,,369,"49,13",4,4,BURETTE,Jean-François,OUI
+communes,59,Nord,59659,Wignehies,2,"100,00",1969,670,1299,19,12,1268,proportionnel,4,UNE EQUIPE ENGAGEE ET RENFORCEE POUR VOUS,,,607,"47,87",5,5,BERTIN,Jean Guy,OUI
+communes,59,Nord,59659,Wignehies,2,"100,00",1969,670,1299,19,12,1268,proportionnel,2,REUSSIR ENSEMBLE POUR WIGNEHIES,,,661,"52,13",18,18,CHIKH,Clement,OUI
 communes,60,Oise,60024,Arsy,2,"100,00",633,153,480,2,0,478,proportionnel,3,ARSY AVEC VOUS,,,50,"10,46",0,,MARINO,Erwan,NON
 communes,60,Oise,60024,Arsy,2,"100,00",633,153,480,2,0,478,proportionnel,2,Ensemble autrement,,,198,"41,42",3,,AVERTY NÉE LEDOUX,Brigitte,OUI
 communes,60,Oise,60024,Arsy,2,"100,00",633,153,480,2,0,478,proportionnel,1,Tous unis pour Arsy,,,230,"48,12",12,,THIBAULT,Joël,OUI
@@ -1412,6 +1445,9 @@ communes,69,Rhône,69143,Neuville-sur-Saône,2,"100,00",5359,2215,3144,23,13,310
 communes,69,Rhône,69143,Neuville-sur-Saône,2,"100,00",5359,2215,3144,23,13,3108,proportionnel,2,Neuville avec vous,LDVC,Liste divers centre,1127,"36,26",20,20,BOUREZG,Youcef,OUI
 communes,69,Rhône,69267,Villié-Morgon,2,"100,00",1810,607,1203,34,14,1155,proportionnel,2,Villié-Morgon Passionnément,,,676,"58,53",15,15,LAPLACE,Nicolas,OUI
 communes,69,Rhône,69267,Villié-Morgon,2,"100,00",1810,607,1203,34,14,1155,proportionnel,3,Continuons d'agir pour Villié-Morgon,,,479,"41,47",4,4,LAMURE,Thierry,OUI
+communes,69,Rhône,69271,Chassieu,2,"100,00",8326,3327,4999,80,29,4890,proportionnel,2,Chassieu Renouveau,LRN,Liste du Rassemblement National,647,"13,23",2,2,PRIMAULT,Laurent,OUI
+communes,69,Rhône,69271,Chassieu,2,"100,00",8326,3327,4999,80,29,4890,proportionnel,3,Chassieu Mon Seul Parti,LDVD,Liste divers droite,1755,"35,89",6,6,SELLES,Jean-Jacques,OUI
+communes,69,Rhône,69271,Chassieu,2,"100,00",8326,3327,4999,80,29,4890,proportionnel,5,CHASSIEU DEMAIN,LDVD,Liste divers droite,2488,"50,88",25,25,DANTE,Stéphane,OUI
 communes,70,Haute-Saône,70021,Andornay,2,"100,00",141,21,120,0,1,119,proportionnel,3,ANDORNAY ENSEMBLE,,,46,"38,66",2,,AMOR,Bernard,OUI
 communes,70,Haute-Saône,70021,Andornay,2,"100,00",141,21,120,0,1,119,proportionnel,4,ANDORNAY,,,73,"61,34",9,,LAINE,Lionel,OUI
 communes,70,Haute-Saône,70079,Bougnon,2,"100,00",409,103,306,5,2,299,proportionnel,2,"Bougnon, village humain et solidaire",,,155,"51,84",9,,VON FELTEN,Karl,OUI

@@ -20,6 +20,7 @@ code,nom,pourcentage,complet
 03101,Domérat,"100,00",oui
 03225,Saint-Désiré,"100,00",oui
 03315,Villefranche-d'Allier,"100,00",oui
+04070,Digne-les-Bains,"92,30",non
 04084,Estoublon,"100,00",oui
 04145,Peipin,"100,00",oui
 04149,Peyruis,"100,00",oui
@@ -149,6 +150,7 @@ code,nom,pourcentage,complet
 24165,Eygurande-et-Gardedeuil,"100,00",oui
 24218,Jumilhac-le-Grand,"100,00",oui
 24242,Liorac-sur-Louyre,"100,00",oui
+24256,Marsac-sur-l'Isle,"33,33",non
 24352,Ribérac,"100,00",oui
 24376,Saint Aulaye-Puymangou,"100,00",oui
 24454,Saint-Martin-de-Gurson,"100,00",oui
@@ -432,16 +434,22 @@ code,nom,pourcentage,complet
 59122,Cambrai,"100,00",oui
 59152,Comines,"100,00",oui
 59153,Condé-sur-l'Escaut,"100,00",oui
+59178,Douai,"100,00",oui
+59179,Douchy-les-Mines,"100,00",oui
 59205,Escaudain,"100,00",oui
 59226,Felleries,"100,00",oui
 59256,Fretin,"100,00",oui
 59263,Goeulzin,"100,00",oui
 59266,Gondecourt,"100,00",oui
+59276,Guesnain,"100,00",oui
 59279,Halluin,"100,00",oui
 59284,Hasnon,"100,00",oui
+59286,Haubourdin,"100,00",oui
 59302,Hérin,"100,00",oui
 59305,Herzeele,"100,00",oui
+59328,Lambersart,"100,00",oui
 59349,Ligny-en-Cambrésis,"100,00",oui
+59388,Marquillies,"100,00",oui
 59428,Neuville-Saint-Rémy,"100,00",oui
 59482,Quesnoy-sur-Deûle,"100,00",oui
 59485,Quiévy,"100,00",oui
@@ -449,9 +457,11 @@ code,nom,pourcentage,complet
 59502,Rieux-en-Cambrésis,"100,00",oui
 59550,Salomé,"100,00",oui
 59597,Tilloy-lez-Cambrai,"100,00",oui
+59606,Valenciennes,"100,00",oui
 59614,Viesly,"100,00",oui
 59639,Wargnies-le-Grand,"100,00",oui
 59651,Wavrechain-sous-Denain,"100,00",oui
+59659,Wignehies,"100,00",oui
 60024,Arsy,"100,00",oui
 60115,Bulles,"100,00",oui
 60233,Feuquières,"100,00",oui
@@ -574,6 +584,7 @@ code,nom,pourcentage,complet
 69071,Curis-au-Mont-d'Or,"100,00",oui
 69143,Neuville-sur-Saône,"100,00",oui
 69267,Villié-Morgon,"100,00",oui
+69271,Chassieu,"100,00",oui
 70021,Andornay,"100,00",oui
 70079,Bougnon,"100,00",oui
 70388,Noidans-lès-Vesoul,"100,00",oui
