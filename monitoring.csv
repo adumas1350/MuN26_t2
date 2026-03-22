@@ -1157,7 +1157,7 @@ code,nom,pourcentage,complet
 78062,Beynes,"100,00",oui
 78092,Bougival,"100,00",oui
 78123,Carrières-sous-Poissy,"100,00",oui
-78158,Le Chesnay-Rocquencourt,"83,33",non
+78158,Le Chesnay-Rocquencourt,"100,00",oui
 78171,Condé-sur-Vesgre,"100,00",oui
 78172,Conflans-Sainte-Honorine,"100,00",oui
 78217,Epône,"100,00",oui
@@ -1377,6 +1377,7 @@ code,nom,pourcentage,complet
 92063,Rueil-Malmaison,"100,00",oui
 92071,Sceaux,"100,00",oui
 92072,Sèvres,"100,00",oui
+93001,Aubervilliers,"100,00",oui
 93006,Bagnolet,"100,00",oui
 93007,Le Blanc-Mesnil,"100,00",oui
 93008,Bobigny,"100,00",oui
@@ -1442,6 +1443,7 @@ code,nom,pourcentage,complet
 95627,Vallangoujard,"100,00",oui
 95641,Vémars,"100,00",oui
 95680,Villiers-le-Bel,"100,00",oui
+97306,Mana,"100,00",oui
 97408,La Possession,"100,00",oui
 97409,Saint-André,"100,00",oui
 97413,Saint-Leu,"100,00",oui
