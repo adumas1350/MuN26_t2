@@ -26988,7 +26988,7 @@ code,nom,pourcentage,complet
 69002,Métropole de Lyon 2ème circonscription (Lyon-Ouest),"100,00",oui
 69003,Métropole de Lyon 3ème circonscription (Lyon-Sud),"100,00",oui
 69004,Métropole de Lyon 4ème circonscription (Lyon-Centre),"100,00",oui
-69005,Métropole de Lyon 5ème circonscription (Lyon-Est),"97,50",non
+69005,Métropole de Lyon 5ème circonscription (Lyon-Est),"100,00",oui
 69006,Métropole de Lyon 6ème circonscription (Lyon-Nord),"100,00",oui
 69007,Métropole de Lyon 7ème circonscription (Lyon-Sud-Est),"100,00",oui
 69008,Métropole de Lyon 8ème circonscription (Ouest),0,non
@@ -29005,36 +29005,36 @@ code,nom,pourcentage,complet
 75056SR05,Paris 5ème arrondissement,"100,00",oui
 75056SR06,Paris 6ème arrondissement,"100,00",oui
 75056SR07,Paris 7ème arrondissement,0,non
-75056SR08,Paris 8ème arrondissement,"94,44",non
+75056SR08,Paris 8ème arrondissement,"100,00",oui
 75056SR09,Paris 9ème arrondissement,"100,00",oui
 75056SR10,Paris 10ème arrondissement,"100,00",oui
-75056SR11,Paris 11ème arrondissement,"98,18",non
+75056SR11,Paris 11ème arrondissement,"100,00",oui
 75056SR12,Paris 12ème arrondissement,"100,00",oui
 75056SR13,Paris 13ème arrondissement,0,non
 75056SR14,Paris 14ème arrondissement,"100,00",oui
-75056SR15,Paris 15ème arrondissement,"88,54",non
+75056SR15,Paris 15ème arrondissement,"100,00",oui
 75056SR16,Paris 16ème arrondissement,0,non
 75056SR17,Paris 17ème arrondissement,"100,00",oui
-75056SR18,Paris 18ème arrondissement,"94,11",non
+75056SR18,Paris 18ème arrondissement,"100,00",oui
 75056SR19,Paris 19ème arrondissement,"100,00",oui
-75056SR20,Paris 20ème arrondissement,"84,21",non
+75056SR20,Paris 20ème arrondissement,"100,00",oui
 75101,Paris 1er arrondissement,"100,00",oui
 75102,Paris 2eme arrondissement,"100,00",oui
 75103,Paris 3eme arrondissement,"100,00",oui
 75104,Paris 4eme arrondissement,"100,00",oui
 75105,Paris 5eme arrondissement,"100,00",oui
 75106,Paris 6eme arrondissement,"100,00",oui
-75108,Paris 8eme arrondissement,"94,44",non
+75108,Paris 8eme arrondissement,"100,00",oui
 75109,Paris 9eme arrondissement,"100,00",oui
 75110,Paris 10eme arrondissement,"100,00",oui
-75111,Paris 11eme arrondissement,"98,18",non
+75111,Paris 11eme arrondissement,"100,00",oui
 75112,Paris 12eme arrondissement,"100,00",oui
 75114,Paris 14eme arrondissement,"100,00",oui
-75115,Paris 15eme arrondissement,"88,54",non
+75115,Paris 15eme arrondissement,"100,00",oui
 75117,Paris 17eme arrondissement,"100,00",oui
-75118,Paris 18eme arrondissement,"94,11",non
+75118,Paris 18eme arrondissement,"100,00",oui
 75119,Paris 19eme arrondissement,"100,00",oui
-75120,Paris 20eme arrondissement,"84,21",non
+75120,Paris 20eme arrondissement,"100,00",oui
 75056,Paris,"99,77",non
 76001,Allouville-Bellefosse,0,non
 76002,Alvimare,0,non
@@ -34589,7 +34589,7 @@ code,nom,pourcentage,complet
 95690,Wy-dit-Joli-Village,0,non
 97101,Les Abymes,0,non
 97102,Anse-Bertrand,"0,00",non
-97103,Baie-Mahault,"0,00",non
+97103,Baie-Mahault,"3,84",non
 97104,Baillif,0,non
 97105,Basse-Terre,0,non
 97106,Bouillante,0,non
@@ -34610,13 +34610,13 @@ code,nom,pourcentage,complet
 97121,Pointe-Noire,0,non
 97122,Port-Louis,"0,00",non
 97124,Saint-Claude,"10,00",non
-97125,Saint-François,"0,00",non
+97125,Saint-François,"6,25",non
 97126,Saint-Louis,0,non
-97128,Sainte-Anne,"16,00",non
+97128,Sainte-Anne,"40,00",non
 97129,Sainte-Rose,0,non
 97130,Terre-de-Bas,0,non
 97131,Terre-de-Haut,0,non
-97132,Trois-Rivières,"8,33",non
+97132,Trois-Rivières,"16,66",non
 97133,Vieux-Fort,0,non
 97134,Vieux-Habitants,0,non
 97201,L'Ajoupa-Bouillon,"0,00",non
