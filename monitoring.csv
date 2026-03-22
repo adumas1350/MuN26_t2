@@ -121,7 +121,13 @@ code,nom,pourcentage,complet
 21615,Sussey,"100,00",oui
 21655,Vanvey,"100,00",oui
 22072,Gurunhuel,"100,00",oui
+22147,Merdrignac,"100,00",oui
+22155,La Motte,"100,00",oui
+22179,Fréhel,"100,00",oui
 22228,Plounévez-Moëdec,"100,00",oui
+22233,Plourivo,"100,00",oui
+22251,Pordic,"100,00",oui
+22353,Trégastel,"100,00",oui
 23040,La Celle-sous-Gouzon,"100,00",oui
 23149,Parsac,"100,00",oui
 23165,Royère-de-Vassivière,"100,00",oui
@@ -131,7 +137,12 @@ code,nom,pourcentage,complet
 24218,Jumilhac-le-Grand,"100,00",oui
 24242,Liorac-sur-Louyre,"100,00",oui
 24519,Sarlande,"100,00",oui
+25057,Bethoncourt,"100,00",oui
 25058,Beure,"100,00",oui
+25284,Grand-Charmont,"100,00",oui
+25367,Mandeure,"100,00",oui
+25462,Pontarlier,"100,00",oui
+25463,Pont-de-Roide-Vermondans,"100,00",oui
 26011,Aouste-sur-Sye,"100,00",oui
 26042,Beauvallon,"100,00",oui
 26063,Buis-les-Baronnies,"100,00",oui
@@ -216,6 +227,7 @@ code,nom,pourcentage,complet
 36117,Le Menoux,"100,00",oui
 36182,Saint-Benoît-du-Sault,"0,00",non
 36244,Villentrois-Faverolles-en-Berry,"100,00",oui
+37081,Cléré-les-Pins,"100,00",oui
 37105,Faye-la-Vineuse,"100,00",oui
 37143,Manthelan,"100,00",oui
 38022,Les Avenières Veyrins-Thuellin,"85,71",non
@@ -466,9 +478,20 @@ code,nom,pourcentage,complet
 67397,Rhinau,"100,00",oui
 67462,Sélestat,"100,00",oui
 68006,Bernwiller,"100,00",oui
+68012,Aspach-Michelbach,"50,00",non
+68028,Bergheim,"100,00",oui
+68036,Biesheim,"100,00",oui
+68084,Eschentzwiller,"100,00",oui
 68124,Hausgauen,"100,00",oui
+68162,Kaysersberg Vignoble,"100,00",oui
+68173,Labaroche,"100,00",oui
 68184,Liebsdorf,"100,00",oui
+68217,Moosch,"100,00",oui
+68224,Mulhouse,"100,00",oui
+68240,Illtal,"100,00",oui
+68256,Pfastatt,"100,00",oui
 68262,Ranspach,"100,00",oui
+68334,Thann,"100,00",oui
 69006,Amplepuis,"100,00",oui
 69071,Curis-au-Mont-d'Or,"100,00",oui
 69143,Neuville-sur-Saône,"100,00",oui
@@ -533,6 +556,9 @@ code,nom,pourcentage,complet
 80677,Roisel,"100,00",oui
 80688,Rue,"100,00",oui
 80696,Sains-en-Amiénois,"100,00",oui
+81060,Carmaux,"100,00",oui
+81069,Cordes-sur-Ciel,"100,00",oui
+81128,Lacrouzette,"100,00",oui
 81206,Penne,"100,00",oui
 82013,Beaumont-de-Lomagne,"100,00",oui
 82033,Castelsarrasin,"100,00",oui
@@ -580,6 +606,10 @@ code,nom,pourcentage,complet
 89257,Migennes,"100,00",oui
 89344,Saint-Fargeau,"100,00",oui
 89387,Sens,"100,00",oui
+90010,Belfort,"100,00",oui
+90033,Delle,"100,00",oui
+90052,Giromagny,"100,00",oui
+90099,Valdoie,"100,00",oui
 97408,La Possession,"100,00",oui
 97409,Saint-André,"100,00",oui
 97413,Saint-Leu,"100,00",oui
