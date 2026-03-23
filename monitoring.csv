@@ -4361,7 +4361,7 @@ code,nom,pourcentage,complet
 13052,Maillane,0,non
 13053,Mallemort,0,non
 13054,Marignane,0,non
-13055,Marseille,"83,90",non
+13055,Marseille,"87,52",non
 13056,Martigues,"100,00",oui
 13057,Mas-Blanc-des-Alpilles,0,non
 13058,Maussane-les-Alpilles,0,non
@@ -29035,7 +29035,7 @@ code,nom,pourcentage,complet
 75118,Paris 18eme arrondissement,"100,00",oui
 75119,Paris 19eme arrondissement,"100,00",oui
 75120,Paris 20eme arrondissement,"100,00",oui
-75056,Paris,"99,77",non
+75056,Paris,"100,00",oui
 76001,Allouville-Bellefosse,0,non
 76002,Alvimare,0,non
 76004,Ambrumesnil,0,non
@@ -34589,18 +34589,18 @@ code,nom,pourcentage,complet
 95690,Wy-dit-Joli-Village,0,non
 97101,Les Abymes,0,non
 97102,Anse-Bertrand,"0,00",non
-97103,Baie-Mahault,"15,38",non
+97103,Baie-Mahault,"23,07",non
 97104,Baillif,0,non
 97105,Basse-Terre,0,non
 97106,Bouillante,0,non
 97107,Capesterre-Belle-Eau,0,non
 97108,Capesterre-de-Marie-Galante,0,non
-97109,Gourbeyre,"57,14",non
-97110,La Désirade,"66,66",non
+97109,Gourbeyre,"71,42",non
+97110,La Désirade,"100,00",oui
 97111,Deshaies,0,non
-97112,Grand-Bourg,"0,00",non
+97112,Grand-Bourg,"16,66",non
 97113,Le Gosier,"8,00",non
-97114,Goyave,"0,00",non
+97114,Goyave,"12,50",non
 97115,Lamentin,0,non
 97116,Morne-à-l'Eau,0,non
 97117,Le Moule,0,non
@@ -34608,26 +34608,26 @@ code,nom,pourcentage,complet
 97119,Petit-Canal,0,non
 97120,Pointe-à-Pitre,0,non
 97121,Pointe-Noire,0,non
-97122,Port-Louis,"16,66",non
+97122,Port-Louis,"33,33",non
 97124,Saint-Claude,"10,00",non
 97125,Saint-François,"6,25",non
 97126,Saint-Louis,0,non
-97128,Sainte-Anne,"64,00",non
+97128,Sainte-Anne,"80,00",non
 97129,Sainte-Rose,0,non
 97130,Terre-de-Bas,0,non
 97131,Terre-de-Haut,0,non
-97132,Trois-Rivières,"33,33",non
+97132,Trois-Rivières,"66,66",non
 97133,Vieux-Fort,0,non
 97134,Vieux-Habitants,0,non
 97201,L'Ajoupa-Bouillon,"0,00",non
-97202,Les Anses-d'Arlet,"0,00",non
+97202,Les Anses-d'Arlet,"25,00",non
 97203,Basse-Pointe,0,non
 97204,Le Carbet,"0,00",non
 97205,Case-Pilote,0,non
 97206,Le Diamant,0,non
 97207,Ducos,0,non
 97208,Fonds-Saint-Denis,0,non
-97209,Fort-de-France,"14,00",non
+97209,Fort-de-France,"34,00",non
 97210,Le François,0,non
 97211,Grand'Rivière,0,non
 97212,Gros-Morne,"0,00",non
@@ -34637,19 +34637,19 @@ code,nom,pourcentage,complet
 97216,Le Marigot,"0,00",non
 97217,Le Marin,0,non
 97218,Le Morne-Rouge,"0,00",non
-97219,Le Prêcheur,"0,00",non
+97219,Le Prêcheur,"50,00",non
 97220,Rivière-Pilote,0,non
 97221,Rivière-Salée,0,non
 97222,Le Robert,"0,00",non
 97223,Saint-Esprit,0,non
 97224,Saint-Joseph,0,non
 97225,Saint-Pierre,"0,00",non
-97226,Sainte-Anne,"33,33",non
+97226,Sainte-Anne,"66,66",non
 97227,Sainte-Luce,0,non
 97228,Sainte-Marie,0,non
 97229,Schoelcher,"0,00",non
 97230,La Trinité,0,non
-97231,Les Trois-Ilets,"20,00",non
+97231,Les Trois-Ilets,"80,00",non
 97232,Le Vauclin,0,non
 97233,Le Morne-Vert,0,non
 97234,Bellefontaine,"0,00",non
