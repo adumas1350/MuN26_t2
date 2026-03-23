@@ -4283,27 +4283,27 @@ code,nom,pourcentage,complet
 12303,Vimenet,0,non
 12305,Viviez,0,non
 12307,Curan,0,non
-13055SR01,Marseille Secteur 1,"93,33",non
+13055SR01,Marseille Secteur 1,"97,77",non
 13055SR02,Marseille Secteur 2,"100,00",oui
 13055SR03,Marseille Secteur 3,"100,00",oui
-13055SR04,Marseille Secteur 4,"89,18",non
+13055SR04,Marseille Secteur 4,"94,59",non
 13055SR05,Marseille Secteur 5,"100,00",oui
 13055SR06,Marseille Secteur 6,"96,00",non
-13055SR07,Marseille Secteur 7,"93,97",non
+13055SR07,Marseille Secteur 7,"97,59",non
 13055SR08,Marseille Secteur 8,"100,00",oui
-13201,Marseille 1er arrondissement,"83,33",non
+13201,Marseille 1er arrondissement,"94,44",non
 13202,Marseille 2eme arrondissement,"100,00",oui
 13203,Marseille 3eme arrondissement,"100,00",oui
 13204,Marseille 4eme arrondissement,"100,00",oui
 13205,Marseille 5eme arrondissement,"100,00",oui
 13206,Marseille 6eme arrondissement,"91,66",non
 13207,Marseille 7eme arrondissement,"100,00",oui
-13208,Marseille 8eme arrondissement,"88,00",non
+13208,Marseille 8eme arrondissement,"96,00",non
 13209,Marseille 9eme arrondissement,"100,00",oui
 13210,Marseille 10eme arrondissement,"100,00",oui
 13211,Marseille 11eme arrondissement,"97,14",non
 13212,Marseille 12eme arrondissement,"95,00",non
-13213,Marseille 13eme arrondissement,"90,38",non
+13213,Marseille 13eme arrondissement,"96,15",non
 13214,Marseille 14eme arrondissement,"100,00",oui
 13215,Marseille 15eme arrondissement,"100,00",oui
 13216,Marseille 16eme arrondissement,"100,00",oui
@@ -4361,7 +4361,7 @@ code,nom,pourcentage,complet
 13052,Maillane,0,non
 13053,Mallemort,0,non
 13054,Marignane,0,non
-13055,Marseille,"96,78",non
+13055,Marseille,"97,78",non
 13056,Martigues,"100,00",oui
 13057,Mas-Blanc-des-Alpilles,0,non
 13058,Maussane-les-Alpilles,0,non
@@ -34588,8 +34588,8 @@ code,nom,pourcentage,complet
 95682,Villiers-le-Sec,0,non
 95690,Wy-dit-Joli-Village,0,non
 97101,Les Abymes,0,non
-97102,Anse-Bertrand,"12,50",non
-97103,Baie-Mahault,"61,53",non
+97102,Anse-Bertrand,"25,00",non
+97103,Baie-Mahault,"65,38",non
 97104,Baillif,0,non
 97105,Basse-Terre,0,non
 97106,Bouillante,0,non
@@ -34599,7 +34599,7 @@ code,nom,pourcentage,complet
 97110,La Désirade,"100,00",oui
 97111,Deshaies,0,non
 97112,Grand-Bourg,"16,66",non
-97113,Le Gosier,"32,00",non
+97113,Le Gosier,"40,00",non
 97114,Goyave,"25,00",non
 97115,Lamentin,0,non
 97116,Morne-à-l'Eau,0,non
@@ -34609,10 +34609,10 @@ code,nom,pourcentage,complet
 97120,Pointe-à-Pitre,0,non
 97121,Pointe-Noire,0,non
 97122,Port-Louis,"83,33",non
-97124,Saint-Claude,"50,00",non
-97125,Saint-François,"37,50",non
+97124,Saint-Claude,"60,00",non
+97125,Saint-François,"43,75",non
 97126,Saint-Louis,0,non
-97128,Sainte-Anne,"92,00",non
+97128,Sainte-Anne,"96,00",non
 97129,Sainte-Rose,0,non
 97130,Terre-de-Bas,0,non
 97131,Terre-de-Haut,0,non
@@ -34627,7 +34627,7 @@ code,nom,pourcentage,complet
 97206,Le Diamant,0,non
 97207,Ducos,0,non
 97208,Fonds-Saint-Denis,0,non
-97209,Fort-de-France,"48,00",non
+97209,Fort-de-France,"66,00",non
 97210,Le François,0,non
 97211,Grand'Rivière,0,non
 97212,Gros-Morne,"0,00",non
@@ -34644,7 +34644,7 @@ code,nom,pourcentage,complet
 97223,Saint-Esprit,0,non
 97224,Saint-Joseph,0,non
 97225,Saint-Pierre,"0,00",non
-97226,Sainte-Anne,"83,33",non
+97226,Sainte-Anne,"100,00",oui
 97227,Sainte-Luce,0,non
 97228,Sainte-Marie,0,non
 97229,Schoelcher,"0,00",non
