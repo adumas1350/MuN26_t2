@@ -34588,19 +34588,19 @@ code,nom,pourcentage,complet
 95682,Villiers-le-Sec,0,non
 95690,Wy-dit-Joli-Village,0,non
 97101,Les Abymes,0,non
-97102,Anse-Bertrand,"62,50",non
+97102,Anse-Bertrand,"100,00",oui
 97103,Baie-Mahault,"100,00",oui
 97104,Baillif,0,non
 97105,Basse-Terre,0,non
 97106,Bouillante,0,non
 97107,Capesterre-Belle-Eau,0,non
 97108,Capesterre-de-Marie-Galante,0,non
-97109,Gourbeyre,"85,71",non
+97109,Gourbeyre,"100,00",oui
 97110,La Désirade,"100,00",oui
 97111,Deshaies,0,non
-97112,Grand-Bourg,"33,33",non
-97113,Le Gosier,"56,00",non
-97114,Goyave,"37,50",non
+97112,Grand-Bourg,"100,00",oui
+97113,Le Gosier,"100,00",oui
+97114,Goyave,"100,00",oui
 97115,Lamentin,0,non
 97116,Morne-à-l'Eau,0,non
 97117,Le Moule,0,non
@@ -34609,8 +34609,8 @@ code,nom,pourcentage,complet
 97120,Pointe-à-Pitre,0,non
 97121,Pointe-Noire,0,non
 97122,Port-Louis,"100,00",oui
-97124,Saint-Claude,"90,00",non
-97125,Saint-François,"68,75",non
+97124,Saint-Claude,"100,00",oui
+97125,Saint-François,"100,00",oui
 97126,Saint-Louis,0,non
 97128,Sainte-Anne,"100,00",oui
 97129,Sainte-Rose,0,non
@@ -34619,40 +34619,40 @@ code,nom,pourcentage,complet
 97132,Trois-Rivières,"100,00",oui
 97133,Vieux-Fort,0,non
 97134,Vieux-Habitants,0,non
-97201,L'Ajoupa-Bouillon,"0,00",non
+97201,L'Ajoupa-Bouillon,"100,00",oui
 97202,Les Anses-d'Arlet,"100,00",oui
 97203,Basse-Pointe,0,non
-97204,Le Carbet,"0,00",non
+97204,Le Carbet,"100,00",oui
 97205,Case-Pilote,0,non
 97206,Le Diamant,0,non
 97207,Ducos,0,non
 97208,Fonds-Saint-Denis,0,non
-97209,Fort-de-France,"88,00",non
+97209,Fort-de-France,"100,00",oui
 97210,Le François,0,non
 97211,Grand'Rivière,0,non
-97212,Gros-Morne,"0,00",non
+97212,Gros-Morne,"100,00",oui
 97213,Le Lamentin,0,non
 97214,Le Lorrain,0,non
 97215,Macouba,0,non
 97216,Le Marigot,"100,00",oui
 97217,Le Marin,0,non
-97218,Le Morne-Rouge,"0,00",non
-97219,Le Prêcheur,"50,00",non
+97218,Le Morne-Rouge,"100,00",oui
+97219,Le Prêcheur,"100,00",oui
 97220,Rivière-Pilote,0,non
 97221,Rivière-Salée,0,non
-97222,Le Robert,"0,00",non
+97222,Le Robert,"100,00",oui
 97223,Saint-Esprit,0,non
 97224,Saint-Joseph,0,non
-97225,Saint-Pierre,"0,00",non
+97225,Saint-Pierre,"100,00",oui
 97226,Sainte-Anne,"100,00",oui
 97227,Sainte-Luce,0,non
 97228,Sainte-Marie,0,non
-97229,Schoelcher,"0,00",non
+97229,Schoelcher,"100,00",oui
 97230,La Trinité,0,non
 97231,Les Trois-Ilets,"100,00",oui
 97232,Le Vauclin,0,non
 97233,Le Morne-Vert,0,non
-97234,Bellefontaine,"0,00",non
+97234,Bellefontaine,"100,00",oui
 97301,Régina,0,non
 97302,Cayenne,0,non
 97303,Iracoubo,0,non
@@ -34663,7 +34663,7 @@ code,nom,pourcentage,complet
 97308,Saint-Georges,0,non
 97309,Remire-Montjoly,0,non
 97310,Roura,0,non
-97311,Saint-Laurent-du-Maroni,"81,25",non
+97311,Saint-Laurent-du-Maroni,"100,00",oui
 97312,Sinnamary,0,non
 97313,Montsinéry-Tonnegrande,"100,00",oui
 97314,Ouanary,0,non
@@ -34745,3 +34745,51 @@ code,nom,pourcentage,complet
 98831,Voh,"100,00",oui
 98832,Yaté,0,non
 98833,Kouaoua,"100,00",oui
+98711,Anaa,"100,00",oui
+98712,Arue,0,non
+98713,Arutua,"100,00",oui
+98714,Bora-Bora,0,non
+98715,Faaa,0,non
+98716,Fakarava,"100,00",oui
+98717,Fangatau,"100,00",oui
+98718,Fatu-Hiva,"0,00",non
+98719,Gambier,"100,00",oui
+98720,Hao,0,non
+98721,Hikueru,0,non
+98722,Hitiaa O Te Ra,"100,00",oui
+98723,Hiva-Oa,0,non
+98724,Huahine,0,non
+98725,Mahina,0,non
+98726,Makemo,"100,00",oui
+98727,Manihi,"100,00",oui
+98728,Maupiti,"100,00",oui
+98729,Moorea-Maiao,"81,81",non
+98730,Napuka,"0,00",non
+98731,Nuku-Hiva,0,non
+98732,Nukutavake,0,non
+98733,Paea,0,non
+98734,Papara,"55,55",non
+98735,Papeete,"75,00",non
+98736,Pirae,0,non
+98737,Pukapuka,0,non
+98738,Punaauia,0,non
+98739,Raivavae,"100,00",oui
+98740,Rangiroa,0,non
+98741,Rapa,0,non
+98742,Reao,0,non
+98743,Rimatara,0,non
+98744,Rurutu,0,non
+98745,Tahaa,"87,50",non
+98746,Tahuata,0,non
+98747,Taiarapu-Est,"63,63",non
+98748,Taiarapu-Ouest,"100,00",oui
+98749,Takaroa,"100,00",oui
+98750,Taputapuatea,0,non
+98751,Tatakoto,0,non
+98752,Teva I Uta,0,non
+98753,Tubuai,"100,00",oui
+98754,Tumaraa,"100,00",oui
+98755,Tureia,0,non
+98756,Ua-Huka,0,non
+98757,Ua-Pou,0,non
+98758,Uturoa,0,non

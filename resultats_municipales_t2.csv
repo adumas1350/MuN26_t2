@@ -1089,10 +1089,10 @@ communes,31,Haute-Garonne,31499,Saint-Lys,2,"100,00",7260,3043,4217,62,42,4113,p
 communes,31,Haute-Garonne,31512,Saint-Pierre-de-Lages,2,"100,00",772,194,578,5,0,573,proportionnel,1,S'engager Pleinement Durablement Localement,,,241,"42,06",11,,SIORAT,Florence,OUI
 communes,31,Haute-Garonne,31512,Saint-Pierre-de-Lages,2,"100,00",772,194,578,5,0,573,proportionnel,2,"Ensemble, continuons pour le coeur du village",,,215,"37,52",3,,CREPY,Fabrice,OUI
 communes,31,Haute-Garonne,31512,Saint-Pierre-de-Lages,2,"100,00",772,194,578,5,0,573,proportionnel,3,NOTRE COMMUNE NOTRE PRIORITÉ,,,117,"20,42",1,,GRABIE,Charlène,OUI
-communes,31,Haute-Garonne,31555,Toulouse,2,"100,00",281713,105715,175998,3397,1524,171077,proportionnel,5,"Avec Jean-Luc MOUDENC, Protégeons l'Avenir de Toulouse",LDVD,Liste divers droite,92152,"53,87",53,53,MOUDENC,Jean-Luc,OUI
-communes,31,Haute-Garonne,31555,Toulouse,2,"100,00",281713,105715,175998,3397,1524,171077,proportionnel,12,Demain Toulouse La Gauche Unie,LDVG,Liste divers gauche,78925,"46,13",16,16,PIQUEMAL,François,OUI
-communes,31,Haute-Garonne,31557,Tournefeuille,2,"100,00",22244,9317,12927,243,161,12523,proportionnel,2,Un autre avenir,LUC,Liste d'union au centre,6261,"50,00",9,9,SOULIÉ,Laurent,OUI
-communes,31,Haute-Garonne,31557,Tournefeuille,2,"100,00",22244,9317,12927,243,161,12523,proportionnel,5,Tournefeuille au coeur,LDVG,Liste divers gauche,6262,"50,00",30,30,PARRE,Frédéric,OUI
+communes,31,Haute-Garonne,31555,Toulouse,2,"100,00",281707,105708,175999,3397,1525,171077,proportionnel,5,"Avec Jean-Luc MOUDENC, Protégeons l'Avenir de Toulouse",LDVD,Liste divers droite,92152,"53,87",53,53,MOUDENC,Jean-Luc,OUI
+communes,31,Haute-Garonne,31555,Toulouse,2,"100,00",281707,105708,175999,3397,1525,171077,proportionnel,12,Demain Toulouse La Gauche Unie,LDVG,Liste divers gauche,78925,"46,13",16,16,PIQUEMAL,François,OUI
+communes,31,Haute-Garonne,31557,Tournefeuille,2,"100,00",22252,9325,12927,243,161,12523,proportionnel,2,Un autre avenir,LUC,Liste d'union au centre,6261,"50,00",9,9,SOULIÉ,Laurent,OUI
+communes,31,Haute-Garonne,31557,Tournefeuille,2,"100,00",22252,9325,12927,243,161,12523,proportionnel,5,Tournefeuille au coeur,LDVG,Liste divers gauche,6262,"50,00",30,30,PARRE,Frédéric,OUI
 communes,31,Haute-Garonne,31573,Verfeil,2,"100,00",3033,1088,1945,32,32,1881,proportionnel,1,VERFEIL POUR TOUS,LDIV,Liste Divers,1084,"57,63",22,22,VITORINO,Daniel,OUI
 communes,31,Haute-Garonne,31573,Verfeil,2,"100,00",3033,1088,1945,32,32,1881,proportionnel,2,Verfeil dynamique et responsable,LDVG,Liste divers gauche,797,"42,37",5,5,PLICQUE,Patrick,OUI
 communes,32,Gers,32013,Auch,2,"100,00",14032,5914,8118,98,94,7926,proportionnel,1,TOUS POUR AUCH!,LDVD,Liste divers droite,2949,"37,21",7,7,CARRASCOSA,Thierry,OUI
@@ -4141,49 +4141,69 @@ communes,95,Val-d'Oise,95641,Vémars,2,"100,00",1944,798,1146,7,4,1135,proportio
 communes,95,Val-d'Oise,95641,Vémars,2,"100,00",1944,798,1146,7,4,1135,proportionnel,3,VEMARS ENSEMBLE POUR L'AVENIR,,,309,"27,22",3,3,DIDIER,Frédéric,OUI
 communes,95,Val-d'Oise,95680,Villiers-le-Bel,2,"100,00",13689,6881,6808,74,78,6656,proportionnel,1,"AVEC VOUS, POUR VOUS",LSOC,Liste du Parti socialiste,3415,"51,31",30,30,TECHTACH,Djida,OUI
 communes,95,Val-d'Oise,95680,Villiers-le-Bel,2,"100,00",13689,6881,6808,74,78,6656,proportionnel,4,VIILIERS LE BEL EN AVANT TOUS ENSEMBLE,LFI,Liste de La France insoumise,3241,"48,69",9,9,BILONGO,Carlos Martens,OUI
-communes,971,Guadeloupe,97102,Anse-Bertrand,2,"62,50",3103,832,2271,33,64,2174,proportionnel,4,"Anse-bertrand, Terre d'avenir",LDVD,Liste divers droite,984,"45,26",0,0,DELTA,Edouard,NON
-communes,971,Guadeloupe,97102,Anse-Bertrand,2,"62,50",3103,832,2271,33,64,2174,proportionnel,2,AGIR MAINTENANT POUR DEMAIN,LDVG,Liste divers gauche,1190,"54,74",0,0,MOUSTACHE,Daniel,NON
-communes,971,Guadeloupe,97103,Baie-Mahault,2,"100,00",23408,11164,12244,188,244,11812,proportionnel,3,L'ALLIANCE DEMOCRATIQUE,LDIV,Liste Divers,4021,"34,04",6,6,CHALUS,Ary,OUI
-communes,971,Guadeloupe,97103,Baie-Mahault,2,"100,00",23408,11164,12244,188,244,11812,proportionnel,6,LA FORCE DU RENOUVEAU,LDVG,Liste divers gauche,1315,"11,13",2,2,CHAMMOUGOM ANNO,Sylvie,OUI
-communes,971,Guadeloupe,97103,Baie-Mahault,2,"100,00",23408,11164,12244,188,244,11812,proportionnel,7,LE COEUR BAIE-MAHAULTIEN,LDVC,Liste divers centre,6476,"54,83",31,31,MADO,Michel,OUI
-communes,971,Guadeloupe,97109,Gourbeyre,2,"85,71",4336,1854,2482,51,62,2369,proportionnel,3,GOURBEYRE AUTREMENT,LDIV,Liste Divers,434,"18,32",0,0,THOMAS,Fabienne Sylvie,NON
-communes,971,Guadeloupe,97109,Gourbeyre,2,"85,71",4336,1854,2482,51,62,2369,proportionnel,5,L'unité Gourbeyrienne,LDVD,Liste divers droite,889,"37,53",0,0,CIVIS,Marguerite,NON
-communes,971,Guadeloupe,97109,Gourbeyre,2,"85,71",4336,1854,2482,51,62,2369,proportionnel,1,GOUBE AN NOU,LDIV,Liste Divers,1046,"44,15",0,0,EDMOND,Claude,NON
+communes,971,Guadeloupe,97102,Anse-Bertrand,2,"100,00",4808,1384,3424,47,91,3286,proportionnel,4,"Anse-bertrand, Terre d'avenir",LDVD,Liste divers droite,1554,"47,29",6,6,DELTA,Edouard,OUI
+communes,971,Guadeloupe,97102,Anse-Bertrand,2,"100,00",4808,1384,3424,47,91,3286,proportionnel,2,AGIR MAINTENANT POUR DEMAIN,LDVG,Liste divers gauche,1732,"52,71",21,21,MOUSTACHE,Daniel,OUI
+communes,971,Guadeloupe,97103,Baie-Mahault,2,"100,00",23407,11163,12244,188,244,11812,proportionnel,3,L'ALLIANCE DEMOCRATIQUE,LDIV,Liste Divers,4021,"34,04",6,6,CHALUS,Ary,OUI
+communes,971,Guadeloupe,97103,Baie-Mahault,2,"100,00",23407,11163,12244,188,244,11812,proportionnel,6,LA FORCE DU RENOUVEAU,LDVG,Liste divers gauche,1315,"11,13",2,2,CHAMMOUGOM ANNO,Sylvie,OUI
+communes,971,Guadeloupe,97103,Baie-Mahault,2,"100,00",23407,11163,12244,188,244,11812,proportionnel,7,LE COEUR BAIE-MAHAULTIEN,LDVC,Liste divers centre,6476,"54,83",31,31,MADO,Michel,OUI
+communes,971,Guadeloupe,97109,Gourbeyre,2,"100,00",5532,2384,3148,72,73,3003,proportionnel,3,GOURBEYRE AUTREMENT,LDIV,Liste Divers,511,"17,02",2,2,THOMAS,Fabienne Sylvie,OUI
+communes,971,Guadeloupe,97109,Gourbeyre,2,"100,00",5532,2384,3148,72,73,3003,proportionnel,5,L'unité Gourbeyrienne,LDVD,Liste divers droite,1136,"37,83",5,5,CIVIS,Marguerite,OUI
+communes,971,Guadeloupe,97109,Gourbeyre,2,"100,00",5532,2384,3148,72,73,3003,proportionnel,1,GOUBE AN NOU,LDIV,Liste Divers,1356,"45,15",22,22,EDMOND,Claude,OUI
 communes,971,Guadeloupe,97110,La Désirade,2,"100,00",1643,273,1370,16,26,1328,proportionnel,4,"Ensemble, Allons plus loin pour la Désirade",,,750,"56,48",12,12,TONTON,Loïc,OUI
 communes,971,Guadeloupe,97110,La Désirade,2,"100,00",1643,273,1370,16,26,1328,proportionnel,6,"ENSEMBLE, REPRENONS LE CAP POUR UNE DESIRADE GAGNANTE",,,578,"43,52",3,3,PIOCHE,Jean-Claude,OUI
-communes,971,Guadeloupe,97112,Grand-Bourg,2,"33,33",1401,424,977,15,16,946,proportionnel,1,ENSEMBLE CONSTRUISONS DEMAIN,LDIV,Liste Divers,446,"47,15",0,0,SELBONNE,Yohann,NON
-communes,971,Guadeloupe,97112,Grand-Bourg,2,"33,33",1401,424,977,15,16,946,proportionnel,2,"GRAND-BOURG 2030, ECRIVONS LA SUITE ENSEMBLE",LDVG,Liste divers gauche,500,"52,85",0,0,ETZOL,Maryse,NON
-communes,971,Guadeloupe,97113,Le Gosier,2,"56,00",10933,5835,5098,98,125,4875,proportionnel,10,LE GOSIER C'EST NOUS ENSEMBLE,LDIV,Liste Divers,2406,"49,35",0,0,HOTIN,Michel,NON
-communes,971,Guadeloupe,97113,Le Gosier,2,"56,00",10933,5835,5098,98,125,4875,proportionnel,11,POUR MIEUX REUSSIR LE GOSIER,LDIV,Liste Divers,2469,"50,65",0,0,SYLVAIN,Keeter,NON
-communes,971,Guadeloupe,97114,Goyave,2,"37,50",1978,727,1251,15,26,1210,proportionnel,5,GOYAVE EN MOUVEMENT,LDVG,Liste divers gauche,487,"40,25",0,0,LOUISY,Ferdy,NON
-communes,971,Guadeloupe,97114,Goyave,2,"37,50",1978,727,1251,15,26,1210,proportionnel,4,UNIS POUR GOYAVE,LDVC,Liste divers centre,723,"59,75",0,0,EDOM,Jean-Luc,NON
+communes,971,Guadeloupe,97112,Grand-Bourg,2,"100,00",5185,1485,3700,32,56,3612,proportionnel,1,ENSEMBLE CONSTRUISONS DEMAIN,LDIV,Liste Divers,1786,"49,45",6,6,SELBONNE,Yohann,OUI
+communes,971,Guadeloupe,97112,Grand-Bourg,2,"100,00",5185,1485,3700,32,56,3612,proportionnel,2,"GRAND-BOURG 2030, ECRIVONS LA SUITE ENSEMBLE",LDVG,Liste divers gauche,1826,"50,55",21,21,ETZOL,Maryse,OUI
+communes,971,Guadeloupe,97113,Le Gosier,2,"100,00",21286,11325,9961,194,252,9515,proportionnel,10,LE GOSIER C'EST NOUS ENSEMBLE,LDIV,Liste Divers,4811,"50,56",27,27,HOTIN,Michel,OUI
+communes,971,Guadeloupe,97113,Le Gosier,2,"100,00",21286,11325,9961,194,252,9515,proportionnel,11,POUR MIEUX REUSSIR LE GOSIER,LDIV,Liste Divers,4704,"49,44",8,8,SYLVAIN,Keeter,OUI
+communes,971,Guadeloupe,97114,Goyave,2,"100,00",5815,2348,3467,51,83,3333,proportionnel,5,GOYAVE EN MOUVEMENT,LDVG,Liste divers gauche,1298,"38,94",5,5,LOUISY,Ferdy,OUI
+communes,971,Guadeloupe,97114,Goyave,2,"100,00",5815,2348,3467,51,83,3333,proportionnel,4,UNIS POUR GOYAVE,LDVC,Liste divers centre,2035,"61,06",24,24,EDOM,Jean-Luc,OUI
 communes,971,Guadeloupe,97122,Port-Louis,2,"100,00",5430,1413,4017,53,114,3850,proportionnel,2,"REUSSIR PORT-LOUIS ""POURSUIVONS""",LDVG,Liste divers gauche,1792,"46,55",6,6,HUBERT,Jean-Marie Patrice,OUI
 communes,971,Guadeloupe,97122,Port-Louis,2,"100,00",5430,1413,4017,53,114,3850,proportionnel,4,Ansanm Pou Polwi,LUG,Liste d'union à gauche,2058,"53,45",23,23,ARTHEIN,Victor Urbain,OUI
-communes,971,Guadeloupe,97124,Saint-Claude,2,"90,00",7134,3073,4061,45,58,3958,proportionnel,1,SAINT-CLAUDE EN COMMUN,LDIV,Liste Divers,252,"6,37",0,0,COUPAN,Rebecca,NON
-communes,971,Guadeloupe,97124,Saint-Claude,2,"90,00",7134,3073,4061,45,58,3958,proportionnel,2,Faire Plus pour tous,LDIV,Liste Divers,537,"13,57",0,0,PANOL,Thierry,NON
-communes,971,Guadeloupe,97124,Saint-Claude,2,"90,00",7134,3073,4061,45,58,3958,proportionnel,3,SAINT-CLAUDE UNIS,LDVG,Liste divers gauche,1688,"42,65",0,0,MINATCHY,Fabrice,NON
-communes,971,Guadeloupe,97124,Saint-Claude,2,"90,00",7134,3073,4061,45,58,3958,proportionnel,4,"Fiers et responsables, la continuité dans un nouvel élan",LDVG,Liste divers gauche,1481,"37,42",0,0,VITALIS,Cédric Michel,NON
-communes,971,Guadeloupe,97125,Saint-François,2,"68,75",8456,3956,4500,95,103,4302,proportionnel,3,Union pour Saint-François,LDIV,Liste Divers,690,"16,04",0,0,MARY,Teddy,NON
-communes,971,Guadeloupe,97125,Saint-François,2,"68,75",8456,3956,4500,95,103,4302,proportionnel,4,EN ACTION POUR SAINT-FRANCOIS,LDVG,Liste divers gauche,1215,"28,24",0,0,PEROUMAL,Sophie,NON
-communes,971,Guadeloupe,97125,Saint-François,2,"68,75",8456,3956,4500,95,103,4302,proportionnel,1,Ensemble continuons d'agir,LDIV,Liste Divers,2397,"55,72",0,0,PERIAN,Jean-Luc,NON
+communes,971,Guadeloupe,97124,Saint-Claude,2,"100,00",7963,3406,4557,48,70,4439,proportionnel,1,SAINT-CLAUDE EN COMMUN,LDIV,Liste Divers,274,"6,17",1,1,COUPAN,Rebecca,OUI
+communes,971,Guadeloupe,97124,Saint-Claude,2,"100,00",7963,3406,4557,48,70,4439,proportionnel,2,Faire Plus pour tous,LDIV,Liste Divers,592,"13,34",2,2,PANOL,Thierry,OUI
+communes,971,Guadeloupe,97124,Saint-Claude,2,"100,00",7963,3406,4557,48,70,4439,proportionnel,3,SAINT-CLAUDE UNIS,LDVG,Liste divers gauche,1875,"42,24",24,24,MINATCHY,Fabrice,OUI
+communes,971,Guadeloupe,97124,Saint-Claude,2,"100,00",7963,3406,4557,48,70,4439,proportionnel,4,"Fiers et responsables, la continuité dans un nouvel élan",LDVG,Liste divers gauche,1698,"38,25",6,6,VITALIS,Cédric Michel,OUI
+communes,971,Guadeloupe,97125,Saint-François,2,"100,00",12608,5904,6704,138,181,6385,proportionnel,3,Union pour Saint-François,LDIV,Liste Divers,978,"15,32",2,2,MARY,Teddy,OUI
+communes,971,Guadeloupe,97125,Saint-François,2,"100,00",12608,5904,6704,138,181,6385,proportionnel,4,EN ACTION POUR SAINT-FRANCOIS,LDVG,Liste divers gauche,1980,"31,01",5,5,PEROUMAL,Sophie,OUI
+communes,971,Guadeloupe,97125,Saint-François,2,"100,00",12608,5904,6704,138,181,6385,proportionnel,1,Ensemble continuons d'agir,LDIV,Liste Divers,3427,"53,67",26,26,PERIAN,Jean-Luc,OUI
 communes,971,Guadeloupe,97128,Sainte-Anne,2,"100,00",18994,8822,10172,178,296,9698,proportionnel,4,"SAINTE-ANNE AVEC VOUS, POUR VOUS !",LDVG,Liste divers gauche,2461,"25,38",4,4,FARO EPOUSE COURIOL,Lydia,OUI
 communes,971,Guadeloupe,97128,Sainte-Anne,2,"100,00",18994,8822,10172,178,296,9698,proportionnel,9,LE RENOUVEAU SAINTANNAIS,LDIV,Liste Divers,3490,"35,99",6,6,PERRAN,Diana,OUI
 communes,971,Guadeloupe,97128,Sainte-Anne,2,"100,00",18994,8822,10172,178,296,9698,proportionnel,8,RASSEMBLEMENT DEMOCRATIQUE SAINTANNAIS,LDVG,Liste divers gauche,3747,"38,64",25,25,BAPTISTE,Francs,OUI
 communes,971,Guadeloupe,97132,Trois-Rivières,2,"100,00",7466,2822,4644,46,96,4502,proportionnel,4,TROIS-RIVIERES ENSEMBLE,LDIV,Liste Divers,2152,"47,80",7,7,FAUSTA,Jimmy,OUI
 communes,971,Guadeloupe,97132,Trois-Rivières,2,"100,00",7466,2822,4644,46,96,4502,proportionnel,3,"Agissons Ensemble, Allons encore plus loin",LDVC,Liste divers centre,2350,"52,20",22,22,FRANCISQUE,Jean-Louis,OUI
+communes,972,Martinique,97201,L'Ajoupa-Bouillon,2,"100,00",1565,494,1071,19,13,1039,proportionnel,4,L'UNION BOUILLONNAISE,,,177,"17,04",1,1,BESUBE NINO,Lydia,OUI
+communes,972,Martinique,97201,L'Ajoupa-Bouillon,2,"100,00",1565,494,1071,19,13,1039,proportionnel,5,AGIR POUR AJOUPA,,,416,"40,04",4,4,PHAROSE,Lucia,OUI
+communes,972,Martinique,97201,L'Ajoupa-Bouillon,2,"100,00",1565,494,1071,19,13,1039,proportionnel,1,GRAND RASSEMBLEMENT BOUILLONNAIS,,,446,"42,93",14,14,JOACHIM,Thierry,OUI
 communes,972,Martinique,97202,Les Anses-d'Arlet,2,"100,00",3468,989,2479,18,36,2425,proportionnel,2,AGIR AVEC AUDACE POUR LES ANSES D'ARLETS,LDVG,Liste divers gauche,1161,"47,88",6,6,CHARMET,Michaël,OUI
 communes,972,Martinique,97202,Les Anses-d'Arlet,2,"100,00",3468,989,2479,18,36,2425,proportionnel,4,LEZANSDALE POU TOUJOU,LDVG,Liste divers gauche,1264,"52,12",21,21,LARCHER,Eugène,OUI
-communes,972,Martinique,97209,Fort-de-France,2,"88,00",54364,31469,22895,678,461,21756,proportionnel,1,NOU DOUBOUT POU FODFWANS APY !,LREG,Liste régionaliste,5506,"25,31",0,0,MOREAU,Steeve,NON
-communes,972,Martinique,97209,Fort-de-France,2,"88,00",54364,31469,22895,678,461,21756,proportionnel,5,DEMOCRATES ET PROGRESSISTES,LDVG,Liste divers gauche,10942,"50,29",0,0,LAGUERRE,Didier,NON
-communes,972,Martinique,97209,Fort-de-France,2,"88,00",54364,31469,22895,678,461,21756,proportionnel,6,AKSYON FOYAL POU DÉMARÉ FODFWANS,LREG,Liste régionaliste,5308,"24,40",0,0,CAROLE,Francis,NON
+communes,972,Martinique,97204,Le Carbet,2,"100,00",3208,933,2275,42,20,2213,proportionnel,2,LE CARBET ANSANM ANSANM,LDVG,Liste divers gauche,1023,"46,23",20,20,MONSTIN,Gerard Antoine,OUI
+communes,972,Martinique,97204,Le Carbet,2,"100,00",3208,933,2275,42,20,2213,proportionnel,3,UN CARBET SOLIDAIRE ET AMBITIEUX,LREG,Liste régionaliste,508,"22,96",3,3,GRIFFIT,Louis-Georges,OUI
+communes,972,Martinique,97204,Le Carbet,2,"100,00",3208,933,2275,42,20,2213,proportionnel,1,KOLÉ TÈT KOLÉ ZÉPOL POU KABÉ,LDVG,Liste divers gauche,682,"30,82",4,4,ECANVIL,Jean-Claude,OUI
+communes,972,Martinique,97209,Fort-de-France,2,"100,00",59761,34563,25198,734,523,23941,proportionnel,1,NOU DOUBOUT POU FODFWANS APY !,LREG,Liste régionaliste,6107,"25,51",6,6,MOREAU,Steeve,OUI
+communes,972,Martinique,97209,Fort-de-France,2,"100,00",59761,34563,25198,734,523,23941,proportionnel,5,DEMOCRATES ET PROGRESSISTES,LDVG,Liste divers gauche,11994,"50,10",37,37,LAGUERRE,Didier,OUI
+communes,972,Martinique,97209,Fort-de-France,2,"100,00",59761,34563,25198,734,523,23941,proportionnel,6,AKSYON FOYAL POU DÉMARÉ FODFWANS,LREG,Liste régionaliste,5840,"24,39",6,6,CAROLE,Francis,OUI
+communes,972,Martinique,97212,Gros-Morne,2,"100,00",7978,3131,4847,46,58,4743,proportionnel,2,UNITE GROS-MORNAISE,LREG,Liste régionaliste,2600,"54,82",23,23,COUTURIER,Gilbert,OUI
+communes,972,Martinique,97212,Gros-Morne,2,"100,00",7978,3131,4847,46,58,4743,proportionnel,4,Forces rassemblées pour un réveil avec audace,LDVG,Liste divers gauche,2143,"45,18",6,6,THALY-BARDOL,Audrey,OUI
 communes,972,Martinique,97216,Le Marigot,2,"100,00",3114,1031,2083,26,42,2015,proportionnel,4,LE MARIGOT EN COMMUN,,,1201,"59,60",19,19,YERRO,Cynthia,OUI
 communes,972,Martinique,97216,Le Marigot,2,"100,00",3114,1031,2083,26,42,2015,proportionnel,1,ENSEMBLE POUR UN MARIGOT FORT ET SOLIDAIRE,,,814,"40,40",4,4,PERASTE,Toussaint Joseph,OUI
-communes,972,Martinique,97219,Le Prêcheur,2,"50,00",614,140,474,7,5,462,proportionnel,2,ANNOU MACHE ANSANM,,,239,"51,73",0,0,JOSEPH-ANGELIQUE,Guylène,NON
-communes,972,Martinique,97219,Le Prêcheur,2,"50,00",614,140,474,7,5,462,proportionnel,1,NOUVEL ELAN POUR LE PRECHEUR,,,223,"48,27",0,0,NADEAU,Roger,NON
+communes,972,Martinique,97218,Le Morne-Rouge,2,"100,00",4192,1549,2643,47,49,2547,proportionnel,4,NOUVEL ÉLAN PELÉEN,LDVG,Liste divers gauche,1496,"58,74",22,22,MAUZOLE,Andréa,OUI
+communes,972,Martinique,97218,Le Morne-Rouge,2,"100,00",4192,1549,2643,47,49,2547,proportionnel,2,LIANNAJ BA MONWOUJ,LDVD,Liste divers droite,1051,"41,26",5,5,DULYS-PETIT,Jenny,OUI
+communes,972,Martinique,97219,Le Prêcheur,2,"100,00",1451,360,1091,12,17,1062,proportionnel,2,ANNOU MACHE ANSANM,,,540,"50,85",12,12,JOSEPH-ANGELIQUE,Guylène,OUI
+communes,972,Martinique,97219,Le Prêcheur,2,"100,00",1451,360,1091,12,17,1062,proportionnel,1,NOUVEL ELAN POUR LE PRECHEUR,,,522,"49,15",3,3,NADEAU,Roger,OUI
+communes,972,Martinique,97222,Le Robert,2,"100,00",18488,9297,9191,235,239,8717,proportionnel,1,UN NOUVEAU CAP POUR LE ROBERT,LDVC,Liste divers centre,5710,"65,50",29,29,MERINE,Félix,OUI
+communes,972,Martinique,97222,Le Robert,2,"100,00",18488,9297,9191,235,239,8717,proportionnel,2,POU WOBÈ PLI DOUVAN,LDVG,Liste divers gauche,3007,"34,50",6,6,FRANÇOIS-HAUGRIN,Farell,OUI
+communes,972,Martinique,97225,Saint-Pierre,2,"100,00",3660,1240,2420,39,28,2353,proportionnel,4,AGIR POUR L'UNION,LDVG,Liste divers gauche,1227,"52,15",21,21,LARADE-EUSTACHE,Ludmilla,OUI
+communes,972,Martinique,97225,Saint-Pierre,2,"100,00",3660,1240,2420,39,28,2353,proportionnel,3,FAIRE GAGNER SAINT-PIERRE,LDVC,Liste divers centre,1126,"47,85",6,6,RAPHA,Christian,OUI
 communes,972,Martinique,97226,Sainte-Anne,2,"100,00",4346,1345,3001,48,46,2907,proportionnel,1,MARIE-STEPHANIE BELON CABIT,LREG,Liste régionaliste,1366,"46,99",6,6,BELON,Marie-Stéphanie,OUI
 communes,972,Martinique,97226,Sainte-Anne,2,"100,00",4346,1345,3001,48,46,2907,proportionnel,2,SAINTE-ANNE À COEUR,LDIV,Liste Divers,1541,"53,01",21,21,GEMIEUX,Jean-Michel,OUI
+communes,972,Martinique,97229,Schoelcher,2,"100,00",15500,7239,8261,175,126,7960,proportionnel,6,UNIS POUR SCHOELCHER,LDVG,Liste divers gauche,4104,"51,56",25,25,CHOMET,Daniel,OUI
+communes,972,Martinique,97229,Schoelcher,2,"100,00",15500,7239,8261,175,126,7960,proportionnel,5,L'UNION AVEC VIVRE A SCHOELCHER,LDVG,Liste divers gauche,3856,"48,44",8,8,MARMOT,Didier,OUI
 communes,972,Martinique,97231,Les Trois-Ilets,2,"100,00",6174,2634,3540,28,33,3479,proportionnel,4,TROIS-ILETS AVENIR - An chimen pou demen,LDVG,Liste divers gauche,2029,"58,32",23,23,GRAT,Nathalie,OUI
 communes,972,Martinique,97231,Les Trois-Ilets,2,"100,00",6174,2634,3540,28,33,3479,proportionnel,2,ETRE 3I,LDVG,Liste divers gauche,1450,"41,68",6,6,RENE-CORAIL,Arnaud Adrien,OUI
+communes,972,Martinique,97234,Bellefontaine,2,"100,00",1735,400,1335,12,10,1313,proportionnel,2,BELLEFONTAINE AVANT TOUT,,,235,"17,90",2,2,ISMAIN,Felix,OUI
+communes,972,Martinique,97234,Bellefontaine,2,"100,00",1735,400,1335,12,10,1313,proportionnel,4,DYNAMIQUE BELLEFONTAINE,,,432,"32,90",3,3,AVININ,Ugo,OUI
+communes,972,Martinique,97234,Bellefontaine,2,"100,00",1735,400,1335,12,10,1313,proportionnel,3,BELLEFONTAINE DOUBOUT',,,562,"42,80",14,14,CHARLES-DONATIEN,Servius,OUI
+communes,972,Martinique,97234,Bellefontaine,2,"100,00",1735,400,1335,12,10,1313,proportionnel,1,UN NOUVEL ELAN POUR BELLEFONTAINE YON EPI LOT,,,84,"6,40",0,0,SUIVANT,Michel,NON
 communes,973,Guyane,97304,Kourou,2,"100,00",11939,5007,6932,89,67,6776,proportionnel,5,VIVRE KOUROU ENSEMBLE,LDIV,Liste Divers,1775,"26,20",5,5,RINGUET,François,OUI
 communes,973,Guyane,97304,Kourou,2,"100,00",11939,5007,6932,89,67,6776,proportionnel,1,OSONS POUR KOUROU,LDVG,Liste divers gauche,1332,"19,66",3,3,ANTOINETTE,Micheline,OUI
 communes,973,Guyane,97304,Kourou,2,"100,00",11939,5007,6932,89,67,6776,proportionnel,7,REPARER KOUROU ET AVANCER,LDVG,Liste divers gauche,1304,"19,24",3,3,ANTOINETTE,Jean-Etienne,OUI
@@ -4192,9 +4212,9 @@ communes,973,Guyane,97306,Mana,2,"100,00",3375,1032,2343,9,10,2324,proportionnel
 communes,973,Guyane,97306,Mana,2,"100,00",3375,1032,2343,9,10,2324,proportionnel,4,NOUVEL ELAN MANANAIS,LDIV,Liste Divers,1133,"48,75",8,8,JADFARD,Jean-Claude,OUI
 communes,973,Guyane,97307,Matoury,2,"100,00",15077,7537,7540,124,112,7304,proportionnel,4,Viv Matoury,LREG,Liste régionaliste,3541,"48,48",9,9,GRAND-EMILE,Eline,OUI
 communes,973,Guyane,97307,Matoury,2,"100,00",15077,7537,7540,124,112,7304,proportionnel,2,Matoury 2026 - AVEC VOUS ENCORE PLUS LOIN,LDVG,Liste divers gauche,3763,"51,52",30,30,SMOCK,Serge,OUI
-communes,973,Guyane,97311,Saint-Laurent-du-Maroni,2,"81,25",13449,5419,8030,53,42,7935,proportionnel,1,DIVERSITÉ SAINT LAURENT POUR TOUS,LDIV,Liste Divers,2287,"28,82",0,0,CHARLES,Sophie,NON
-communes,973,Guyane,97311,Saint-Laurent-du-Maroni,2,"81,25",13449,5419,8030,53,42,7935,proportionnel,2,"NOTRE VILLE, NOTRE HISTOIRE, NOTRE AVENIR",LDIV,Liste Divers,3461,"43,62",0,0,ADAM,Lénaïck,NON
-communes,973,Guyane,97311,Saint-Laurent-du-Maroni,2,"81,25",13449,5419,8030,53,42,7935,proportionnel,4,UNIS POUR UN SEUL OBJECTIF SAINT-LAURENT DU MARONI,LDIV,Liste Divers,2187,"27,56",0,0,BERTRAND,Léon,NON
+communes,973,Guyane,97311,Saint-Laurent-du-Maroni,2,"100,00",16697,6603,10094,68,51,9975,proportionnel,1,DIVERSITÉ SAINT LAURENT POUR TOUS,LDIV,Liste Divers,2925,"29,32",6,6,CHARLES,Sophie,OUI
+communes,973,Guyane,97311,Saint-Laurent-du-Maroni,2,"100,00",16697,6603,10094,68,51,9975,proportionnel,2,"NOTRE VILLE, NOTRE HISTOIRE, NOTRE AVENIR",LDIV,Liste Divers,4193,"42,04",33,33,ADAM,Lénaïck,OUI
+communes,973,Guyane,97311,Saint-Laurent-du-Maroni,2,"100,00",16697,6603,10094,68,51,9975,proportionnel,4,UNIS POUR UN SEUL OBJECTIF SAINT-LAURENT DU MARONI,LDIV,Liste Divers,2857,"28,64",6,6,BERTRAND,Léon,OUI
 communes,973,Guyane,97313,Montsinéry-Tonnegrande,2,"100,00",1632,485,1147,25,17,1105,proportionnel,2,"MONTSINERY-TONNEGRANDE ""PARTAGEONS NOTRE AVENIR""",LDIV,Liste Divers,639,"57,83",22,22,LABEAU,Patrick,OUI
 communes,973,Guyane,97313,Montsinéry-Tonnegrande,2,"100,00",1632,485,1147,25,17,1105,proportionnel,5,AGIR POUR MONTSINERY-TONNEGRANDE,LDVG,Liste divers gauche,466,"42,17",5,5,PORTHOS,Christian,OUI
 communes,973,Guyane,97353,Maripasoula,2,"100,00",2669,845,1824,12,16,1796,proportionnel,5,MAINTENANT AGISSONS POUR L'AVENIR,LDVG,Liste divers gauche,1024,"57,02",23,23,ABIENSO,Jonathan,OUI
@@ -4342,3 +4362,152 @@ communes,988,Nouvelle-Calédonie,98831,Voh,2,"100,00",2494,765,1729,16,15,1698,p
 communes,988,Nouvelle-Calédonie,98833,Kouaoua,2,"100,00",1206,219,987,6,1,980,proportionnel,5,UNIS POUR KAAWIIPAA,,,423,"43,16",3,3,PONGA,Alcide,OUI
 communes,988,Nouvelle-Calédonie,98833,Kouaoua,2,"100,00",1206,219,987,6,1,980,proportionnel,4,VISION KAAWIIPAA,,,124,"12,65",1,1,MEREATU,Suzanne - Poawe,OUI
 communes,988,Nouvelle-Calédonie,98833,Kouaoua,2,"100,00",1206,219,987,6,1,980,proportionnel,1,NOORE KAAWIIPAA NA TRU NEWE NIARREHI RI - KOUOUA MAITRE DE SON AVENIR,,,433,"44,18",11,11,DIOPOUE,Franck,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,170,"40,00",,,BURNS,Léonard,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,206,"48,47",,,BURNS,Léonne Teriihoanuu,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,0,"0,00",,,DEXTER,Jean-Baptiste,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,0,"0,00",,,DEXTER,Madeleine,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,174,"40,94",,,GATATA ÉPSE PAEAHI,Edwina,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,33,"7,76",,,HAUATA,Maximilien,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,32,"7,53",,,HAUATA,Vaihani,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,228,"53,65",,,LEE EPOUSE TRINQUIER,Marie-Laure Vaea,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,30,"7,06",,,MARO,Christiane,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,154,"36,24",,,MARO,Joseph,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,173,"40,71",,,MARO,Veronika,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,0,"0,00",,,MARO ÉPOUSE TANE,Celestine Marie Reva,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,213,"50,12",,,MATAI,Maima Valentine,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,181,"42,59",,,PITA,Jacinthe,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,0,"0,00",,,PITA ÉPOUSE TEMARII,Reiatua,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,180,"42,35",,,RAVEINO,Rustique,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,0,"0,00",,,TANE,Moeava,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,0,"0,00",,,TARAHU,Milda Rereata,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,206,"48,47",,,TAUTU BURNS,Sabine Taumuri,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,0,"0,00",,,TEIHOTUA ÉPOUSE TEVAEARAI,Annette,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,21,"4,94",,,TEPAHOTO,Caroline,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,214,"50,35",,,TEVAITAU ÉPSE TERAI,Clarisse Moeata,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,25,"5,88",,,TUAIRA,Marie-Jeanne,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,209,"49,18",,,TUHAKAMARU,Hekenoa Pebino,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,34,"8,00",,,TUHAKAMARU,Vairite,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,32,"7,53",,,TUHOE,Leila,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,178,"41,88",,,TUHOE,Mahinui,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,0,"0,00",,,URAINA,François Turatahi,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,33,"7,76",,,UTIA,Bernice Havaiki,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,165,"38,82",,,UTIA,David,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,209,"49,18",,,WILLIAMS,Tavi Christian,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",482,56,426,0,1,425,majoritaire,,,,,216,"50,82",,,YIP,Calixte Robert Teroki,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,111,"44,40",,,BROWN,Sylvie Tahia,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,130,"52,00",,,HAAPII,Basile,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,8,"3,20",,,HAUATA,Leon,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,3,"1,20",,,MAU,Raimana,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,1,"0,40",,,MAUATI,Sabine,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,6,"2,40",,,NOHO,Amanda-Heimana,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,3,"1,20",,,PITO,Vaite Rosalie,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,111,"44,40",,,TAPI,Adeline Matuatua,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,3,"1,20",,,TAPI,Hans,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,1,"0,40",,,TAPI,Vaiarii Moe,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,112,"44,80",,,TEATA,Marie-Rose,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,132,"52,80",,,TEATA,Michel,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,111,"44,40",,,TEATA,Ruaragi,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,111,"44,40",,,TEIKIHAKAUPOKO,Poetai,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,3,"1,20",,,TEIRI,Gerard,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,129,"51,60",,,TETOOFA,Rémi Tekehu,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,7,"2,80",,,TEUA,Thomas,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,133,"53,20",,,TEURI,Hauroa Roger,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,1,"0,40",,,TIAIHO,Taihoro Desmey,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,112,"44,80",,,TUFAKAMARU,Jacques,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,7,"2,80",,,TUFAKAMARU,Ragihere,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,129,"51,60",,,TUFAUNUI,Léonard Reonari,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,111,"44,40",,,WILLIAMS,Albert,NON
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,130,"52,00",,,WILLIAMS,Fernand Fariua,OUI
+polynesie,987,Polynésie française,98711,Anaa,2,"100,00",281,29,252,0,2,250,majoritaire,,,,,129,"51,60",,,WILLIAMS,Joseph Vitua,OUI
+polynesie,987,Polynésie française,98713,Arutua,2,"100,00",1553,341,1212,448,29,735,proportionnel,1,TEHOTU NO ARUTUA KAUKURA APATAKI,,,735,"100,00",19,,TAPUTUARAI,Reupena,OUI
+polynesie,987,Polynésie française,98716,Fakarava,2,"100,00",1484,172,1312,8,7,1297,proportionnel,1,VEHI TOKU OIRE,,,684,"52,74",16,,MARO,Etienne,OUI
+polynesie,987,Polynésie française,98716,Fakarava,2,"100,00",1484,172,1312,8,7,1297,proportionnel,4,TE AHO API,,,613,"47,26",3,,TEIKIOTIU,Teononui O Tiu Alexandre,OUI
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,51,"47,66",,,AHINI,Rautea Robertha,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,51,"47,66",,,ARUTAHI,Nadia Rangitake,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,0,"0,00",,,ATGER,Amélia,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,56,"52,34",,,HAPIPI,Tunui Rogatien,OUI
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,56,"52,34",,,IOANE,Ghislaine Isabelle Raita,OUI
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,56,"52,34",,,MARUAKE,Albert Mapu,OUI
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,51,"47,66",,,MARUAKE,Talida Heimaru,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,0,"0,00",,,NUI,Clément,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,0,"0,00",,,PUA,Nadia,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,51,"47,66",,,RAI,Jean-Philippe,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,56,"52,34",,,TAMU,Agnés Teraiefa,OUI
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,51,"47,66",,,TEATO,Jean-Yann Hitinui Emanuera,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,56,"52,34",,,TEFAU,Sergio Tehani,OUI
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,0,"0,00",,,TEHIVA,Puniava,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,51,"47,66",,,TEHIVA,Vetea Pierre,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,0,"0,00",,,TINIRAU ÉPOUSE MANEA,Françoise,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,56,"52,34",,,TORIKI,Rosella Pare,OUI
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,16,107,0,0,107,majoritaire,,,,,0,"0,00",,,VOIRIN,Raymond,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,11,112,0,1,111,majoritaire,,,,,57,"51,35",,,DIAZ,André,OUI
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,11,112,0,1,111,majoritaire,,,,,52,"46,85",,,HIO,Utita,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,11,112,0,1,111,majoritaire,,,,,52,"46,85",,,IOTEFA,Gabrielle Huriamana,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,11,112,0,1,111,majoritaire,,,,,2,"1,80",,,ITURAGI,Raymond,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,11,112,0,1,111,majoritaire,,,,,57,"51,35",,,ITURAGI,Vanessa Taururagi,OUI
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,11,112,0,1,111,majoritaire,,,,,57,"51,35",,,MAPU,Veronika,OUI
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,11,112,0,1,111,majoritaire,,,,,57,"51,35",,,NATUA,Karere,OUI
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,11,112,0,1,111,majoritaire,,,,,2,"1,80",,,PATER,Tematai Heidi,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,11,112,0,1,111,majoritaire,,,,,52,"46,85",,,PENEHATA,Valentine Terai,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,11,112,0,1,111,majoritaire,,,,,57,"51,35",,,SHAN,Catherine,OUI
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,11,112,0,1,111,majoritaire,,,,,52,"46,85",,,TAAKI,Tehinano,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,11,112,0,1,111,majoritaire,,,,,2,"1,80",,,TEPEHU,Michel,NON
+polynesie,987,Polynésie française,98717,Fangatau,2,"100,00",123,11,112,0,1,111,majoritaire,,,,,52,"46,85",,,TUNUTU,René,NON
+polynesie,987,Polynésie française,98719,Gambier,2,"100,00",1196,65,1131,0,4,1127,proportionnel,2,UNION DES MANGAREVIENS,LDVD,Liste divers droite,596,"52,88",15,,GOODING,Vai Vianello,OUI
+polynesie,987,Polynésie française,98719,Gambier,2,"100,00",1196,65,1131,0,4,1127,proportionnel,4,MATAGI ORA,LDVD,Liste divers droite,531,"47,12",4,,TEAPIKI-TEKOPUNUI,Joséphine,OUI
+polynesie,987,Polynésie française,98722,Hitiaa O Te Ra,2,"100,00",7983,2391,5592,44,34,5514,proportionnel,6,TAPURA AMUI NO HITIAA O TE RA,LREG,Liste régionaliste,2057,"37,31",6,,DOMINGO,Dauphin,OUI
+polynesie,987,Polynésie française,98722,Hitiaa O Te Ra,2,"100,00",7983,2391,5592,44,34,5514,proportionnel,5,TAVINI IA HITIA'A O TE RA,LREG,Liste régionaliste,628,"11,39",0,,MAONO,Vincent,NON
+polynesie,987,Polynésie française,98722,Hitiaa O Te Ra,2,"100,00",7983,2391,5592,44,34,5514,proportionnel,4,HOTURAU NO HITIAA O TE RA,LDVD,Liste divers droite,2829,"51,31",27,,FLOHR,Henri,OUI
+polynesie,987,Polynésie française,98726,Makemo,2,"100,00",1385,192,1193,2,2,1189,proportionnel,5,TAMARIKI ORURO NO MAKEMO E TONA HAGA MOTU A TIKA,,,613,"51,56",12,,FOURNIER,Vaitiare,OUI
+polynesie,987,Polynésie française,98726,Makemo,2,"100,00",1385,192,1193,2,2,1189,proportionnel,2,TOKU OIRE HERE,,,576,"48,44",3,,TOKORAGI,Félix,OUI
+polynesie,987,Polynésie française,98727,Manihi,2,"100,00",1049,111,938,1,6,931,proportionnel,2,NO TE UI' API NO ANANAHI,,,328,"35,23",3,,HAOATAI,Mireille,OUI
+polynesie,987,Polynésie française,98727,Manihi,2,"100,00",1049,111,938,1,6,931,proportionnel,1,O HIVA I TE ORA API,,,273,"29,32",2,,HAPIPI,Alain,OUI
+polynesie,987,Polynésie française,98727,Manihi,2,"100,00",1049,111,938,1,6,931,proportionnel,5,MATAI API NO MANIHI E AHE,,,330,"35,45",10,,LANCELLE,Herman,OUI
+polynesie,987,Polynésie française,98728,Maupiti,2,"100,00",1158,95,1063,1,22,1040,proportionnel,3,NO KO'U FENUA,,,433,"41,63",3,,RAUFAUORE,Woullingson Etera,OUI
+polynesie,987,Polynésie française,98728,Maupiti,2,"100,00",1158,95,1063,1,22,1040,proportionnel,2,MAURUA TO'U AHO ORA,,,607,"58,37",12,,ATUAHIVA,Mareto,OUI
+polynesie,987,Polynésie française,98728,Maupiti,2,"100,00",1158,95,1063,1,22,1040,proportionnel,1,TE VAI ORA NO MAURUA,,,0,"0,00",0,,TAURUA,Euric,NON
+polynesie,987,Polynésie française,98729,Moorea-Maiao,2,"81,81",10846,3327,7519,26,18,7475,proportionnel,4,TAVINI HUIRAATIRA NO MOOREA-MAIAO,LREG,Liste régionaliste,2072,"27,72",0,,KELLEY,Christiane,NON
+polynesie,987,Polynésie française,98729,Moorea-Maiao,2,"81,81",10846,3327,7519,26,18,7475,proportionnel,3,MOOREA MAIAO TO'U FENUA,LDVD,Liste divers droite,2435,"32,58",0,,HAUMANI,Evans,NON
+polynesie,987,Polynésie française,98729,Moorea-Maiao,2,"81,81",10846,3327,7519,26,18,7475,proportionnel,1,MOOREA MAIAO A TIA MAI,LDVD,Liste divers droite,1589,"21,26",0,,FIRIAPU,Ataria,NON
+polynesie,987,Polynésie française,98729,Moorea-Maiao,2,"81,81",10846,3327,7519,26,18,7475,proportionnel,2,"MOOREA-MAIAO, IA ORA NA",LDVD,Liste divers droite,665,"8,90",0,,CHAVEY ÉPSE TEINARATAI,Temaire,NON
+polynesie,987,Polynésie française,98729,Moorea-Maiao,2,"81,81",10846,3327,7519,26,18,7475,proportionnel,5,HERE MOOREA-MAIAO,LDVD,Liste divers droite,714,"9,55",0,,HARING,Réginal Puaiti,NON
+polynesie,987,Polynésie française,98734,Papara,2,"55,55",4700,1689,3011,10,15,2986,proportionnel,3,A HERE IA PAPARA,LDVD,Liste divers droite,281,"9,41",0,,PUNUA,Sonia,NON
+polynesie,987,Polynésie française,98734,Papara,2,"55,55",4700,1689,3011,10,15,2986,proportionnel,2,TAVINI TE OIRE NO PAPARA,LREG,Liste régionaliste,1074,"35,97",0,,FLORES-LE GAYIC,Béatrice,NON
+polynesie,987,Polynésie française,98734,Papara,2,"55,55",4700,1689,3011,10,15,2986,proportionnel,4,PAPARA NO ANANAHI,LDVD,Liste divers droite,231,"7,74",0,,RIMA,Fabien Mata,NON
+polynesie,987,Polynésie française,98734,Papara,2,"55,55",4700,1689,3011,10,15,2986,proportionnel,1,PAPARA TE HONO TI'A,LDIV,Liste Divers,1400,"46,89",0,,TEISSIER,Mike Ariipeu Teiho,NON
+polynesie,987,Polynésie française,98735,Papeete,2,"75,00",14472,6080,8392,51,44,8297,proportionnel,4,TAMA NO PAPEETE,LDVD,Liste divers droite,1837,"22,14",0,,TEMEHARO,René,NON
+polynesie,987,Polynésie française,98735,Papeete,2,"75,00",14472,6080,8392,51,44,8297,proportionnel,1,TUTAHI IA PAPEETE,LREG,Liste régionaliste,1976,"23,82",0,,LE GAYIC,Tematai,NON
+polynesie,987,Polynésie française,98735,Papeete,2,"75,00",14472,6080,8392,51,44,8297,proportionnel,2,PAPEETE NA MUA ROA,LDVD,Liste divers droite,3514,"42,35",0,,BRILLANT,Rémy Heitapu,NON
+polynesie,987,Polynésie française,98735,Papeete,2,"75,00",14472,6080,8392,51,44,8297,proportionnel,3,PAPEETE TO'U OIRE,LREG,Liste régionaliste,970,"11,69",0,,NENA,Tauhiti,NON
+polynesie,987,Polynésie française,98739,Raivavae,2,"100,00",267,106,161,2,1,158,majoritaire,,,,,0,"0,00",,,ANI,Columbo,NON
+polynesie,987,Polynésie française,98739,Raivavae,2,"100,00",267,106,161,2,1,158,majoritaire,,,,,85,"53,80",,,HAUATA,Reiarii,OUI
+polynesie,987,Polynésie française,98739,Raivavae,2,"100,00",267,106,161,2,1,158,majoritaire,,,,,73,"46,20",,,TAMAITITAHIO,Claudius,NON
+polynesie,987,Polynésie française,98739,Raivavae,2,"100,00",267,106,161,2,1,158,majoritaire,,,,,0,"0,00",,,TEIPOARII,Teina,NON
+polynesie,987,Polynésie française,98739,Raivavae,2,"100,00",267,106,161,2,1,158,majoritaire,,,,,0,"0,00",,,TUMARAE,Marcella,NON
+polynesie,987,Polynésie française,98739,Raivavae,2,"100,00",204,47,157,0,4,153,majoritaire,,,,,0,"0,00",,,FLORES,Tenaue,NON
+polynesie,987,Polynésie française,98739,Raivavae,2,"100,00",204,47,157,0,4,153,majoritaire,,,,,35,"22,88",,,MAHAA,Christo,NON
+polynesie,987,Polynésie française,98739,Raivavae,2,"100,00",204,47,157,0,4,153,majoritaire,,,,,17,"11,11",,,MAHAA,Maru,NON
+polynesie,987,Polynésie française,98739,Raivavae,2,"100,00",204,47,157,0,4,153,majoritaire,,,,,0,"0,00",,,MANAIA,Kany,NON
+polynesie,987,Polynésie française,98739,Raivavae,2,"100,00",204,47,157,0,4,153,majoritaire,,,,,22,"14,38",,,TEAPEHU,Grimald,NON
+polynesie,987,Polynésie française,98739,Raivavae,2,"100,00",204,47,157,0,4,153,majoritaire,,,,,92,"60,13",,,TEHAHE,Antinea,OUI
+polynesie,987,Polynésie française,98739,Raivavae,2,"100,00",204,47,157,0,4,153,majoritaire,,,,,62,"40,52",,,TEVAATUA,Joachim,OUI
+polynesie,987,Polynésie française,98739,Raivavae,2,"100,00",204,47,157,0,4,153,majoritaire,,,,,57,"37,25",,,VARUATUA,Euloge,NON
+polynesie,987,Polynésie française,98745,Tahaa,2,"87,50",4414,789,3625,11,29,3585,proportionnel,6,TAVINI IA TAHAA,LREG,Liste régionaliste,945,"26,36",0,,TAMAEHU,Pascal,NON
+polynesie,987,Polynésie française,98745,Tahaa,2,"87,50",4414,789,3625,11,29,3585,proportionnel,7,TAHAA NUI TO'U FENUA,LDVD,Liste divers droite,1178,"32,86",0,,TEROROIRIA,Martial Marama,NON
+polynesie,987,Polynésie française,98745,Tahaa,2,"87,50",4414,789,3625,11,29,3585,proportionnel,4,TE U'I NO TAHAA,LREG,Liste régionaliste,285,"7,95",0,,TERAIARUE,Tevahiarii,NON
+polynesie,987,Polynésie française,98745,Tahaa,2,"87,50",4414,789,3625,11,29,3585,proportionnel,3,PUNA VAI ORA NO TAHAA,LDVD,Liste divers droite,1177,"32,83",0,,MARTIN,Alfred,NON
+polynesie,987,Polynésie française,98747,Taiarapu-Est,2,"63,63",6453,2510,3943,25,31,3887,proportionnel,3,A HOE AROHI A NO TAIARAPU EST,LDVD,Liste divers droite,643,"16,54",0,,JAMET,Anthony,NON
+polynesie,987,Polynésie française,98747,Taiarapu-Est,2,"63,63",6453,2510,3943,25,31,3887,proportionnel,4,IA HURA TE MANA,LREG,Liste régionaliste,814,"20,94",0,,MAAMAATUAIAHUTAPU,Keitapu,NON
+polynesie,987,Polynésie française,98747,Taiarapu-Est,2,"63,63",6453,2510,3943,25,31,3887,proportionnel,1,FAAHOTU IA TAIARAPU,LDVD,Liste divers droite,1692,"43,53",0,,CHUNG SAO,Willy,NON
+polynesie,987,Polynésie française,98747,Taiarapu-Est,2,"63,63",6453,2510,3943,25,31,3887,proportionnel,5,TE UI API TE ORA NO ANANAHI,LDVD,Liste divers droite,738,"18,99",0,,LUCAS,Béatrice,NON
+polynesie,987,Polynésie française,98748,Taiarapu-Ouest,2,"100,00",6735,2251,4484,29,22,4433,proportionnel,1,ENSEMBLE POUR DEMAIN - IA HOE TATOU NO ANANAHI,LDVD,Liste divers droite,1828,"41,24",22,,TAPUTU,Faana,OUI
+polynesie,987,Polynésie française,98748,Taiarapu-Ouest,2,"100,00",6735,2251,4484,29,22,4433,proportionnel,3,TAIARAPU TO'O'A O TE RA TO'U ORA,LDVD,Liste divers droite,1728,"38,98",7,,HAMBLIN,Tetuanui,OUI
+polynesie,987,Polynésie française,98748,Taiarapu-Ouest,2,"100,00",6735,2251,4484,29,22,4433,proportionnel,5,TAIARAPU OUEST UNIE,LDVC,Liste divers centre,344,"7,76",0,,TUFARIUA,Tamu,NON
+polynesie,987,Polynésie française,98748,Taiarapu-Ouest,2,"100,00",6735,2251,4484,29,22,4433,proportionnel,2,TE ARE API,LDVD,Liste divers droite,533,"12,02",0,,MATI,Arthur Ariioehau,NON
+polynesie,987,Polynésie française,98749,Takaroa,2,"100,00",1307,156,1151,4,2,1145,proportionnel,4,TAKAROA TAKAPOTO TOKU KAIGA,,,542,"47,34",3,,TEMAHAGA,Aramona Panaho,OUI
+polynesie,987,Polynésie française,98749,Takaroa,2,"100,00",1307,156,1151,4,2,1145,proportionnel,1,MATAGI API NO TAKAPUA TAKAARO,,,603,"52,66",12,,ALVAREZ,Reynold Remuera,OUI
+polynesie,987,Polynésie française,98753,Tubuai,2,"100,00",1991,400,1591,4,13,1574,proportionnel,2,AHO NUI A TU PUAI,LREG,Liste régionaliste,382,"24,27",2,,TAU,Rachel,NON
+polynesie,987,Polynésie française,98753,Tubuai,2,"100,00",1991,400,1591,4,13,1574,proportionnel,6,TAVINI IA TUPUAI,LREG,Liste régionaliste,309,"19,63",0,,TAHUHUTERANI,Jimmy,NON
+polynesie,987,Polynésie française,98753,Tubuai,2,"100,00",1991,400,1591,4,13,1574,proportionnel,1,IA HO'E IA HOTU MAITA'I 'O TUPUAI - ENSEMBLE POUR LE DEVELOPPEMENT DE TUBUAI,LDVD,Liste divers droite,883,"56,10",17,,TAHIATA,Fernand,OUI
+polynesie,987,Polynésie française,98754,Tumaraa,2,"100,00",3344,556,2788,16,37,2735,proportionnel,7,TE REO O TE NUNAA,LREG,Liste régionaliste,1397,"51,08",20,,GOLTZ,Gérard,OUI
+polynesie,987,Polynésie française,98754,Tumaraa,2,"100,00",3344,556,2788,16,37,2735,proportionnel,6,TAPURA AMUI,LDVD,Liste divers droite,1338,"48,92",7,,COLOMES,Moemoea,OUI
