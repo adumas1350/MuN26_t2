@@ -403,9 +403,9 @@ communes,13,Bouches-du-Rhône,13047,Istres,2,"100,00",31536,10312,21224,364,237,
 communes,13,Bouches-du-Rhône,13050,Lambesc,2,"100,00",7883,2970,4913,57,54,4802,proportionnel,1,LAMBESC EN TÊTE,LDVG,Liste divers gauche,1245,"25,93",4,4,BERGA,François,OUI
 communes,13,Bouches-du-Rhône,13050,Lambesc,2,"100,00",7883,2970,4913,57,54,4802,proportionnel,3,LAMBESC NOUVEL ELAN,LDVD,Liste divers droite,1535,"31,97",5,5,BLANC,Claire,OUI
 communes,13,Bouches-du-Rhône,13050,Lambesc,2,"100,00",7883,2970,4913,57,54,4802,proportionnel,2,LAMBESC LE RENOUVEAU,LDVC,Liste divers centre,2022,"42,11",24,24,RAZEYRE,Philippe,OUI
-communes,13,Bouches-du-Rhône,13055,Marseille,2,"97,78",539566,241599,297967,3362,3129,291476,proportionnel,3,MARSEILLE JE T'AIME AVEC MARTINE VASSAL,LDVD,Liste divers droite,15572,"5,34",0,0,VASSAL,Martine,NON
-communes,13,Bouches-du-Rhône,13055,Marseille,2,"97,78",539566,241599,297967,3362,3129,291476,proportionnel,7,"POUR MARSEILLE, LA GAUCHE, LES ECOLOGISTES ET LES CITOYENS RASSEMBLES",LUG,Liste d'union à gauche,158931,"54,53",0,0,PAYAN,Benoît,NON
-communes,13,Bouches-du-Rhône,13055,Marseille,2,"97,78",539566,241599,297967,3362,3129,291476,proportionnel,4,MARSEILLE EN ORDRE,LRN,Liste du Rassemblement National,116973,"40,13",0,0,ALLISIO,Franck,NON
+communes,13,Bouches-du-Rhône,13055,Marseille,2,"99,19",549512,245545,303967,3426,3182,297359,proportionnel,3,MARSEILLE JE T'AIME AVEC MARTINE VASSAL,LDVD,Liste divers droite,15944,"5,36",0,0,VASSAL,Martine,NON
+communes,13,Bouches-du-Rhône,13055,Marseille,2,"99,19",549512,245545,303967,3426,3182,297359,proportionnel,7,"POUR MARSEILLE, LA GAUCHE, LES ECOLOGISTES ET LES CITOYENS RASSEMBLES",LUG,Liste d'union à gauche,161279,"54,24",0,0,PAYAN,Benoît,NON
+communes,13,Bouches-du-Rhône,13055,Marseille,2,"99,19",549512,245545,303967,3426,3182,297359,proportionnel,4,MARSEILLE EN ORDRE,LRN,Liste du Rassemblement National,120136,"40,40",0,0,ALLISIO,Franck,NON
 communes,13,Bouches-du-Rhône,13056,Martigues,2,"100,00",36072,15239,20833,291,244,20298,proportionnel,1,"Martigues-belle, fière et sûre",LRN,Liste du Rassemblement National,7115,"35,05",7,7,FOUQUART,Emmanuel,OUI
 communes,13,Bouches-du-Rhône,13056,Martigues,2,"100,00",36072,15239,20833,291,244,20298,proportionnel,4,GABY CHARROUX POUR MARTIGUES !,LDVG,Liste divers gauche,8959,"44,14",32,32,CHARROUX,Gaby,OUI
 communes,13,Bouches-du-Rhône,13056,Martigues,2,"100,00",36072,15239,20833,291,244,20298,proportionnel,5,UN AVENIR POUR MARTIGUES,LDVD,Liste divers droite,4224,"20,81",4,4,DI MARIA,Jean Luc,OUI
@@ -3877,9 +3877,9 @@ communes,91,Essonne,91347,Longpont-sur-Orge,2,"100,00",4625,2113,2512,23,17,2472
 communes,91,Essonne,91377,Massy,2,"100,00",30660,15470,15190,154,103,14933,proportionnel,4,Changer d'air !,LSOC,Liste du Parti socialiste,1872,"12,54",2,2,CULIOLI,Charles,OUI
 communes,91,Essonne,91377,Massy,2,"100,00",30660,15470,15190,154,103,14933,proportionnel,3,Massy pour vous,LUC,Liste d'union au centre,8245,"55,21",36,36,SAMSOEN,Nicolas,OUI
 communes,91,Essonne,91377,Massy,2,"100,00",30660,15470,15190,154,103,14933,proportionnel,7,Pour que Massy respire,LUG,Liste d'union à gauche,4816,"32,25",7,7,KRIBI-ROMDHANE,Hella,OUI
-communes,91,Essonne,91421,Montgeron,2,"100,00",15891,6771,9120,83,59,8978,proportionnel,2,Montgeron en commun 2026,LUG,Liste d'union à gauche,3280,"36,53",0,0,CIÉPLINSKI,Céline,NON
-communes,91,Essonne,91421,Montgeron,2,"100,00",15891,6771,9120,83,59,8978,proportionnel,3,Engagés pour Montgeron,LEXD,Liste d'extrême droite,1309,"14,58",0,0,MILOSEVIC,Stefan,NON
-communes,91,Essonne,91421,Montgeron,2,"100,00",15891,6771,9120,83,59,8978,proportionnel,1,Montgeron pour la vie !,LLR,Liste des Républicains,4389,"48,89",0,0,CARILLON,Sylvie,NON
+communes,91,Essonne,91421,Montgeron,2,"100,00",15891,6771,9120,83,59,8978,proportionnel,2,Montgeron en commun 2026,LUG,Liste d'union à gauche,3280,"36,53",6,6,CIÉPLINSKI,Céline,OUI
+communes,91,Essonne,91421,Montgeron,2,"100,00",15891,6771,9120,83,59,8978,proportionnel,3,Engagés pour Montgeron,LEXD,Liste d'extrême droite,1309,"14,58",2,2,MILOSEVIC,Stefan,OUI
+communes,91,Essonne,91421,Montgeron,2,"100,00",15891,6771,9120,83,59,8978,proportionnel,1,Montgeron pour la vie !,LLR,Liste des Républicains,4389,"48,89",27,27,CARILLON,Sylvie,OUI
 communes,91,Essonne,91477,Palaiseau,2,"100,00",22365,9618,12747,247,127,12373,proportionnel,8,Rassembler Palaiseau,LUG,Liste d'union à gauche,5579,"45,09",9,9,FINEL,Olivier,OUI
 communes,91,Essonne,91477,Palaiseau,2,"100,00",22365,9618,12747,247,127,12373,proportionnel,2,100% Palaiseau avec Grégoire de Lasteyrie,LDVC,Liste divers centre,6794,"54,91",30,30,DE LASTEYRIE,Grégoire,OUI
 communes,91,Essonne,91521,Ris-Orangis,2,"100,00",15309,7480,7829,90,67,7672,proportionnel,1,RENOUVEAU CITOYEN RIS-ORANGIS,LDIV,Liste Divers,3793,"49,44",30,30,BENAMEUR,Sonia,OUI
@@ -3956,9 +3956,9 @@ communes,93,Seine-Saint-Denis,93006,Bagnolet,2,"100,00",20984,10950,10034,434,0,
 communes,93,Seine-Saint-Denis,93006,Bagnolet,2,"100,00",20984,10950,10034,434,0,9600,proportionnel,6,Bagnolet collectif,LVEC,Liste Les Ecologistes,5057,"52,68",33,33,DENOUEL,Edouard,OUI
 communes,93,Seine-Saint-Denis,93007,Le Blanc-Mesnil,2,"100,00",28740,13399,15341,188,103,15050,proportionnel,2,THIERRY 2026,LUD,Liste d'union à droite,7301,"48,51",12,12,MEIGNEN,Thierry,OUI
 communes,93,Seine-Saint-Denis,93007,Le Blanc-Mesnil,2,"100,00",28740,13399,15341,188,103,15050,proportionnel,6,BLANC MESNIL UNI,LDVG,Liste divers gauche,7749,"51,49",37,37,TRAORE,Demba,OUI
-communes,93,Seine-Saint-Denis,93008,Bobigny,2,"100,00",25827,15214,10613,185,126,10302,proportionnel,2,Bobigny d'abord,LDVD,Liste divers droite,782,"7,59",1,1,CHALOIS AIT-AHMED,Yasmina,OUI
-communes,93,Seine-Saint-Denis,93008,Bobigny,2,"100,00",25827,15214,10613,185,126,10302,proportionnel,8,BOBIGNY POPULAIRE,LDVG,Liste divers gauche,4947,"48,02",34,34,SADI,Abdel,OUI
-communes,93,Seine-Saint-Denis,93008,Bobigny,2,"100,00",25827,15214,10613,185,126,10302,proportionnel,9,BOBIGNY DEBOUT !,LDVC,Liste divers centre,4573,"44,39",10,10,MESQUITA,Jimmy,OUI
+communes,93,Seine-Saint-Denis,93008,Bobigny,2,"100,00",25827,15211,10616,186,128,10302,proportionnel,2,Bobigny d'abord,LDVD,Liste divers droite,782,"7,59",1,1,CHALOIS AIT-AHMED,Yasmina,OUI
+communes,93,Seine-Saint-Denis,93008,Bobigny,2,"100,00",25827,15211,10616,186,128,10302,proportionnel,8,BOBIGNY POPULAIRE,LDVG,Liste divers gauche,4947,"48,02",34,34,SADI,Abdel,OUI
+communes,93,Seine-Saint-Denis,93008,Bobigny,2,"100,00",25827,15211,10616,186,128,10302,proportionnel,9,BOBIGNY DEBOUT !,LDVC,Liste divers centre,4573,"44,39",10,10,MESQUITA,Jimmy,OUI
 communes,93,Seine-Saint-Denis,93010,Bondy,2,"100,00",26784,14292,12492,246,146,12100,proportionnel,3,"Avec Stephen Hervé, continuons ensemble pour l'avenir de Bondy",LDVD,Liste divers droite,6123,"50,60",34,34,HERVÉ,Stephen,OUI
 communes,93,Seine-Saint-Denis,93010,Bondy,2,"100,00",26784,14292,12492,246,146,12100,proportionnel,7,ÊTRE BONDY,LFI,Liste de La France insoumise,5977,"49,40",11,11,OZGUNER,Mehmet,OUI
 communes,93,Seine-Saint-Denis,93013,Le Bourget,2,"100,00",6906,3014,3892,55,53,3784,proportionnel,2,"LE BOURGET, LES PISTES DU SUCCÈS",LDVD,Liste divers droite,1813,"47,91",8,8,BORSALI,Jean-Baptiste,OUI
@@ -4141,34 +4141,34 @@ communes,95,Val-d'Oise,95641,Vémars,2,"100,00",1944,798,1146,7,4,1135,proportio
 communes,95,Val-d'Oise,95641,Vémars,2,"100,00",1944,798,1146,7,4,1135,proportionnel,3,VEMARS ENSEMBLE POUR L'AVENIR,,,309,"27,22",3,3,DIDIER,Frédéric,OUI
 communes,95,Val-d'Oise,95680,Villiers-le-Bel,2,"100,00",13689,6881,6808,74,78,6656,proportionnel,1,"AVEC VOUS, POUR VOUS",LSOC,Liste du Parti socialiste,3415,"51,31",30,30,TECHTACH,Djida,OUI
 communes,95,Val-d'Oise,95680,Villiers-le-Bel,2,"100,00",13689,6881,6808,74,78,6656,proportionnel,4,VIILIERS LE BEL EN AVANT TOUS ENSEMBLE,LFI,Liste de La France insoumise,3241,"48,69",9,9,BILONGO,Carlos Martens,OUI
-communes,971,Guadeloupe,97102,Anse-Bertrand,2,"37,50",1055,283,772,11,20,741,proportionnel,4,"Anse-bertrand, Terre d'avenir",LDVD,Liste divers droite,320,"43,18",0,0,DELTA,Edouard,NON
-communes,971,Guadeloupe,97102,Anse-Bertrand,2,"37,50",1055,283,772,11,20,741,proportionnel,2,AGIR MAINTENANT POUR DEMAIN,LDVG,Liste divers gauche,421,"56,82",0,0,MOUSTACHE,Daniel,NON
-communes,971,Guadeloupe,97103,Baie-Mahault,2,"69,23",14264,7027,7237,124,147,6966,proportionnel,3,L'ALLIANCE DEMOCRATIQUE,LDIV,Liste Divers,2387,"34,27",0,0,CHALUS,Ary,NON
-communes,971,Guadeloupe,97103,Baie-Mahault,2,"69,23",14264,7027,7237,124,147,6966,proportionnel,6,LA FORCE DU RENOUVEAU,LDVG,Liste divers gauche,770,"11,05",0,0,CHAMMOUGOM ANNO,Sylvie,NON
-communes,971,Guadeloupe,97103,Baie-Mahault,2,"69,23",14264,7027,7237,124,147,6966,proportionnel,7,LE COEUR BAIE-MAHAULTIEN,LDVC,Liste divers centre,3809,"54,68",0,0,MADO,Michel,NON
+communes,971,Guadeloupe,97102,Anse-Bertrand,2,"62,50",1646,436,1210,17,35,1158,proportionnel,4,"Anse-bertrand, Terre d'avenir",LDVD,Liste divers droite,522,"45,08",0,0,DELTA,Edouard,NON
+communes,971,Guadeloupe,97102,Anse-Bertrand,2,"62,50",1646,436,1210,17,35,1158,proportionnel,2,AGIR MAINTENANT POUR DEMAIN,LDVG,Liste divers gauche,636,"54,92",0,0,MOUSTACHE,Daniel,NON
+communes,971,Guadeloupe,97103,Baie-Mahault,2,"76,92",16270,7847,8423,134,161,8128,proportionnel,3,L'ALLIANCE DEMOCRATIQUE,LDIV,Liste Divers,2795,"34,39",0,0,CHALUS,Ary,NON
+communes,971,Guadeloupe,97103,Baie-Mahault,2,"76,92",16270,7847,8423,134,161,8128,proportionnel,6,LA FORCE DU RENOUVEAU,LDVG,Liste divers gauche,907,"11,16",0,0,CHAMMOUGOM ANNO,Sylvie,NON
+communes,971,Guadeloupe,97103,Baie-Mahault,2,"76,92",16270,7847,8423,134,161,8128,proportionnel,7,LE COEUR BAIE-MAHAULTIEN,LDVC,Liste divers centre,4426,"54,45",0,0,MADO,Michel,NON
 communes,971,Guadeloupe,97109,Gourbeyre,2,"71,42",3822,1562,2260,46,59,2155,proportionnel,3,GOURBEYRE AUTREMENT,LDIV,Liste Divers,400,"18,56",0,0,THOMAS,Fabienne Sylvie,NON
 communes,971,Guadeloupe,97109,Gourbeyre,2,"71,42",3822,1562,2260,46,59,2155,proportionnel,5,L'unité Gourbeyrienne,LDVD,Liste divers droite,809,"37,54",0,0,CIVIS,Marguerite,NON
 communes,971,Guadeloupe,97109,Gourbeyre,2,"71,42",3822,1562,2260,46,59,2155,proportionnel,1,GOUBE AN NOU,LDIV,Liste Divers,946,"43,90",0,0,EDMOND,Claude,NON
 communes,971,Guadeloupe,97110,La Désirade,2,"100,00",1643,273,1370,16,26,1328,proportionnel,4,"Ensemble, Allons plus loin pour la Désirade",,,750,"56,48",12,12,TONTON,Loïc,OUI
 communes,971,Guadeloupe,97110,La Désirade,2,"100,00",1643,273,1370,16,26,1328,proportionnel,6,"ENSEMBLE, REPRENONS LE CAP POUR UNE DESIRADE GAGNANTE",,,578,"43,52",3,3,PIOCHE,Jean-Claude,OUI
-communes,971,Guadeloupe,97112,Grand-Bourg,2,"33,33",566,178,388,2,11,375,proportionnel,1,ENSEMBLE CONSTRUISONS DEMAIN,LDIV,Liste Divers,154,"41,07",0,0,SELBONNE,Yohann,NON
-communes,971,Guadeloupe,97112,Grand-Bourg,2,"33,33",566,178,388,2,11,375,proportionnel,2,"GRAND-BOURG 2030, ECRIVONS LA SUITE ENSEMBLE",LDVG,Liste divers gauche,221,"58,93",0,0,ETZOL,Maryse,NON
-communes,971,Guadeloupe,97113,Le Gosier,2,"48,00",7659,4054,3605,55,76,3474,proportionnel,10,LE GOSIER C'EST NOUS ENSEMBLE,LDIV,Liste Divers,1639,"47,18",0,0,HOTIN,Michel,NON
-communes,971,Guadeloupe,97113,Le Gosier,2,"48,00",7659,4054,3605,55,76,3474,proportionnel,11,POUR MIEUX REUSSIR LE GOSIER,LDIV,Liste Divers,1835,"52,82",0,0,SYLVAIN,Keeter,NON
-communes,971,Guadeloupe,97114,Goyave,2,"37,50",1214,424,790,6,15,769,proportionnel,5,GOYAVE EN MOUVEMENT,LDVG,Liste divers gauche,286,"37,19",0,0,LOUISY,Ferdy,NON
-communes,971,Guadeloupe,97114,Goyave,2,"37,50",1214,424,790,6,15,769,proportionnel,4,UNIS POUR GOYAVE,LDVC,Liste divers centre,483,"62,81",0,0,EDOM,Jean-Luc,NON
+communes,971,Guadeloupe,97112,Grand-Bourg,2,"33,33",1401,424,977,15,16,946,proportionnel,1,ENSEMBLE CONSTRUISONS DEMAIN,LDIV,Liste Divers,446,"47,15",0,0,SELBONNE,Yohann,NON
+communes,971,Guadeloupe,97112,Grand-Bourg,2,"33,33",1401,424,977,15,16,946,proportionnel,2,"GRAND-BOURG 2030, ECRIVONS LA SUITE ENSEMBLE",LDVG,Liste divers gauche,500,"52,85",0,0,ETZOL,Maryse,NON
+communes,971,Guadeloupe,97113,Le Gosier,2,"52,00",9986,5295,4691,87,114,4490,proportionnel,10,LE GOSIER C'EST NOUS ENSEMBLE,LDIV,Liste Divers,2204,"49,09",0,0,HOTIN,Michel,NON
+communes,971,Guadeloupe,97113,Le Gosier,2,"52,00",9986,5295,4691,87,114,4490,proportionnel,11,POUR MIEUX REUSSIR LE GOSIER,LDIV,Liste Divers,2286,"50,91",0,0,SYLVAIN,Keeter,NON
+communes,971,Guadeloupe,97114,Goyave,2,"37,50",1978,727,1251,15,26,1210,proportionnel,5,GOYAVE EN MOUVEMENT,LDVG,Liste divers gauche,487,"40,25",0,0,LOUISY,Ferdy,NON
+communes,971,Guadeloupe,97114,Goyave,2,"37,50",1978,727,1251,15,26,1210,proportionnel,4,UNIS POUR GOYAVE,LDVC,Liste divers centre,723,"59,75",0,0,EDOM,Jean-Luc,NON
 communes,971,Guadeloupe,97122,Port-Louis,2,"100,00",5430,1413,4017,53,114,3850,proportionnel,2,"REUSSIR PORT-LOUIS ""POURSUIVONS""",LDVG,Liste divers gauche,1792,"46,55",6,6,HUBERT,Jean-Marie Patrice,OUI
 communes,971,Guadeloupe,97122,Port-Louis,2,"100,00",5430,1413,4017,53,114,3850,proportionnel,4,Ansanm Pou Polwi,LUG,Liste d'union à gauche,2058,"53,45",23,23,ARTHEIN,Victor Urbain,OUI
-communes,971,Guadeloupe,97124,Saint-Claude,2,"60,00",4353,1931,2422,25,38,2359,proportionnel,1,SAINT-CLAUDE EN COMMUN,LDIV,Liste Divers,172,"7,29",0,0,COUPAN,Rebecca,NON
-communes,971,Guadeloupe,97124,Saint-Claude,2,"60,00",4353,1931,2422,25,38,2359,proportionnel,2,Faire Plus pour tous,LDIV,Liste Divers,353,"14,96",0,0,PANOL,Thierry,NON
-communes,971,Guadeloupe,97124,Saint-Claude,2,"60,00",4353,1931,2422,25,38,2359,proportionnel,3,SAINT-CLAUDE UNIS,LDVG,Liste divers gauche,914,"38,75",0,0,MINATCHY,Fabrice,NON
-communes,971,Guadeloupe,97124,Saint-Claude,2,"60,00",4353,1931,2422,25,38,2359,proportionnel,4,"Fiers et responsables, la continuité dans un nouvel élan",LDVG,Liste divers gauche,920,"39,00",0,0,VITALIS,Cédric Michel,NON
-communes,971,Guadeloupe,97125,Saint-François,2,"56,25",5310,2619,2691,58,68,2565,proportionnel,3,Union pour Saint-François,LDIV,Liste Divers,410,"15,98",0,0,MARY,Teddy,NON
-communes,971,Guadeloupe,97125,Saint-François,2,"56,25",5310,2619,2691,58,68,2565,proportionnel,4,EN ACTION POUR SAINT-FRANCOIS,LDVG,Liste divers gauche,726,"28,30",0,0,PEROUMAL,Sophie,NON
-communes,971,Guadeloupe,97125,Saint-François,2,"56,25",5310,2619,2691,58,68,2565,proportionnel,1,Ensemble continuons d'agir,LDIV,Liste Divers,1429,"55,71",0,0,PERIAN,Jean-Luc,NON
-communes,971,Guadeloupe,97128,Sainte-Anne,2,"100,00",18262,8524,9738,173,287,9278,proportionnel,4,"SAINTE-ANNE AVEC VOUS, POUR VOUS !",LDVG,Liste divers gauche,2379,"25,64",0,0,FARO EPOUSE COURIOL,Lydia,NON
-communes,971,Guadeloupe,97128,Sainte-Anne,2,"100,00",18262,8524,9738,173,287,9278,proportionnel,9,LE RENOUVEAU SAINTANNAIS,LDIV,Liste Divers,3357,"36,18",0,0,PERRAN,Diana,NON
-communes,971,Guadeloupe,97128,Sainte-Anne,2,"100,00",18262,8524,9738,173,287,9278,proportionnel,8,RASSEMBLEMENT DEMOCRATIQUE SAINTANNAIS,LDVG,Liste divers gauche,3542,"38,18",0,0,BAPTISTE,Francs,NON
+communes,971,Guadeloupe,97124,Saint-Claude,2,"70,00",5257,2231,3026,31,48,2947,proportionnel,1,SAINT-CLAUDE EN COMMUN,LDIV,Liste Divers,187,"6,35",0,0,COUPAN,Rebecca,NON
+communes,971,Guadeloupe,97124,Saint-Claude,2,"70,00",5257,2231,3026,31,48,2947,proportionnel,2,Faire Plus pour tous,LDIV,Liste Divers,386,"13,10",0,0,PANOL,Thierry,NON
+communes,971,Guadeloupe,97124,Saint-Claude,2,"70,00",5257,2231,3026,31,48,2947,proportionnel,3,SAINT-CLAUDE UNIS,LDVG,Liste divers gauche,1346,"45,67",0,0,MINATCHY,Fabrice,NON
+communes,971,Guadeloupe,97124,Saint-Claude,2,"70,00",5257,2231,3026,31,48,2947,proportionnel,4,"Fiers et responsables, la continuité dans un nouvel élan",LDVG,Liste divers gauche,1028,"34,88",0,0,VITALIS,Cédric Michel,NON
+communes,971,Guadeloupe,97125,Saint-François,2,"62,50",6571,3207,3364,81,84,3199,proportionnel,3,Union pour Saint-François,LDIV,Liste Divers,524,"16,38",0,0,MARY,Teddy,NON
+communes,971,Guadeloupe,97125,Saint-François,2,"62,50",6571,3207,3364,81,84,3199,proportionnel,4,EN ACTION POUR SAINT-FRANCOIS,LDVG,Liste divers gauche,881,"27,54",0,0,PEROUMAL,Sophie,NON
+communes,971,Guadeloupe,97125,Saint-François,2,"62,50",6571,3207,3364,81,84,3199,proportionnel,1,Ensemble continuons d'agir,LDIV,Liste Divers,1794,"56,08",0,0,PERIAN,Jean-Luc,NON
+communes,971,Guadeloupe,97128,Sainte-Anne,2,"100,00",18994,8822,10172,178,296,9698,proportionnel,4,"SAINTE-ANNE AVEC VOUS, POUR VOUS !",LDVG,Liste divers gauche,2461,"25,38",4,4,FARO EPOUSE COURIOL,Lydia,OUI
+communes,971,Guadeloupe,97128,Sainte-Anne,2,"100,00",18994,8822,10172,178,296,9698,proportionnel,9,LE RENOUVEAU SAINTANNAIS,LDIV,Liste Divers,3490,"35,99",6,6,PERRAN,Diana,OUI
+communes,971,Guadeloupe,97128,Sainte-Anne,2,"100,00",18994,8822,10172,178,296,9698,proportionnel,8,RASSEMBLEMENT DEMOCRATIQUE SAINTANNAIS,LDVG,Liste divers gauche,3747,"38,64",25,25,BAPTISTE,Francs,OUI
 communes,971,Guadeloupe,97132,Trois-Rivières,2,"100,00",7466,2822,4644,46,96,4502,proportionnel,4,TROIS-RIVIERES ENSEMBLE,LDIV,Liste Divers,2152,"47,80",7,7,FAUSTA,Jimmy,OUI
 communes,971,Guadeloupe,97132,Trois-Rivières,2,"100,00",7466,2822,4644,46,96,4502,proportionnel,3,"Agissons Ensemble, Allons encore plus loin",LDVC,Liste divers centre,2350,"52,20",22,22,FRANCISQUE,Jean-Louis,OUI
 communes,972,Martinique,97202,Les Anses-d'Arlet,2,"100,00",3468,989,2479,18,36,2425,proportionnel,2,AGIR AVEC AUDACE POUR LES ANSES D'ARLETS,LDVG,Liste divers gauche,1161,"47,88",6,6,CHARMET,Michaël,OUI
@@ -4192,11 +4192,11 @@ communes,973,Guyane,97306,Mana,2,"100,00",3375,1032,2343,9,10,2324,proportionnel
 communes,973,Guyane,97306,Mana,2,"100,00",3375,1032,2343,9,10,2324,proportionnel,4,NOUVEL ELAN MANANAIS,LDIV,Liste Divers,1133,"48,75",8,8,JADFARD,Jean-Claude,OUI
 communes,973,Guyane,97307,Matoury,2,"100,00",15077,7537,7540,124,112,7304,proportionnel,4,Viv Matoury,LREG,Liste régionaliste,3541,"48,48",9,9,GRAND-EMILE,Eline,OUI
 communes,973,Guyane,97307,Matoury,2,"100,00",15077,7537,7540,124,112,7304,proportionnel,2,Matoury 2026 - AVEC VOUS ENCORE PLUS LOIN,LDVG,Liste divers gauche,3763,"51,52",30,30,SMOCK,Serge,OUI
-communes,973,Guyane,97311,Saint-Laurent-du-Maroni,2,"56,25",10603,4335,6268,48,39,6181,proportionnel,1,DIVERSITÉ SAINT LAURENT POUR TOUS,LDIV,Liste Divers,1855,"30,01",0,0,CHARLES,Sophie,NON
-communes,973,Guyane,97311,Saint-Laurent-du-Maroni,2,"56,25",10603,4335,6268,48,39,6181,proportionnel,2,"NOTRE VILLE, NOTRE HISTOIRE, NOTRE AVENIR",LDIV,Liste Divers,2600,"42,06",0,0,ADAM,Lénaïck,NON
-communes,973,Guyane,97311,Saint-Laurent-du-Maroni,2,"56,25",10603,4335,6268,48,39,6181,proportionnel,4,UNIS POUR UN SEUL OBJECTIF SAINT-LAURENT DU MARONI,LDIV,Liste Divers,1726,"27,92",0,0,BERTRAND,Léon,NON
-communes,973,Guyane,97313,Montsinéry-Tonnegrande,2,"50,00",588,160,428,5,3,420,proportionnel,2,"MONTSINERY-TONNEGRANDE ""PARTAGEONS NOTRE AVENIR""",LDIV,Liste Divers,329,"78,33",0,0,LABEAU,Patrick,NON
-communes,973,Guyane,97313,Montsinéry-Tonnegrande,2,"50,00",588,160,428,5,3,420,proportionnel,5,AGIR POUR MONTSINERY-TONNEGRANDE,LDVG,Liste divers gauche,91,"21,67",0,0,PORTHOS,Christian,NON
+communes,973,Guyane,97311,Saint-Laurent-du-Maroni,2,"75,00",12963,5251,7712,52,41,7619,proportionnel,1,DIVERSITÉ SAINT LAURENT POUR TOUS,LDIV,Liste Divers,2216,"29,09",0,0,CHARLES,Sophie,NON
+communes,973,Guyane,97311,Saint-Laurent-du-Maroni,2,"75,00",12963,5251,7712,52,41,7619,proportionnel,2,"NOTRE VILLE, NOTRE HISTOIRE, NOTRE AVENIR",LDIV,Liste Divers,3261,"42,80",0,0,ADAM,Lénaïck,NON
+communes,973,Guyane,97311,Saint-Laurent-du-Maroni,2,"75,00",12963,5251,7712,52,41,7619,proportionnel,4,UNIS POUR UN SEUL OBJECTIF SAINT-LAURENT DU MARONI,LDIV,Liste Divers,2142,"28,11",0,0,BERTRAND,Léon,NON
+communes,973,Guyane,97313,Montsinéry-Tonnegrande,2,"100,00",1632,485,1147,25,17,1105,proportionnel,2,"MONTSINERY-TONNEGRANDE ""PARTAGEONS NOTRE AVENIR""",LDIV,Liste Divers,639,"57,83",22,22,LABEAU,Patrick,OUI
+communes,973,Guyane,97313,Montsinéry-Tonnegrande,2,"100,00",1632,485,1147,25,17,1105,proportionnel,5,AGIR POUR MONTSINERY-TONNEGRANDE,LDVG,Liste divers gauche,466,"42,17",5,5,PORTHOS,Christian,OUI
 communes,973,Guyane,97353,Maripasoula,2,"100,00",2669,845,1824,12,16,1796,proportionnel,5,MAINTENANT AGISSONS POUR L'AVENIR,LDVG,Liste divers gauche,1024,"57,02",23,23,ABIENSO,Jonathan,OUI
 communes,973,Guyane,97353,Maripasoula,2,"100,00",2669,845,1824,12,16,1796,proportionnel,1,Ensemble poursuivons le developpement,LDVG,Liste divers gauche,772,"42,98",6,6,ANELLI,Serge,OUI
 communes,974,La Réunion,97408,La Possession,2,"100,00",26407,11454,14953,208,178,14567,proportionnel,7,LE CHANGEMENT C'EST NOUS,LDVG,Liste divers gauche,7334,"50,35",30,30,FONTAINE,Erick,OUI

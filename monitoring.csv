@@ -4361,7 +4361,7 @@ code,nom,pourcentage,complet
 13052,Maillane,0,non
 13053,Mallemort,0,non
 13054,Marignane,0,non
-13055,Marseille,"97,78",non
+13055,Marseille,"99,19",non
 13056,Martigues,"100,00",oui
 13057,Mas-Blanc-des-Alpilles,0,non
 13058,Maussane-les-Alpilles,0,non
@@ -34588,8 +34588,8 @@ code,nom,pourcentage,complet
 95682,Villiers-le-Sec,0,non
 95690,Wy-dit-Joli-Village,0,non
 97101,Les Abymes,0,non
-97102,Anse-Bertrand,"37,50",non
-97103,Baie-Mahault,"69,23",non
+97102,Anse-Bertrand,"62,50",non
+97103,Baie-Mahault,"76,92",non
 97104,Baillif,0,non
 97105,Basse-Terre,0,non
 97106,Bouillante,0,non
@@ -34599,7 +34599,7 @@ code,nom,pourcentage,complet
 97110,La Désirade,"100,00",oui
 97111,Deshaies,0,non
 97112,Grand-Bourg,"33,33",non
-97113,Le Gosier,"48,00",non
+97113,Le Gosier,"52,00",non
 97114,Goyave,"37,50",non
 97115,Lamentin,0,non
 97116,Morne-à-l'Eau,0,non
@@ -34609,8 +34609,8 @@ code,nom,pourcentage,complet
 97120,Pointe-à-Pitre,0,non
 97121,Pointe-Noire,0,non
 97122,Port-Louis,"100,00",oui
-97124,Saint-Claude,"60,00",non
-97125,Saint-François,"56,25",non
+97124,Saint-Claude,"70,00",non
+97125,Saint-François,"62,50",non
 97126,Saint-Louis,0,non
 97128,Sainte-Anne,"100,00",oui
 97129,Sainte-Rose,0,non
@@ -34663,9 +34663,9 @@ code,nom,pourcentage,complet
 97308,Saint-Georges,0,non
 97309,Remire-Montjoly,0,non
 97310,Roura,0,non
-97311,Saint-Laurent-du-Maroni,"56,25",non
+97311,Saint-Laurent-du-Maroni,"75,00",non
 97312,Sinnamary,0,non
-97313,Montsinéry-Tonnegrande,"50,00",non
+97313,Montsinéry-Tonnegrande,"100,00",oui
 97314,Ouanary,0,non
 97352,Saül,0,non
 97353,Maripasoula,"100,00",oui
