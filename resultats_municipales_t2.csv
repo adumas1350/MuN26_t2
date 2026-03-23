@@ -1645,8 +1645,8 @@ communes,44,Loire-Atlantique,44087,Machecoul-Saint-Même,2,"100,00",6282,2471,38
 communes,44,Loire-Atlantique,44103,Montoir-de-Bretagne,2,"100,00",5220,2627,2593,47,30,2516,proportionnel,1,C@P MONTOIR,LDVG,Liste divers gauche,1052,"41,81",21,21,PLISSONNEAU,Pascal,OUI
 communes,44,Loire-Atlantique,44103,Montoir-de-Bretagne,2,"100,00",5220,2627,2593,47,30,2516,proportionnel,3,UNIS POUR MONTOIR,LDVG,Liste divers gauche,1004,"39,90",6,6,NOGUET,Thierry,OUI
 communes,44,Loire-Atlantique,44103,Montoir-de-Bretagne,2,"100,00",5220,2627,2593,47,30,2516,proportionnel,2,MONTOIR POUR TOUS Rassemblement de la Gauche,LDVG,Liste divers gauche,460,"18,28",2,2,PENNANEC'H,Malorie,OUI
-communes,44,Loire-Atlantique,44109,Nantes,2,"100,00",203158,75082,128076,3021,1178,123877,proportionnel,10,La gauche unie pour Nantes,LDVG,Liste divers gauche,64644,"52,18",53,53,ROLLAND,Johanna,OUI
-communes,44,Loire-Atlantique,44109,Nantes,2,"100,00",203158,75082,128076,3021,1178,123877,proportionnel,8,VOTRE NOUVEAU SOUFFLE POUR NANTES,LDVD,Liste divers droite,59233,"47,82",16,16,CHOMBART DE LAUWE,Foulques,OUI
+communes,44,Loire-Atlantique,44109,Nantes,2,"100,00",203158,75082,128076,3023,1176,123877,proportionnel,10,La gauche unie pour Nantes,LDVG,Liste divers gauche,64644,"52,18",53,53,ROLLAND,Johanna,OUI
+communes,44,Loire-Atlantique,44109,Nantes,2,"100,00",203158,75082,128076,3023,1176,123877,proportionnel,8,VOTRE NOUVEAU SOUFFLE POUR NANTES,LDVD,Liste divers droite,59233,"47,82",16,16,CHOMBART DE LAUWE,Foulques,OUI
 communes,44,Loire-Atlantique,44129,Pontchâteau,2,"100,00",8669,3674,4995,94,49,4852,proportionnel,2,PONTCHÂTEAU AVEC VOUS,LDVG,Liste divers gauche,2501,"51,55",25,25,POILVÉ,Stéphane,OUI
 communes,44,Loire-Atlantique,44129,Pontchâteau,2,"100,00",8669,3674,4995,94,49,4852,proportionnel,3,S'unir pour Pont-Chateau,LDVC,Liste divers centre,2351,"48,45",8,8,CHAUVIRÉ,Guillaume,OUI
 communes,44,Loire-Atlantique,44131,Pornic,2,"100,00",16472,5674,10798,86,69,10643,proportionnel,3,PORNIC VENT D'AVENIR,LDVC,Liste divers centre,6061,"56,95",27,27,HUBERT,Antoine,OUI
@@ -3121,9 +3121,9 @@ arrondissements_plm,75,Paris,75119,Paris 19eme arrondissement,2,"100,00",114921,
 arrondissements_plm,75,Paris,75120,Paris 20eme arrondissement,2,"100,00",121888,50368,71520,811,654,70055,proportionnel,5,LE NOUVEAU PARIS POPULAIRE 20e,LFI,Liste de La France insoumise,16672,"23,80",,,DE LA ROCHEFOUCAULD,Sophie,
 arrondissements_plm,75,Paris,75120,Paris 20eme arrondissement,2,"100,00",121888,50368,71520,811,654,70055,proportionnel,2,Le 20e est à vous! Avec Eric Pliez et Emmanuel Grégoire L'union de la gauche et des écologistes,LUG,Liste d'union à gauche,37818,"53,98",,,PLIEZ,Eric,
 arrondissements_plm,75,Paris,75120,Paris 20eme arrondissement,2,"100,00",121888,50368,71520,811,654,70055,proportionnel,7,CHANGER PARIS 20 AVEC FRANÇOIS-MARIE DIDIER ET RACHIDA DATI,LUD,Liste d'union à droite,15565,"22,22",,,DIDIER,François-Marie,
-communes,75,Paris,75056,Paris,2,"99,77",1401541,538369,863172,12198,5686,845288,proportionnel,5,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,LUG,Liste d'union à gauche,427001,"50,52",0,0,GRÉGOIRE,Emmanuel,NON
-communes,75,Paris,75056,Paris,2,"99,77",1401541,538369,863172,12198,5686,845288,proportionnel,10,CHANGER PARIS AVEC RACHIDA DATI,LUD,Liste d'union à droite,350919,"41,51",0,0,DATI,Rachida,NON
-communes,75,Paris,75056,Paris,2,"99,77",1401541,538369,863172,12198,5686,845288,proportionnel,8,LE NOUVEAU PARIS POPULAIRE,LFI,Liste de La France insoumise,67368,"7,97",0,0,CHIKIROU,Sophia,NON
+communes,75,Paris,75056,Paris,2,"99,77",1404863,539497,865366,12238,5696,847432,proportionnel,5,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,LUG,Liste d'union à gauche,428143,"50,52",103,103,GRÉGOIRE,Emmanuel,OUI
+communes,75,Paris,75056,Paris,2,"99,77",1404863,539497,865366,12238,5696,847432,proportionnel,10,CHANGER PARIS AVEC RACHIDA DATI,LUD,Liste d'union à droite,351825,"41,52",51,51,DATI,Rachida,OUI
+communes,75,Paris,75056,Paris,2,"99,77",1404863,539497,865366,12238,5696,847432,proportionnel,8,LE NOUVEAU PARIS POPULAIRE,LFI,Liste de La France insoumise,67464,"7,96",9,9,CHIKIROU,Sophia,OUI
 communes,76,Seine-Maritime,76025,Argueil,2,"100,00",271,53,218,0,0,218,proportionnel,3,Tous ensemble pour Argueil,,,23,"10,55",0,,ROSA,Nathaly,NON
 communes,76,Seine-Maritime,76025,Argueil,2,"100,00",271,53,218,0,0,218,proportionnel,2,UNE CONTINUITÉ POUR TOUS,,,119,"54,59",9,,BRÉQUIGNY,Isabelle,OUI
 communes,76,Seine-Maritime,76025,Argueil,2,"100,00",271,53,218,0,0,218,proportionnel,1,Un nouvel avenir pour Argueil,,,76,"34,86",2,,DUHAMEL,Elodie,OUI
