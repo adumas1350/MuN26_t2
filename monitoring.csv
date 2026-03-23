@@ -34588,8 +34588,8 @@ code,nom,pourcentage,complet
 95682,Villiers-le-Sec,0,non
 95690,Wy-dit-Joli-Village,0,non
 97101,Les Abymes,0,non
-97102,Anse-Bertrand,"25,00",non
-97103,Baie-Mahault,"65,38",non
+97102,Anse-Bertrand,"37,50",non
+97103,Baie-Mahault,"69,23",non
 97104,Baillif,0,non
 97105,Basse-Terre,0,non
 97106,Bouillante,0,non
@@ -34598,9 +34598,9 @@ code,nom,pourcentage,complet
 97109,Gourbeyre,"71,42",non
 97110,La Désirade,"100,00",oui
 97111,Deshaies,0,non
-97112,Grand-Bourg,"16,66",non
-97113,Le Gosier,"40,00",non
-97114,Goyave,"25,00",non
+97112,Grand-Bourg,"33,33",non
+97113,Le Gosier,"48,00",non
+97114,Goyave,"37,50",non
 97115,Lamentin,0,non
 97116,Morne-à-l'Eau,0,non
 97117,Le Moule,0,non
@@ -34608,11 +34608,11 @@ code,nom,pourcentage,complet
 97119,Petit-Canal,0,non
 97120,Pointe-à-Pitre,0,non
 97121,Pointe-Noire,0,non
-97122,Port-Louis,"83,33",non
+97122,Port-Louis,"100,00",oui
 97124,Saint-Claude,"60,00",non
-97125,Saint-François,"43,75",non
+97125,Saint-François,"56,25",non
 97126,Saint-Louis,0,non
-97128,Sainte-Anne,"96,00",non
+97128,Sainte-Anne,"100,00",oui
 97129,Sainte-Rose,0,non
 97130,Terre-de-Bas,0,non
 97131,Terre-de-Haut,0,non
